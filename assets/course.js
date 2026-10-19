@@ -70,12 +70,12 @@ try{
 (() => {
   if (!document.querySelector('script[data-olv-english-videos]')) {
     const script = document.createElement('script');
-    script.src = '/igcsefurthermaths/video-library/student-videos.js?v=d80938ba07';
+    script.src = '/igcsefurthermaths/video-library/student-videos.js?v=075949606f';
     script.dataset.olvEnglishVideos = 'true';
     document.head.append(script);
   }
   for (const nav of document.querySelectorAll('.course-nav')) {
-    if (nav.querySelector('[data-video-lessons]')) continue;
+    continue;   // this subject has no video lessons yet
     const link = document.createElement('a');
     link.className = 'nav-primary'; link.dataset.videoLessons = '';
     link.href = '/igcsefurthermaths/video-library/'; link.textContent = 'Video Lessons';

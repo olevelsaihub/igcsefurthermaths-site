@@ -29,6 +29,31 @@ function fp_mk_numbers(string $text, bool $fractions = false): array {
     return array_map(function ($x) { return $x[1]; }, $out);
 }
 
+// accept_text (4PM1): the normalised form appears in the normalised answer and is not part of a longer number,
+// so 'K=2' does not match 'K=25' or 'K=-2'. Same rule as marking.py and the page.
+function fp_mk_norm($t) { return preg_replace('/\.+$/', '', strtoupper(preg_replace('/[\s,\'"`\x{2018}\x{2019}\x{201C}\x{201D}]/u', '', (string)$t))); }
+function fp_mk_text_hit($answer, $forms) {
+    foreach (explode("\n", (string)$answer) as $line) if (fp_mk_line_hit($line, $forms)) return true;   // norm drops newlines: "k=2\n5n=3" is not "K=25N=3"
+    return false;
+}
+function fp_mk_line_hit($line, $forms) {
+    $got = fp_mk_norm($line);
+    foreach ((array)$forms as $f) {
+        $n = fp_mk_norm($f);
+        if ($n === '') continue;
+        $start = strpos($got, $n);
+        while ($start !== false) {
+            $before = $start > 0 ? $got[$start - 1] : '';
+            $after = $got[$start + strlen($n)] ?? '';
+            $next = $got[$start + strlen($n) + 1] ?? '';
+            $term = ctype_digit(substr($n, -1)) && ctype_alpha($after) && !ctype_alpha($next);   // "Y=2" is not "Y=2X+1"; "K=2AND" is fine
+            if (!($before !== '' && (ctype_digit($before) || $before === '.' || $before === '-')) && !(ctype_digit($after) || $after === '.' || $after === '/') && !$term) return true;
+            $start = strpos($got, $n, $start + 1);
+        }
+    }
+    return false;
+}
+
 function fp_mk_close(float $x, array $values, float $tol): bool {
     foreach ($values as $v) if (abs($x - (float)$v) <= max($tol, 1e-9) + 1e-9) return true;
     return false;
@@ -61,7 +86,8 @@ function fp_mk_check(array $rule, string $answer): array {
         foreach ($rule['partial'] ?? [] as $p) {
             $hit = false;
             // method marks need the intermediate value itself: within 0.2% (at least 0.0005), not a loose band
-            foreach ($nums as $n) foreach ($p['accept_values'] ?? [] as $v) if (abs($n - (float)$v) <= max(abs((float)$v) * 0.002, 0.0005) + 1e-9) { $hit = true; break 2; }
+            if (array_key_exists('accept_text', $p)) $hit = fp_mk_text_hit($answer, $p['accept_text']);
+            else foreach ($nums as $n) foreach ($p['accept_values'] ?? [] as $v) if (abs($n - (float)$v) <= max(abs((float)$v) * 0.002, 0.0005) + 1e-9) { $hit = true; break 2; }
             $steps[] = ['label' => $p['label'], 'found' => $hit];
             if ($hit) $got += (int)$p['marks'];
         }
@@ -96,7 +122,8 @@ function fp_mk_check(array $rule, string $answer): array {
                 continue;
             }
             $hit = false;
-            foreach ($nums as $n) foreach ($it['accept_values'] ?? [] as $v) if (abs($n - (float)$v) <= max(abs((float)$v) * 0.002, 0.0005) + 1e-9) { $hit = true; break 2; }
+            if (array_key_exists('accept_text', $it)) $hit = fp_mk_text_hit($answer, $it['accept_text']);
+            else foreach ($nums as $n) foreach ($it['accept_values'] ?? [] as $v) if (abs($n - (float)$v) <= max(abs((float)$v) * 0.002, 0.0005) + 1e-9) { $hit = true; break 2; }
             if (!$hit) foreach ($it['accept_words'] ?? [] as $w) {
                 $w = ' ' . trim(preg_replace('/[^a-z0-9]+/', ' ', strtolower((string)$w))) . ' ';
                 if (strpos($low, $w) !== false) { $hit = true; break; }
