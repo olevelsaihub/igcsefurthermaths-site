@@ -8,16 +8,25 @@
  */
 declare(strict_types=1);
 
-function fp_mk_numbers(string $text): array {
+function fp_mk_numbers(string $text, bool $fractions = false): array {
     $out = [];
     // Mirrors marking.py: a thousands separator is one space, thin space or comma before exactly three digits.
-    if (!preg_match_all('/[-\x{2212}\x{2013}]?\d{1,3}(?:[ ,\x{2009}\x{202F}\x{00A0}]\d{3})+(?!\d)(?:\.\d+)?|[-\x{2212}\x{2013}]?\d+(?:\.\d+)?/u', $text, $m)) return $out;
-    foreach ($m[0] as $raw) {
-        $raw = preg_replace('/[ ,\x{2009}\x{202F}\x{00A0}]/u', '', $raw);
-        $raw = str_replace(["\u{2212}", "\u{2013}"], ['-', '-'], $raw);
-        if (is_numeric($raw)) $out[] = (float)$raw;
+    if (preg_match_all('/[-\x{2212}\x{2013}]?\d{1,3}(?:[ ,\x{2009}\x{202F}\x{00A0}]\d{3})+(?!\d)(?:\.\d+)?|[-\x{2212}\x{2013}]?\d+(?:\.\d+)?/u', $text, $m, PREG_OFFSET_CAPTURE)) {
+        foreach ($m[0] as $hit) {
+            $raw = preg_replace('/[ ,\x{2009}\x{202F}\x{00A0}]/u', '', $hit[0]);
+            $raw = str_replace(["\u{2212}", "\u{2013}"], ['-', '-'], $raw);
+            if (is_numeric($raw)) $out[] = [(float)$hit[1], (float)$raw];
+        }
     }
-    return $out;
+    // Rule flag (4PM1): "95/2" also counts as 47.5, after its parts, so it is the last number (as the page does).
+    if ($fractions && preg_match_all('/([-\x{2212}\x{2013}]?\d+(?:\.\d+)?)\s*\/\s*(\d+(?:\.\d+)?)/u', $text, $f, PREG_SET_ORDER | PREG_OFFSET_CAPTURE)) {
+        foreach ($f as $hit) {
+            $b = (float)$hit[2][0];
+            if ($b != 0.0) $out[] = [$hit[0][1] + strlen($hit[0][0]) - 0.5, (float)str_replace(["\u{2212}", "\u{2013}"], ['-', '-'], $hit[1][0]) / $b];
+        }
+    }
+    usort($out, function ($x, $y) { return $x[0] <=> $y[0]; });
+    return array_map(function ($x) { return $x[1]; }, $out);
 }
 
 function fp_mk_close(float $x, array $values, float $tol): bool {
@@ -42,7 +51,7 @@ function fp_mk_check(array $rule, string $answer): array {
     if ($mode === 'numeric') {
         $ans = $rule['answer'];
         $tol = (float)($ans['tol'] ?? 0);
-        $nums = fp_mk_numbers($answer);
+        $nums = fp_mk_numbers($answer, !empty($rule['fractions']));
         $final = $nums ? end($nums) : null;
         if ($final !== null && fp_mk_close($final, $ans['values'], $tol)) {
             return ['mode' => 'numeric', 'marks' => $rule['max'], 'max' => $rule['max'], 'correct' => true,
@@ -59,8 +68,25 @@ function fp_mk_check(array $rule, string $answer): array {
         return ['mode' => 'numeric', 'marks' => min($got, $rule['max'] - 1), 'max' => $rule['max'], 'correct' => false,
                 'steps' => $steps, 'working' => $rule['working'] ?? '', 'why' => $rule['why'] ?? ''];
     }
+    if ($mode === 'exact') {   // same normalising as the page (olv-marking-adapter.js norm) and marking.py
+        $norm = function ($t) { return preg_replace('/\.+$/', '', strtoupper(preg_replace('/[\s,\'"`\x{2018}\x{2019}\x{201C}\x{201D}]/u', '', (string)$t))); };
+        $got = $norm($answer);
+        foreach (($rule['answer']['accept'] ?? []) as $a) {
+            if ($got === $norm($a)) return ['mode' => 'exact', 'marks' => $rule['max'], 'max' => $rule['max'], 'correct' => true,
+                'working' => $rule['working'] ?? '', 'why' => $rule['why'] ?? ''];
+        }
+        $got_marks = 0; $steps = [];
+        foreach (($rule['partial'] ?? []) as $p) {
+            $hit = false;
+            foreach (($p['accept'] ?? []) as $a) { $n = $norm($a); if ($n !== '' && strpos($got, $n) !== false) { $hit = true; break; } }
+            $steps[] = ['label' => $p['label'], 'found' => $hit];
+            if ($hit) $got_marks += (int)$p['marks'];
+        }
+        return ['mode' => 'exact', 'marks' => min($got_marks, $rule['max'] - 1), 'max' => $rule['max'], 'correct' => false,
+                'steps' => $steps, 'working' => $rule['working'] ?? '', 'why' => $rule['why'] ?? ''];
+    }
     if ($mode === 'figures') {
-        $nums = fp_mk_numbers($answer);
+        $nums = fp_mk_numbers($answer, !empty($rule['fractions']));
         $low = ' ' . preg_replace('/[^a-z0-9]+/', ' ', strtolower($answer)) . ' ';
         $got = 0; $own = 0; $items = [];
         foreach ($rule['items'] as $it) {

@@ -1,5 +1,5 @@
-import { CHECKER_VERSION, cleanAnswer, evaluateChoice, currentAttempt, mergeAttempt } from './response-checker-core.mjs?v=2';
-import { checkWrittenAnswer } from './written-response-core.mjs?v=1';
+import { CHECKER_VERSION, cleanAnswer, evaluateChoice, currentAttempt, mergeAttempt } from './response-checker-core.mjs?v=d80938ba07';
+import { checkWrittenAnswer } from './written-response-core.mjs?v=d80938ba07';
 
 const storageKey = 'igcsefurthermaths-practice-results-v1';
 const markingApi = '/igcsefurthermaths/';
@@ -80,6 +80,8 @@ function getMarkingSession(refresh = false) {
 }
 
 async function markOnServer(root, answer) {
+  const local = window.OlvMarkingAdapter?.local?.(root, answer);
+  if (local) return { result: local };
   for (const retry of [false, true]) {
     const session = await getMarkingSession(retry);
     if (!session?.csrf) return { unavailable: true };
