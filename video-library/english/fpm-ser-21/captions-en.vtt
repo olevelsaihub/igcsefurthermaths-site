@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.339
+Idea. A canteen has two menus. Every starter can go with every main. Multiplying brackets works the same way: every term in one meets every term in the other. Here, one of them is a binomial series.
+
+00:00:14.920 --> 00:00:26.308
+A fraction is a product. One plus x, over two plus three x, is one plus x, times two plus three x, to the minus one. Expand the power, then multiply.
+
+00:00:26.880 --> 00:00:37.723
+The formula needs a bracket that starts with one. Take out the two: two plus three x is two, times one plus three x over two. Two to the minus one is a half.
+
+00:00:38.280 --> 00:00:49.671
+Now collect each power. The x cubed term is one times the x cubed term, plus x times the x squared term. Anything else is x to the fourth or more, so ignore it.
+
+00:00:50.240 --> 00:00:55.732
+So you multiply a series by another bracket, keep only the terms you need, and collect.
+
+00:00:56.840 --> 00:01:07.206
+Method. Step one: write division as a product, and get the binomial series. Step two: multiply each term of one factor by each term of the other.
+
+00:01:07.760 --> 00:01:16.959
+Step three: keep terms up to the stated power, and collect like powers. Step four: if a coefficient is given, form an equation and solve.
+
+00:01:17.520 --> 00:01:23.027
+The trap is a missing cross term. The x cubed coefficient has two parts, not one.
+
+00:01:24.160 --> 00:01:41.765
+Worked example. June twenty twenty two. From part b, the series for two plus three x, to the minus one, is given. f of x is one plus x, over two plus three x. Obtain a series for f of x up to x cubed, with exact fractions. Two marks.
+
+00:01:42.320 --> 00:01:47.158
+Step one: write f of x as a product, one plus x, times the series.
+
+00:01:47.720 --> 00:01:54.657
+Step two: multiply out. One times the series, then x times the series. Keep terms up to x cubed.
+
+00:01:55.240 --> 00:02:06.717
+A tempting wrong route takes x cubed from the first row only, minus twenty seven sixteenths. That misses the cross term, nine eighths. Both rows give an x cubed term.
+
+00:02:07.280 --> 00:02:18.736
+Step three: collect. Constant: a half. x: minus three quarters, plus a half, is minus a quarter. x squared: nine eighths, minus three quarters, is three eighths.
+
+00:02:19.320 --> 00:02:39.383
+So f of x is a half, minus a quarter x, plus three eighths x squared, minus nine sixteenths x cubed. Check with x equal to nought point one: nought point four seven eight two, against nought point four seven eight three. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:40.520 --> 00:02:50.001
+Common mistake. A common mistake is keeping terms beyond the stated power. The question stops at x cubed, so leave out x to the fourth.
+
+00:02:51.120 --> 00:03:09.447
+Your turn. Now you try, from June twenty twenty three. From part a, the series for one plus two x, to the minus a third, is given. Obtain a series for f of x up to x cubed, with k in the coefficients. Three marks. Write your answer, then choose Continue to Answer.
+
+00:03:10.560 --> 00:03:25.348
+Answer. Write f of x as two plus k x squared, times the series. Two times every term gives two, minus four thirds x, plus sixteen ninths x squared, minus two hundred and twenty four eighty firsts x cubed.
+
+00:03:25.920 --> 00:03:35.899
+Now k x squared times the series. Only two terms reach x cubed: k x squared, and minus two k over three x cubed. Add the lines.
+
+00:03:36.480 --> 00:03:49.161
+The common wrong answer misses the cross term, giving the x cubed coefficient as just minus two hundred and twenty four eighty firsts. The k x squared line adds minus two k over three.
+
+00:03:49.720 --> 00:03:54.705
+Remember: get the series, multiply, keep to the stated power, and collect.

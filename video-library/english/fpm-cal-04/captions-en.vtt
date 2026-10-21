@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.645
+Idea. Whirl a ball on a string, then let go. It flies off in a straight line that touches the circle at one point. In maths, that line is called a tangent.
+
+00:00:11.200 --> 00:00:24.159
+Gradient means steepness: how much y rises per step along x. A curve has a different gradient at each point: it is d y by d x at that x. The tangent has that same gradient.
+
+00:00:24.720 --> 00:00:32.549
+With the gradient m and the point, write the straight line: y minus y one equals m times x minus x one.
+
+00:00:33.120 --> 00:00:42.960
+These questions ask for the equation of a tangent, or where it meets an axis. On the x-axis, y is zero. On the y-axis, x is zero.
+
+00:00:44.080 --> 00:00:56.257
+Method. Step one: find the point. If only x is given, put it into the curve for y. Step two: differentiate, then put x into d y by d x. That is the gradient.
+
+00:00:56.840 --> 00:01:08.220
+Step three: write y minus y one equals m times x minus x one. Step four: rearrange as asked, or put y or x equal to zero for an axis.
+
+00:01:08.800 --> 00:01:16.361
+The trap: using the height as the gradient. The curve gives the height. Only d y by d x gives the gradient.
+
+00:01:17.480 --> 00:01:38.999
+Worked example. November twenty twenty. Curve C one is y equals five e to the minus two x, plus four. Curve C two is y equals e to the two x. They meet at A. The tangent at A to C one meets the x-axis at B. Show that the x coordinate of B is a half of five plus ln five. Five marks.
+
+00:01:39.560 --> 00:01:51.156
+Step one: the point. Part a finds A. Set the curves equal, let u be e to the two x, and solve: u is five. So x is a half ln five, and y is five.
+
+00:01:51.720 --> 00:02:02.881
+Step two: the gradient. Differentiate C one: minus ten e to the minus two x. At A, e to the minus two x is one fifth, so the gradient is minus two.
+
+00:02:03.440 --> 00:02:10.404
+Step three: the tangent. y minus five equals minus two times x minus a half ln five.
+
+00:02:10.960 --> 00:02:20.335
+Step four: B is on the x-axis, so y is zero. Minus five equals minus two times the bracket, so the bracket is five over two.
+
+00:02:20.920 --> 00:02:30.552
+Add a half ln five. x is five over two plus a half ln five, which is a half of five plus ln five. That is the printed result.
+
+00:02:31.120 --> 00:02:45.252
+A tempting wrong route is to use five, the height at A, as the gradient. The gradient must be d y by d x, which is minus two. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:46.360 --> 00:02:55.499
+Common mistake. A common mistake is a sign slip when finding the intercept. Minus five divided by minus two is positive.
+
+00:02:56.600 --> 00:03:12.241
+Your turn. Now you try, from January twenty twenty two. The curve is y equals four root x, and A is nine, twelve. The tangent at A meets the x-axis at T. Find T. Write your answer, then choose Continue to Answer.
+
+00:03:13.360 --> 00:03:24.609
+Answer. Write y as four x to the one half. The derivative is two x to the minus one half, which is two over root x. At x equals nine, that is two thirds.
+
+00:03:25.160 --> 00:03:38.107
+Tangent: y minus twelve equals two thirds times x minus nine. Put y equals zero. Then x minus nine is minus eighteen, so x is minus nine. T is minus nine, nought.
+
+00:03:38.680 --> 00:03:47.608
+The most common wrong answer loses the minus sign and gets twenty seven. But the gradient is positive, so T must be to the left of A.
+
+00:03:48.160 --> 00:03:56.222
+Remember: point, gradient from d y by d x, line through the point, then set y or x to zero for an axis.

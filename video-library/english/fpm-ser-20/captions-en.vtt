@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.189
+Idea. A sat nav says your journey takes about twenty minutes. That is an estimate: close, but not exact. A binomial expansion can estimate a number such as the root of nought point seven six.
+
+00:00:13.760 --> 00:00:24.062
+The trick is to choose x so that the bracket becomes your number. Set one minus four x equal to nought point seven six. Then x is nought point nought six.
+
+00:00:24.640 --> 00:00:35.626
+Small x gives the best estimate. The powers of nought point nought six shrink fast: x squared is nought point nought nought three six. So the terms we leave out are tiny.
+
+00:00:36.200 --> 00:00:46.983
+The x must also be in the valid range. Here, modulus x is less than one quarter. Nought point nought six is inside. Nought point seven six is not.
+
+00:00:47.560 --> 00:00:55.483
+So you use your expansion, with a suitable x, to estimate a number. You choose x, substitute, add, and round last.
+
+00:00:56.600 --> 00:01:04.631
+Method. Step one: set the bracket equal to the number, and solve for x. Step two: check x is in the valid range.
+
+00:01:05.200 --> 00:01:17.924
+Step three: substitute into every term, and add. Step four: round only at the end. A later part may scale it: the root of nineteen is five times the root of nought point seven six.
+
+00:01:18.480 --> 00:01:23.289
+The trap is putting x equal to the number itself. You solve for x first.
+
+00:01:24.400 --> 00:01:41.253
+Worked example. January twenty twenty. From part a, the root of one minus four x is one, minus two x, minus two x squared, minus four x cubed. Estimate the root of nought point seven six, to four decimal places. Three marks.
+
+00:01:41.840 --> 00:01:52.772
+Step one: one minus four x equals nought point seven six. So four x is nought point two four, and x is nought point nought six. It is inside the range.
+
+00:01:53.360 --> 00:02:04.281
+A tempting wrong route puts x equal to nought point seven six. That gives minus three point four three. A root cannot be negative, and x is outside the range.
+
+00:02:04.840 --> 00:02:14.694
+Step two: substitute. One, minus nought point twelve, minus nought point nought nought seven two, minus nought point nought nought nought eight six four.
+
+00:02:15.280 --> 00:02:32.591
+Step three: add. The total is nought point eight seven one nine three six, which is nought point eight seven one nine to four decimal places. It is a close estimate, not exact. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:33.720 --> 00:02:43.415
+Common mistake. A common mistake is rounding every term early. Keep all the digits. Round the final sum once, or the last digit can change.
+
+00:02:44.520 --> 00:03:03.211
+Your turn. Now you try, from January twenty twenty three. From part a, the expansion of one plus x over four, to the eight, is on the card. Estimate one point nought three five to the eight, to four decimal places. Three marks. Write your answer, then choose Continue to Answer.
+
+00:03:04.320 --> 00:03:15.053
+Answer. Set one plus x over four equal to one point nought three five. Then x over four is nought point nought three five, so x is nought point one four.
+
+00:03:15.640 --> 00:03:34.151
+Substitute: one, plus nought point two eight, plus nought point nought three four three, plus nought point nought nought two four nought one. The total is one point three one six seven, to four decimal places. A calculator gives one point three one six eight, so our estimate is close.
+
+00:03:34.720 --> 00:03:43.551
+The common wrong answer puts x equal to one point nought three five. That does not make the bracket equal the number. Solve for x first.
+
+00:03:44.120 --> 00:03:50.392
+Remember: solve for x, check the range, substitute into every term, add, then round last.

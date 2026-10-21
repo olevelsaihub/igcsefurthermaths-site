@@ -1,0 +1,67 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.332
+Idea. A detective needs two clues for two unknowns. A sector may have two unknowns, the radius r and the angle theta. Each fact about it gives one equation.
+
+00:00:11.920 --> 00:00:24.569
+Recall the three formulae, with theta in radians. Arc length is r theta. Area is a half r squared theta. Perimeter is two r plus r theta, two radii plus the arc.
+
+00:00:25.120 --> 00:00:34.751
+The trick is to remove theta. From the perimeter, r theta is P minus two r. Put that into the area, which is a half r times r theta.
+
+00:00:35.320 --> 00:00:46.976
+This leaves an equation in r only, usually a quadratic. It has two roots, and one may have to go. Perhaps r must be an integer, or theta must be less than two pi.
+
+00:00:47.560 --> 00:00:51.933
+So you get two facts about one sector, and find the radius and the angle.
+
+00:00:53.040 --> 00:01:03.233
+Method. Step one: write each fact as an equation in r and theta. Step two: make r theta the subject of the perimeter, and put it into the area.
+
+00:01:03.800 --> 00:01:12.411
+Step three: solve for r, and reject any root that breaks a condition. Step four: find theta, and check both original facts.
+
+00:01:13.000 --> 00:01:18.077
+The trap: mixing up perimeter and arc. A perimeter includes the two radii.
+
+00:01:19.200 --> 00:01:37.275
+Worked example. November twenty twenty one. Sector A O B has radius r, an integer, and angle theta radians. Its area is sixteen point eight square centimetres, and its perimeter is sixteen point four centimetres. Find r and theta. Eight marks.
+
+00:01:37.840 --> 00:01:47.301
+Here is Figure one redrawn. The sector has radius r, an angle of theta radians at O, and two facts: its area and its perimeter.
+
+00:01:47.880 --> 00:01:57.650
+Step one: area gives a half r squared theta equals sixteen point eight. Perimeter gives two r plus r theta equals sixteen point four.
+
+00:01:58.200 --> 00:02:07.498
+A tempting wrong route treats sixteen point four as the arc length. Then r is about two point oh five, not an integer, so the route fails.
+
+00:02:08.080 --> 00:02:21.515
+Step two: from equation two, r theta is sixteen point four minus two r. Put that into the area, and tidy. We get r squared minus eight point two r, plus sixteen point eight, equals nought.
+
+00:02:22.080 --> 00:02:32.761
+Step three: the formula gives r equals eight point two, plus or minus nought point two, over two. So r is four, or four point two. The integer is four.
+
+00:02:33.320 --> 00:02:46.323
+Step four: r theta is sixteen point four minus eight, which is eight point four. So theta is two point one. Check: a half times sixteen times two point one is sixteen point eight.
+
+00:02:46.880 --> 00:02:56.693
+So r is four centimetres, and theta is two point one radians. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:57.800 --> 00:03:09.388
+Common mistake. A common mistake is keeping both roots. Four point two also solves the quadratic, but r must be an integer. Say which root you reject, and why.
+
+00:03:10.520 --> 00:03:28.503
+Your turn. Now you try, from November twenty twenty five. A circle has centre O and radius fourteen centimetres. A sector A O B has perimeter forty nine centimetres. Find the area of the sector. Three marks. Write your answer, then choose Continue to Answer.
+
+00:03:29.640 --> 00:03:41.291
+Answer. The perimeter is two r plus r theta. So twenty eight plus fourteen theta is forty nine. Theta is twenty one over fourteen, one point five radians.
+
+00:03:41.880 --> 00:03:52.118
+Now the area. A is a half r squared theta, a half times fourteen squared times one point five. That is one hundred and forty seven square centimetres.
+
+00:03:52.680 --> 00:04:03.911
+The common wrong answer treats forty nine as the arc. Then theta is three point five, and the area is three hundred and forty three. But a perimeter includes the two radii.
+
+00:04:04.480 --> 00:04:11.485
+Remember: write the equations, eliminate theta, solve and reject a root, then find the angle and check.

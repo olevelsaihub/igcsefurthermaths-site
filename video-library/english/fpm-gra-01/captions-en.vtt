@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.725
+Idea. A table of values pairs each input x with its output y. To substitute is to replace the letter with a number. Put x equals two into y equals two x plus one, and y is five.
+
+00:00:14.280 --> 00:00:29.261
+Log base three of nine asks: what power of three gives nine? The answer is two. Calculators have no base three key, so use change of base: L N of the number, over L N of three. L N is the natural log key.
+
+00:00:29.840 --> 00:00:40.963
+Trig curves in this paper use radians, not degrees. Set the calculator to R A D. Sine of one is point eight four in radians, but nearly nought in degrees.
+
+00:00:41.520 --> 00:00:48.835
+This question gives a table with some y values missing. You fill each empty box, to the decimal places asked.
+
+00:00:49.960 --> 00:00:59.477
+Method. Step one: copy the equation and check the calculator mode. Step two: recompute one printed value. If it matches, you are set.
+
+00:01:00.040 --> 00:01:09.221
+Step three: substitute each missing x, with brackets for negatives and change of base for logs. Step four: round to the places asked.
+
+00:01:09.800 --> 00:01:17.775
+Step five: look along the row. Values should change smoothly. Here six sticks out where nine belongs. That is a key slip.
+
+00:01:18.880 --> 00:01:31.001
+Worked example. June twenty twenty five. Complete the table of values for y equals log base three of, four minus x, plus three, to two decimal places. Two marks.
+
+00:01:31.560 --> 00:01:47.003
+Three boxes are empty: x equals nought point five, one point five and two point five. First, test a printed value. For x equals two, three plus L N two over L N three is three point six three. It matches.
+
+00:01:47.560 --> 00:02:01.072
+Step two: x equals nought point five. Four minus nought point five is three point five. Ln three point five over L N three is one point one four. Add three: four point one four.
+
+00:02:01.640 --> 00:02:18.268
+Now x equals one point five. That gives three point eight three. For x equals two point five, L N one point five over L N three is point three six nine one. Three point three six nine one rounds to three point three seven.
+
+00:02:18.840 --> 00:02:28.267
+A tempting wrong route is the calculator log key. That is base ten, not base three. It gives three point five four, not four point one four.
+
+00:02:28.840 --> 00:02:36.539
+Check the pattern. The points fall steadily, faster near x equals four, on a smooth curve. No value jumps out.
+
+00:02:37.120 --> 00:02:48.661
+So the missing values are four point one four, three point eight three and three point three seven. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:49.800 --> 00:03:01.170
+Common mistake. A common mistake is chopping instead of rounding. The third digit of three point three six nine one is nine, so it rounds up to three point three seven.
+
+00:03:02.280 --> 00:03:19.451
+Your turn. Now you try, from January twenty twenty two. x is in radians. Complete the table for y equals sine x, minus three cosine two x, minus nought point five, to one decimal place. Write your answer, then choose Continue to Answer.
+
+00:03:20.560 --> 00:03:34.703
+Answer. Set R A D. Test x equals one: it gives one point six, as printed. Now x equals nought gives minus three point five, and x equals nought point five gives minus one point six.
+
+00:03:35.280 --> 00:03:45.946
+For x equals one point six, the value is three point four nine, so three point five. For x equals two, it is two point three seven, so two point four.
+
+00:03:46.520 --> 00:03:57.559
+The most common wrong answer is degree mode. Then x equals nought point five gives minus three point five, not minus one point six. Every trig value is wrong.
+
+00:03:58.120 --> 00:04:03.511
+Remember: check the mode, test a printed value, substitute with brackets, then round.

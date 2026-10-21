@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.543
+Idea. Think of walking to school: four blocks east and three blocks north. That journey is a vector. It has a size and a direction. We write it with i and j. The i is one unit across, and j is one unit up.
+
+00:00:15.120 --> 00:00:26.470
+A position vector tells you where a point is, measured from the fixed point O, called the origin. The position vector of A is the journey from O to A. We write it vector O A.
+
+00:00:27.040 --> 00:00:39.337
+The vector from A to B is the journey from A to B. You could go back from A to O, then out to B. Going back is minus vector O A. So vector A B is vector O B minus vector O A.
+
+00:00:39.920 --> 00:00:51.151
+This question type gives two position vectors and asks for the journey between the points. Sometimes it gives a point and a journey, and asks for the position vector of the other point.
+
+00:00:52.280 --> 00:01:05.610
+Method. Step one: write the vector you want as end minus start. Step two: put each position vector in brackets and substitute. The brackets matter, because the minus must apply to every part.
+
+00:01:06.160 --> 00:01:18.206
+Step three: subtract the i parts, then the j parts. Step four: if you want a position vector, add the journey to the start: vector O B equals vector O A plus vector A B.
+
+00:01:18.760 --> 00:01:26.643
+The trap is subtracting the wrong way round. Start minus end gives the journey backwards, which is the negative of the answer.
+
+00:01:27.760 --> 00:01:42.915
+Worked example. June twenty nineteen. Point A has position vector four i plus three j, and point B has position vector i plus seven j, from origin O. Find vector A B in terms of i and j. Two marks.
+
+00:01:43.480 --> 00:01:50.935
+Here is the picture. A is four across and three up. B is one across and seven up. We want the arrow from A to B.
+
+00:01:51.520 --> 00:02:03.097
+End minus start. Vector A B equals vector O B minus vector O A. Now substitute, with brackets: i plus seven j, minus, four i plus three j.
+
+00:02:03.680 --> 00:02:11.007
+Subtract the i parts: one minus four is minus three. Subtract the j parts: seven minus three is four.
+
+00:02:11.560 --> 00:02:23.431
+A tempting wrong route is start minus end: four i plus three j, minus, i plus seven j. That gives three i minus four j, which is the journey from B back to A.
+
+00:02:24.000 --> 00:02:37.353
+So vector A B is minus three i plus four j. Check with the picture: from A, go three left and four up, and you reach B. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:38.480 --> 00:02:49.871
+Common mistake. A common mistake is dropping the brackets. Then only the first part of the second vector is subtracted. The plus three j should have become minus three j.
+
+00:02:51.000 --> 00:03:06.645
+Your turn. Now you try, from June twenty twenty two. The position vector of A is three i minus two j. Vector A B is six i plus eight j. Find the position vector of B. Write your answer, then choose Continue to Answer.
+
+00:03:07.760 --> 00:03:18.349
+Answer. We want the position vector of B, which is vector O B. Go to A first, then along A B. So vector O B equals vector O A plus vector A B.
+
+00:03:18.920 --> 00:03:29.468
+Add the i parts: three plus six is nine. Add the j parts: minus two plus eight is six. So the position vector of B is nine i plus six j.
+
+00:03:30.040 --> 00:03:42.305
+The most common wrong answer subtracts instead: minus three i minus ten j. That uses the end minus start rule when the question gives a start and a journey, so it finds a different point.
+
+00:03:42.880 --> 00:03:48.522
+Remember: two positions, subtract, end minus start. A start and a journey, add.

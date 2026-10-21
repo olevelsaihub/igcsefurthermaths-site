@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.339
+Idea. A bus on a ring road never stops. Its speed is always above zero. A particle never comes to rest when its velocity is never zero, not at any time.
+
+00:00:11.920 --> 00:00:26.179
+To check, set v to zero and try to solve. A quadratic has real solutions only if b squared, minus four a c, called the discriminant, is zero or more. If it is negative, there are no real solutions.
+
+00:00:26.760 --> 00:00:36.893
+The least value of a velocity is the lowest point of the graph. Completing the square shows it. A square is never negative, so the smallest it can be is zero.
+
+00:00:37.480 --> 00:00:49.766
+Magnitude means size, ignoring direction. So least magnitude of velocity means the smallest speed. These questions ask you to show there is no rest, and to find that least speed.
+
+00:00:50.880 --> 00:01:03.902
+Method. Step one: write v as a quadratic in t. For never at rest, work out b squared minus four a c. Step two: if it is negative, say there are no real roots, so v is never zero.
+
+00:01:04.480 --> 00:01:13.125
+Step three: for the least speed, complete the square. The number at the end is the least value. Step four: state the conclusion in words.
+
+00:01:13.680 --> 00:01:22.638
+The trap is the wrong inequality. A negative discriminant means no roots. A positive one means two roots, so rest does happen.
+
+00:01:23.760 --> 00:01:39.747
+Worked example. January twenty twenty three. The velocity of P is t squared, minus ten t, plus twenty eight. Part one: show that P is never at rest. Part two: find the least magnitude of the velocity. Three marks.
+
+00:01:40.320 --> 00:01:54.841
+Part one. At rest, v is zero: t squared, minus ten t, plus twenty eight, equals zero. Here a is one, b is minus ten and c is twenty eight. The discriminant is one hundred, minus one hundred and twelve.
+
+00:01:55.400 --> 00:02:07.013
+The discriminant is negative, so there are no real roots. So v is never zero, and P is never instantaneously at rest. That sentence is the conclusion the mark needs.
+
+00:02:07.600 --> 00:02:20.377
+Part two. Complete the square. Half of minus ten is minus five. So t minus five, all squared, then take off twenty five and add twenty eight. That is t minus five squared, plus three.
+
+00:02:20.960 --> 00:02:31.134
+A square is never negative, so v is at least three. It equals three when t is five. So the least magnitude of the velocity is three metres per second.
+
+00:02:31.720 --> 00:02:41.031
+A tempting wrong answer is t equals five. That is the time when the least speed happens. The question asks for the speed itself, which is three.
+
+00:02:41.600 --> 00:02:52.650
+So P is never at rest, and the least magnitude of velocity is three metres per second. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:53.760 --> 00:03:06.716
+Common mistake. A common mistake is to stop at the number. Some students write minus twelve and nothing else. The examiner needs the reasoning: negative, so no real roots, so never at rest.
+
+00:03:07.840 --> 00:03:21.460
+Your turn. Now you try, from November twenty twenty five. The velocity is four t squared, minus six t, plus five. Find the minimum speed of P. Write your answer, then choose Continue to Answer.
+
+00:03:22.560 --> 00:03:36.257
+Answer. Take out the four from the t terms: four, times, t squared minus three over two t, plus five. Complete the square inside: t minus three quarters, all squared, minus nine sixteenths.
+
+00:03:36.840 --> 00:03:50.190
+Multiply the four through: four times the bracket, minus nine quarters, plus five. That is four times t minus three quarters squared, plus eleven quarters. So the least value is eleven quarters.
+
+00:03:50.760 --> 00:04:01.659
+The most common wrong answer forgets that the four multiplies the nine sixteenths. That gives seventy one sixteenths. Multiply every term inside the bracket by four.
+
+00:04:02.240 --> 00:04:11.285
+Remember: write v as a quadratic, discriminant below zero for no rest, complete the square for the least value, and write the conclusion.

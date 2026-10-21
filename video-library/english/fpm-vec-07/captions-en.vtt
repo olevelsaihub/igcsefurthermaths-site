@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.515
+Idea. Two friends walk to the same cafe by different roads. In vectors, a crossing point can be reached by two routes. We write its position both ways, then make them equal.
+
+00:00:12.080 --> 00:00:24.581
+A scalar is an ordinary number, like two, or lambda, a Greek letter for an unknown number. A X equals lambda times A N says X is a fraction lambda of the way from A to N.
+
+00:00:25.160 --> 00:00:35.579
+A coefficient is the number in front of a or b. If a and b are not parallel, two expressions are equal only when the a parts match and the b parts match.
+
+00:00:36.160 --> 00:00:44.319
+This type gives a crossing point and asks for a ratio. Find it by two routes, compare coefficients, solve, then give the ratio.
+
+00:00:45.440 --> 00:00:55.542
+Method. Step one: give each line its own scalar, lambda and mu, two Greek letters. Step two: write the position vector of the point by two routes.
+
+00:00:56.120 --> 00:01:05.189
+Step three: expand each route into a number of a plus a number of b. Step four: set them equal, and compare the a parts and the b parts.
+
+00:01:05.760 --> 00:01:14.867
+Step five: solve the two equations. Step six: turn the scalar into a ratio. The trap is using the same letter for both scalars.
+
+00:01:16.000 --> 00:01:31.133
+Worked example. January twenty twenty three. Lines A N and B M cross at X in triangle O A B. A N is three quarters b minus a. B M is half a minus b. Find A X to X N. Seven marks.
+
+00:01:31.720 --> 00:01:42.265
+Let A X be lambda A N, and B X be mu B M. Route one: O X is O A plus lambda A N. Route two: O X is O B plus mu B M.
+
+00:01:42.840 --> 00:01:52.232
+Collect terms. Route one: one minus lambda a, plus three lambda over four b. Route two: mu over two a, plus one minus mu b.
+
+00:01:52.800 --> 00:02:03.725
+Both are vector O X, so compare parts. The a parts: one minus lambda equals mu over two. The b parts: three lambda over four equals one minus mu.
+
+00:02:04.280 --> 00:02:13.558
+Put mu equals two minus two lambda into the b equation. Three lambda over four equals two lambda minus one. So lambda is four fifths.
+
+00:02:14.120 --> 00:02:20.552
+So A X is four fifths of A N, leaving one fifth for X N. A X to X N is four to one.
+
+00:02:21.120 --> 00:02:35.263
+A tempting wrong route uses one letter for both scalars. The a parts give lambda two thirds, the b parts give four sevenths. They clash. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:36.400 --> 00:02:48.185
+Common mistake. A common mistake is the wrong ratio. A X is four fifths of A N, so the ratio is four fifths to one fifth, which is four to one. Not four to five.
+
+00:02:49.320 --> 00:03:06.210
+Your turn. Now you try, from June twenty twenty three. Use the figure. M, Y and X are collinear, with X on O B extended. M Y is three b minus half a. Find O B to O X. Write your answer, then choose Continue to Answer.
+
+00:03:07.320 --> 00:03:21.637
+Answer. X is on O B extended, so O X is k b. O M is half of two a, which is a. So M X is k b minus a. M, Y, X are in a line, so M X is lambda times M Y.
+
+00:03:22.200 --> 00:03:32.451
+Compare the a parts: minus one equals minus lambda over two, so lambda is two. The b parts: k is three lambda, so six. O X is six b.
+
+00:03:33.040 --> 00:03:43.189
+O B is four b, O X is six b. So O B to O X is four to six, two to three. The common wrong answer, three to two, is the wrong way round.
+
+00:03:43.760 --> 00:03:50.646
+Remember: a scalar for each line, two routes, collect, compare coefficients, solve, then give the ratio.

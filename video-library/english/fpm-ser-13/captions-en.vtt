@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.565
+Idea. You eat half a pizza, then half of what is left, then half again. The pieces are a half, a quarter, an eighth. They add up towards one whole pizza, but never pass it.
+
+00:00:12.120 --> 00:00:26.040
+The sum to infinity is the number the total settles on, when you add terms forever. We write it S infinity. For a geometric series it is a over one minus r. A is the first term, r the common ratio.
+
+00:00:26.600 --> 00:00:37.819
+Test it on the pizza. The first term is a half and r is a half. A over one minus r is a half over a half, which is one. It works because r to the n shrinks to nought.
+
+00:00:38.400 --> 00:00:45.023
+These questions ask for the sum to infinity. The answer is usually an exact fraction or a surd.
+
+00:00:46.160 --> 00:00:54.878
+Method. Step one: find a and r. Check that the size of r is less than one. Without that, there is no sum to infinity.
+
+00:00:55.440 --> 00:01:05.556
+Step two: put them in a over one minus r. Use brackets when r is negative. Step three: simplify exactly, and rationalise if there is a surd.
+
+00:01:06.120 --> 00:01:12.757
+The trap is the sign. One minus r, when r is minus a half, is three halves, not one half.
+
+00:01:13.880 --> 00:01:30.952
+Worked example. June twenty twenty four, paper one. The first two terms add to four hundred, and the second and third add to one hundred. From parts a and b, r is one quarter and the first term is three hundred and twenty. Find the sum to infinity. Two marks.
+
+00:01:31.520 --> 00:01:40.488
+Step one: a is three hundred and twenty and r is one quarter. The size of r is less than one, so the sum to infinity exists.
+
+00:01:41.040 --> 00:01:48.463
+Step two: S infinity is a over one minus r. That is three hundred and twenty, over one minus one quarter.
+
+00:01:49.040 --> 00:01:56.644
+Step three: dividing by three quarters is multiplying by four thirds. That gives twelve hundred and eighty over three.
+
+00:01:57.200 --> 00:02:06.693
+Reject a tempting route. Using one plus r gives three hundred and twenty over five quarters, which is two hundred and fifty six. That is wrong.
+
+00:02:07.280 --> 00:02:21.375
+Check. The first four terms add to four hundred and twenty five. Later terms creep up towards four hundred and twenty six point six seven. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:22.480 --> 00:02:37.646
+Common mistake. Another mistake is using the formula when r is too big. With first term two and r equal to three, the formula gives minus one. That is nonsense, because the terms grow. Check the size of r first.
+
+00:02:38.760 --> 00:02:57.095
+Your turn. Now you try, from June twenty twenty two. The third term is five and the fifth is five over two. From part a, r is root two over two and a is ten. Find the sum to infinity, in the form p plus q root two. Write your answer, then choose Continue to Answer.
+
+00:02:58.200 --> 00:03:12.352
+Answer. The size of r is about nought point seven one, less than one. So S infinity is ten over one minus root two over two. Multiply top and bottom by two to get twenty over two minus root two.
+
+00:03:12.920 --> 00:03:22.993
+Rationalise. Multiply top and bottom by two plus root two. The bottom is four minus two, which is two. The answer is twenty plus ten root two.
+
+00:03:23.560 --> 00:03:33.041
+The common wrong answer is twenty minus ten root two. It comes from using one plus r. It is too small, because the sum must be more than ten.
+
+00:03:33.600 --> 00:03:40.095
+Remember the method. Find a and r, check the size of r, substitute, and simplify exactly.

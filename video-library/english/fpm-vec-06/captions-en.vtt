@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.873
+Idea. Think of a door frame pushed sideways. Top and bottom are parallel, and so are the sides. That shape is a parallelogram: both pairs of opposite sides are parallel and equal. Vectors can prove it.
+
+00:00:14.440 --> 00:00:26.033
+Parallel vectors point the same way, or opposite ways. One is a number times the other. Six i plus nine j is three times two i plus three j, so they are parallel.
+
+00:00:26.600 --> 00:00:38.525
+If one pair of opposite sides are equal vectors, the shape is a parallelogram. A trapezium has just one pair of parallel sides, so also show the other pair is not parallel.
+
+00:00:39.080 --> 00:00:48.691
+This type asks you to prove a shape, or show three points are collinear, which means on one straight line. Give the vectors, the multiple, and a conclusion.
+
+00:00:49.800 --> 00:01:02.167
+Method. Step one: decide which vectors to compare: opposite sides for a shape, or two vectors from a common point for collinear points. Step two: find each, end minus start.
+
+00:01:02.720 --> 00:01:12.490
+Step three: show one vector is a number times the other. A parallelogram needs equal vectors. A trapezium needs the other pair shown not parallel.
+
+00:01:13.040 --> 00:01:21.368
+Step five: write a conclusion sentence. The trap is writing they are parallel with no working, or forgetting the final sentence.
+
+00:01:22.480 --> 00:01:39.063
+Worked example. January twenty twenty. Vector A B is seven i plus p j, A C is eleven i minus p j, and A D is four i minus two p j. Show that, for all p, A B C D is a parallelogram. Three marks.
+
+00:01:39.640 --> 00:01:46.113
+We compare opposite sides. A D is given. We need B C, so we can compare A D with B C.
+
+00:01:46.680 --> 00:01:57.761
+Vector B C is end minus start: A C minus A B. Eleven i minus p j, minus, seven i plus p j, gives four i minus two p j.
+
+00:01:58.320 --> 00:02:06.027
+Compare. Vector A D is four i minus two p j. That is exactly vector B C. So B C equals A D.
+
+00:02:06.600 --> 00:02:16.817
+Equal vectors have the same direction and length. So A D and B C are parallel and equal. This holds whatever p is, because p appears in both.
+
+00:02:17.400 --> 00:02:27.831
+A tempting wrong route is to test one value, like p equals one. That only proves the shape for p equals one. The question says all values of p.
+
+00:02:28.400 --> 00:02:41.690
+So B C equals A D: opposite sides are parallel and equal. So A B C D is a parallelogram for all p. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:42.800 --> 00:02:52.964
+Common mistake. A common mistake is writing that two sides are parallel, with no working. The marks are for the vectors, the multiple, and the conclusion.
+
+00:02:54.080 --> 00:03:10.345
+Your turn. Now you try, from November twenty twenty five. A B is two a plus four b. A C is seven a plus seven b. A D is ten a plus six b. Show that A B C D is a trapezium. Write your answer, then choose Continue to Answer.
+
+00:03:11.480 --> 00:03:23.415
+Answer. Vector B C is A C minus A B: five a plus three b. Vector A D is ten a plus six b, which is two times B C. So A D is parallel to B C.
+
+00:03:24.000 --> 00:03:36.351
+Vector D C is A C minus A D: minus three a plus b. A multiple of A B would need k equal to minus three halves, and one quarter. Impossible, so they are not parallel.
+
+00:03:36.920 --> 00:03:48.769
+So exactly one pair is parallel, and A B C D is a trapezium. The most common wrong answer stops after A D equals two B C. The second pair must be tested too.
+
+00:03:49.320 --> 00:03:54.713
+Remember: choose the pairs, find the vectors, show the multiple, and write the conclusion.

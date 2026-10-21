@@ -1,0 +1,55 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:09.864
+Idea. A curve can have letters like p and q standing for numbers you must find. Each clue gives one equation, so two letters need two clues.
+
+00:00:10.440 --> 00:00:22.513
+A stationary point is where the curve is flat for a moment: the top of a hill or the bottom of a valley. The gradient is zero there. So d y by d x equals nought at that x.
+
+00:00:23.080 --> 00:00:34.855
+A point on the curve is another clue. If the curve passes through three, minus five, then putting x equals three must give y equals minus five. That is a second equation.
+
+00:00:35.440 --> 00:00:44.857
+So this type asks for the values of letters in a curve. Read each clue, decide whether it is a gradient or a point, and write one equation for each.
+
+00:00:45.960 --> 00:00:58.468
+Method. Step one: differentiate, keeping the letters. Step two: put the given x into d y by d x and set it equal to the known gradient, which is zero for a stationary point.
+
+00:00:59.040 --> 00:01:12.591
+Step three: put the known point into the curve. Step four: solve the equations. The trap is putting the point's coordinates into d y by d x, or setting y to zero instead of d y by d x.
+
+00:01:13.720 --> 00:01:31.169
+Worked example. A real question from November twenty twenty one. The curve y equals two x squared plus p x plus q has a stationary point at three, minus five. p and q are integers. Show that p is minus twelve, and find q. Four marks.
+
+00:01:31.720 --> 00:01:43.739
+Step one: differentiate, treating p and q as constants. The derivative of two x squared is four x. The derivative of p x is p. The derivative of q is nought.
+
+00:01:44.320 --> 00:01:56.996
+Step two: the gradient clue. Stationary at x equals three, so d y by d x is zero there. Four times three plus p equals nought. So p is minus twelve, as required.
+
+00:01:57.560 --> 00:02:08.131
+A tempting wrong route is to say the gradient is minus five, because the point is three, minus five. But minus five is the height. The gradient is zero.
+
+00:02:08.720 --> 00:02:16.697
+Step three: the point clue. Put x equals three and y equals minus five into the curve, using p equals minus twelve.
+
+00:02:17.280 --> 00:02:30.526
+Eighteen minus thirty six is minus eighteen. So minus five equals minus eighteen plus q, and q is thirteen. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:31.640 --> 00:02:44.641
+Common mistake. A common mistake is putting the point's coordinates into d y by d x instead of into the curve. The gradient clue uses d y by d x. The point clue uses y.
+
+00:02:45.760 --> 00:03:02.344
+Your turn. Now you try, from June twenty twenty one. The curve is y equals a x minus three, over x plus five. The gradient where x is two is eighteen forty ninths. Show that a is three. Write your answer, then choose Continue to Answer.
+
+00:03:03.480 --> 00:03:14.864
+Answer. Quotient rule. The bottom times a, minus the top times one, over the bottom squared. That simplifies to five a plus three, over x plus five, squared.
+
+00:03:15.440 --> 00:03:28.481
+At x equals two, the bottom is seven squared, which is forty nine. So five a plus three, over forty nine, equals eighteen over forty nine. Five a plus three is eighteen, so a is three.
+
+00:03:29.040 --> 00:03:39.342
+The most common wrong answer sets y equal to eighteen forty ninths. But that number is a gradient, not a height. The clue belongs in d y by d x.
+
+00:03:39.920 --> 00:03:47.928
+Remember: differentiate with the letters, use the gradient clue in d y by d x, use a point clue in y, then solve.

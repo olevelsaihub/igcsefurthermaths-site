@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.383
+Idea. Picture a potter shaping clay on a spinning wheel. A flat shape, spun round a line, makes a solid. That solid is called a solid of revolution.
+
+00:00:10.960 --> 00:00:20.282
+This time the line is the y-axis. Slice the solid into thin discs, stacked upwards. Each disc has radius x and thickness d y.
+
+00:00:20.840 --> 00:00:30.087
+One disc has volume pi x squared times d y. Add them all up and the volume is pi times the integral of x squared, d y.
+
+00:00:30.640 --> 00:00:45.049
+The curve is usually given as y in terms of x. So make x squared the subject first. Then everything is in y, and the limits are y values. This question asks for an exact volume, in terms of pi.
+
+00:00:46.160 --> 00:00:56.523
+Method. Step one: find the y limits, the lowest and highest y of the region. Step two: rearrange each graph to give x squared in terms of y.
+
+00:00:57.080 --> 00:01:07.095
+Step three: integrate pi times outer x squared, minus inner x squared, with respect to y. Step four: substitute the y limits and simplify.
+
+00:01:07.680 --> 00:01:13.589
+The trap is using x limits, or leaving y squared inside. Everything must be in y.
+
+00:01:14.720 --> 00:01:34.515
+Worked example. June twenty twenty three. The curve S is y equals x squared over four plus two, and the line l is two y minus x minus four equals nought, for x at least nought. The region between them is rotated about the y-axis. Find the volume in terms of pi. Four marks.
+
+00:01:35.080 --> 00:01:40.142
+Here is the region. It runs from A, at nought, two, up to B, at two, three.
+
+00:01:40.720 --> 00:01:48.586
+Step one: the y limits. A has y equals two, B has y equals three. So the integral runs from two to three.
+
+00:01:49.160 --> 00:02:01.146
+Step two: x squared in terms of y. For the curve, x squared equals four times y minus two. For the line, x equals two y minus four, so x squared is that, squared.
+
+00:02:01.720 --> 00:02:17.085
+Which is outer? Test y equals two and a half. The curve gives x squared equals two. The line gives one. So the curve is outer, and the line is the hole. Do not integrate with x limits. Subtract the line's solid from the curve's.
+
+00:02:17.640 --> 00:02:29.091
+Step four: integrate. At three, the value is minus eighteen. At two, it is minus fifty six over three. Subtract: minus eighteen plus fifty six over three.
+
+00:02:29.680 --> 00:02:36.772
+So V is two pi over three. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:37.880 --> 00:02:47.325
+Common mistake. A common mistake is using x limits with d y. Here the x limits are nought and two. That gives a different, wrong volume.
+
+00:02:48.440 --> 00:03:08.533
+Your turn. Now you try, from January twenty twenty three. A region is bounded by the curve y equals x squared plus two, the y-axis and the line y equals a. It is rotated about the y-axis to make a solid of volume eighteen pi. Find a. Write your answer, then choose Continue to Answer.
+
+00:03:09.640 --> 00:03:22.852
+Answer. The limits are y equals two, up to y equals a. The curve gives x squared equals y minus two. So V is pi times the integral from two to a of y minus two, d y.
+
+00:03:23.440 --> 00:03:38.763
+Integrate: y squared over two, minus two y. At a, that is a squared over two, minus two a. At two, it is minus two. So V is pi times a squared over two, minus two a, plus two. Set this equal to eighteen pi.
+
+00:03:39.320 --> 00:03:52.129
+So a minus two is six or minus six. The question says a is bigger than two, so reject minus four. A equals eight. The common wrong answer is to give both, or to forget to reject.
+
+00:03:52.680 --> 00:04:01.490
+Remember: find the y limits, write x squared using y, integrate pi times x squared with respect to y, then simplify.

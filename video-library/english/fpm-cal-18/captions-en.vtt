@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.122
+Idea. Suppose you want the area of a curvy lake. Hard to do exactly. But an easy shape gives a good estimate. An estimate is a close answer, not an exact one.
+
+00:00:11.680 --> 00:00:23.444
+A series expansion writes a function as a polynomial: a number, plus a number times x, plus a number times x squared, and so on. Near x equals nought it matches the curve.
+
+00:00:24.000 --> 00:00:37.168
+The series only works for small x. Here, the size of three x over two must be less than one, so x is between minus two thirds and two thirds. Our limit, nought point five, is inside.
+
+00:00:37.720 --> 00:00:44.407
+A polynomial is easy to integrate. Raise each power of x by one and divide by the new power.
+
+00:00:44.960 --> 00:00:54.121
+These questions say hence estimate. Use the series from an earlier part, integrate it between limits, and give the answer to the accuracy stated.
+
+00:00:55.240 --> 00:01:05.190
+Method. Step one: take the series from the earlier part. Step two: integrate it term by term. No plus c is needed, because we have limits.
+
+00:01:05.760 --> 00:01:14.329
+Step three: put in the upper limit, then the lower limit, and subtract. Step four: round only at the very end, to the accuracy asked.
+
+00:01:14.880 --> 00:01:20.106
+The trap is rounding too early. Rounding each term first shifts the final answer.
+
+00:01:21.240 --> 00:01:38.588
+Worked example. June twenty twenty two. f of x is one plus x, over two plus three x. Part c gives its series up to x cubed. Part d: estimate the integral from nought to nought point five of f of x, to four decimal places. Four marks.
+
+00:01:39.160 --> 00:01:48.049
+Step one: the series from part c. It is a half, minus a quarter x, plus three eighths x squared, minus nine sixteenths x cubed.
+
+00:01:48.600 --> 00:02:04.065
+Step two: integrate each term. A half gives x over two. Minus a quarter x gives minus x squared over eight. Three eighths x squared gives x cubed over eight. The last gives minus nine x to the four over sixty four.
+
+00:02:04.640 --> 00:02:12.809
+Step three: put in nought point five. The terms add to nought point two two five five eight six. The lower limit gives nought.
+
+00:02:13.360 --> 00:02:23.673
+A tempting route is to round each term to two decimal places. That gives nought point two three, which is wrong. Keep every digit, and round once at the end.
+
+00:02:24.240 --> 00:02:34.522
+So the estimate is nought point two two five six, to four decimal places. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:35.640 --> 00:02:46.679
+Common mistake. A common mistake is dividing by the wrong number. Minus a quarter x integrates to minus x squared over eight, not minus a quarter x squared.
+
+00:02:47.800 --> 00:03:06.171
+Your turn. Now you try, from June twenty twenty three. f of x is one plus four x, over three plus x, all cubed. Find the series up to x squared, then integrate it from nought to nought point two, to five significant figures. Write your answer, then choose Continue to Answer.
+
+00:03:07.280 --> 00:03:20.329
+Answer. Take out three cubed, which is twenty seven. The bracket expands to one minus x plus two thirds x squared. Multiply by one plus four x, then divide by twenty seven.
+
+00:03:20.880 --> 00:03:33.775
+Integrate: x over twenty seven, plus x squared over eighteen, minus ten x cubed over two forty three. At nought point two, that is nought point zero zero nine three zero zero four.
+
+00:03:34.360 --> 00:03:44.770
+The common wrong answer forgets the twenty seventh. Writing three plus x as one plus x over three makes every coefficient twenty seven times too big.
+
+00:03:45.320 --> 00:03:50.868
+Remember: take the series, integrate term by term, use the limits, then round once.

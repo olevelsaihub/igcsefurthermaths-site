@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.951
+Idea. You are making a poster with a ribbon border. The distance all the way round the edge is the perimeter. The space inside is the area.
+
+00:00:09.520 --> 00:00:18.138
+A limit is written as an inequality: a sign that compares two values. Less than thirty for the ribbon. Greater than eight for the paper.
+
+00:00:18.720 --> 00:00:25.973
+A length can never be zero or negative. So the width is greater than zero. This removes some answers later.
+
+00:00:26.560 --> 00:00:34.720
+The question gives a shape and limits. It asks for the set of possible values, as a number less than w, less than another number.
+
+00:00:35.840 --> 00:00:44.811
+Method. Step one: write each side using the letter, then the perimeter and area. Step two: solve the perimeter limit like an equation.
+
+00:00:45.400 --> 00:00:58.219
+Step three: the area limit has a squared term. Compare with zero, factorise, and sketch the U shaped graph. Greater than zero means outside the crossings. Less than zero means between them.
+
+00:00:58.800 --> 00:01:07.445
+Step four: reject any negative length. Step five: keep the overlap, where every limit is true. The trap is forgetting step four.
+
+00:01:08.560 --> 00:01:26.585
+Worked example. November twenty twenty four. Rectangle R is two centimetres longer than it is wide. Its area is greater than eight and its perimeter is less than thirty. Find the possible values of w. Rational means can be written as a fraction. Six marks.
+
+00:01:27.160 --> 00:01:31.265
+The width is w. The length is two more, so w plus two.
+
+00:01:31.840 --> 00:01:42.050
+Perimeter: two times, w plus w plus two, is less than thirty. That is four w plus four. So w is less than thirteen over two.
+
+00:01:42.600 --> 00:01:56.795
+Area: w times, w plus two, is greater than eight. Subtract eight: w squared plus two w minus eight, greater than zero. Factorise: w plus four, times w minus two.
+
+00:01:57.360 --> 00:02:04.744
+Sketch it. It crosses at minus four and two. Greater than zero means above the axis, which is outside the crossings.
+
+00:02:05.320 --> 00:02:15.899
+A width cannot be negative, so reject w less than minus four. That leaves w greater than two. Now overlap with w less than thirteen over two.
+
+00:02:16.480 --> 00:02:25.684
+A tempting wrong route is the inside region. Test w equals one. The area is three, not greater than eight. So outside is right.
+
+00:02:26.240 --> 00:02:44.771
+So w is greater than two and less than thirteen over two. Check with w equals three. The area is three times five, which is fifteen, more than eight. The perimeter is sixteen, less than thirty. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:45.880 --> 00:02:56.717
+Common mistake. A common mistake is to add only one length and one width. That gives w less than fourteen. The perimeter is two times, length plus width.
+
+00:02:57.840 --> 00:03:07.075
+Your turn. Now you try, from June twenty twenty five. Find the possible values of x. Write your answer, then choose Continue to Answer.
+
+00:03:08.200 --> 00:03:14.738
+Answer. The perimeter is six x plus six, greater than ten. So x is greater than two thirds.
+
+00:03:15.320 --> 00:03:28.620
+The area gives two x squared plus three x minus thirty five, less than zero. That is two x minus seven, times x plus five. Less than zero means between: minus five and seven over two.
+
+00:03:29.200 --> 00:03:37.828
+Overlap: two thirds less than x, less than seven over two. The common wrong answer, from minus five, ignores the perimeter limit.
+
+00:03:38.400 --> 00:03:42.972
+Remember: solve each limit, reject negative lengths, keep the overlap.

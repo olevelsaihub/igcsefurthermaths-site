@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:16.153
+Idea. A runner jogs five metres east, then turns and jogs three metres back west. Displacement is the change in position: two metres. Distance travelled is all the movement added up: eight metres. Distance is never negative.
+
+00:00:16.720 --> 00:00:29.155
+On a velocity graph, the area between the curve and the t axis is the displacement. Area above the axis is movement forward. Area below is movement backward, so it counts as negative.
+
+00:00:29.720 --> 00:00:43.505
+So if the particle turns round, the two areas cancel. To find distance, we split at the time of rest, take the size of each area, and add them. If there is no rest, there is no turning, and one integral is enough.
+
+00:00:44.080 --> 00:00:50.831
+These questions ask for the distance travelled in an interval, or the exact distance between two points of rest.
+
+00:00:51.960 --> 00:01:01.686
+Method. Step one: find any times in the interval when v is zero. These are where the particle can change direction. If there are none, say so.
+
+00:01:02.240 --> 00:01:12.803
+Step two: integrate v over each part, using the limits. Step three: take the size of each answer. Step four: add them. Distance is never negative.
+
+00:01:13.360 --> 00:01:21.637
+The trap is integrating straight across a time of rest. The forward and backward movements cancel and the distance comes out too small.
+
+00:01:22.760 --> 00:01:36.902
+Worked example. June twenty nineteen. A particle moves in a straight line with velocity t squared, minus four t, plus seven. Find the distance travelled in the interval nought to six seconds. Four marks.
+
+00:01:37.480 --> 00:01:50.054
+Step one: does the particle turn round? Set v to zero: t squared, minus four t, plus seven. The discriminant is sixteen, minus twenty eight, which is minus twelve. That is negative.
+
+00:01:50.640 --> 00:02:01.912
+So v keeps one sign. At t equals zero, v is seven, which is positive. So the particle always moves forward, and the distance is one integral from nought to six.
+
+00:02:02.480 --> 00:02:10.267
+Step three: integrate. T cubed over three, minus two t squared, plus seven t. Then put in six and nought.
+
+00:02:10.840 --> 00:02:22.260
+At six: two hundred and sixteen over three is seventy two, minus seventy two, plus forty two. That is forty two. At nought everything is zero. So the distance is forty two.
+
+00:02:22.840 --> 00:02:34.689
+A tempting wrong route is to multiply the velocity at six, nineteen, by six seconds. That gives one hundred and fourteen. But the speed is not constant, so we must integrate.
+
+00:02:35.240 --> 00:02:43.154
+So the distance travelled is forty two metres. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:44.280 --> 00:02:58.945
+Common mistake. A common mistake is not checking for rest. Take v equals t minus three from nought to six. Integrating straight across gives zero. But the particle moved four and a half each way, so the distance is nine.
+
+00:03:00.080 --> 00:03:18.627
+Your turn. Now you try, from June twenty twenty three. The velocity is two t squared, minus nineteen t, plus thirty five. P rests at A and B, at times t one and t two. Use calculus to find the distance A B. Write your answer, then choose Continue to Answer.
+
+00:03:19.760 --> 00:03:35.335
+Answer. Set v to zero: two t squared, minus nineteen t, plus thirty five equals zero. That factorises as two t minus five, times, t minus seven. So t one is five over two, and t two is seven.
+
+00:03:35.920 --> 00:03:53.549
+Integrate: two t cubed over three, minus nineteen t squared over two, plus thirty five t. At seven this is forty nine over six. At five over two it is nine hundred and twenty five over twenty four. The difference is minus two hundred and forty three over eight.
+
+00:03:54.120 --> 00:04:04.944
+Distance is never negative, so take the size. The most common wrong answer leaves minus two hundred and forty three over eight. A negative distance loses the mark.
+
+00:04:05.520 --> 00:04:10.452
+Remember: find the rest times, integrate each part, take the size, and add.

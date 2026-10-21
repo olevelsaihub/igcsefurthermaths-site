@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.610
+Idea. Two ramps with the same steepness are parallel: equal gradients. So if the tangent at P is parallel to the tangent at A, then d y by d x at P equals d y by d x at A.
+
+00:00:14.160 --> 00:00:25.187
+Perpendicular means at ninety degrees. A line perpendicular to gradient n has gradient minus one over n. Perpendicular to eight is minus one eighth.
+
+00:00:25.760 --> 00:00:35.445
+A curve can have the same steepness at more than one point, like A and P here. Setting d y by d x equal to the target gradient finds them all.
+
+00:00:36.000 --> 00:00:43.539
+So these questions give a gradient, ask you to find the point, then use it for a tangent, a constant or a distance.
+
+00:00:44.640 --> 00:00:55.587
+Method. Step one: find d y by d x. Step two: work out the target gradient. Parallel: the same. Perpendicular: flip and change the sign.
+
+00:00:56.160 --> 00:01:06.109
+Step three: set d y by d x equal to the target and solve. The trap is a square: take both roots, then reject any x you already know.
+
+00:01:06.680 --> 00:01:12.455
+Step four: find y from the curve, not from d y by d x. Then finish as asked.
+
+00:01:13.560 --> 00:01:33.207
+Worked example. June twenty twenty five. The curve is y equals seven minus x, over two x plus three, through A, one half, thirteen eighths. It also passes through P, where the tangent is parallel to the tangent at A. Find the tangent at P, in integer form. Seven marks.
+
+00:01:33.760 --> 00:01:46.740
+The quotient rule gives d y by d x as minus seventeen over two x plus three, squared. The earlier part showed the gradient at A is minus seventeen sixteenths. That is the target.
+
+00:01:47.320 --> 00:01:57.676
+Set them equal. Minus seventeen over the square equals minus seventeen sixteenths, so the square is sixteen. Two x plus three is plus or minus four.
+
+00:01:58.240 --> 00:02:10.684
+Plus four gives x equals one half. That is A itself, so reject it. Minus four gives x equals minus seven over two: that is P. Taking only plus four just finds A again.
+
+00:02:11.240 --> 00:02:21.818
+Find y from the curve. At x equals minus seven over two, the top is ten and a half and the bottom is minus four. So y is minus twenty one eighths.
+
+00:02:22.400 --> 00:02:33.012
+The tangent: y plus twenty one eighths equals minus seventeen sixteenths times x plus seven over two. Multiply by thirty two to clear fractions.
+
+00:02:33.600 --> 00:02:44.693
+Rearrange. Thirty four x plus thirty two y plus two hundred and three equals nought. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:45.800 --> 00:02:54.226
+Common mistake. A common mistake is taking only the positive square root. Squared equals sixteen means plus or minus four.
+
+00:02:55.360 --> 00:03:17.650
+Your turn. Now you try, from June twenty twenty five. Curve C is y equals two x squared minus four x plus nine. The line l, y minus eight x plus nine equals nought, is a tangent. The line k is perpendicular to l and is the tangent at x equals p. Find p. Write your answer, then choose Continue to Answer.
+
+00:03:18.760 --> 00:03:29.555
+Answer. Rearrange l: y equals eight x minus nine, so its gradient is eight. Line k is perpendicular, so its gradient is minus one eighth.
+
+00:03:30.120 --> 00:03:40.914
+The curve's gradient is four x minus four. At x equals p it is minus one eighth. So four p is thirty one eighths, and p is thirty one over thirty two.
+
+00:03:41.480 --> 00:03:49.171
+The most common wrong answer sets d y by d x equal to eight. That finds where l touches the curve, not k.
+
+00:03:49.760 --> 00:03:57.256
+Remember: derivative, target gradient, set equal and take every root, then y from the curve and finish as asked.

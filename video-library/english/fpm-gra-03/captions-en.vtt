@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.521
+Idea. A sketch is a quick freehand drawing, like a rough map that shows where the roads cross the main streets. It shows the shape of the curve and labels the key points. It need not be to scale.
+
+00:00:13.080 --> 00:00:21.569
+A curve crosses the y axis where x is nought. It crosses the x axis where y is nought. Write each crossing as coordinates.
+
+00:00:22.120 --> 00:00:38.279
+Log and exponential curves have an asymptote. That is a line the curve gets closer and closer to, but never touches. The curve y equals L N x, the natural log of x, passes through one, nought, with the asymptote x equals nought.
+
+00:00:38.840 --> 00:00:45.077
+This question says: sketch the curve and label the key points. Do the algebra first, then draw.
+
+00:00:46.200 --> 00:00:58.057
+Method. Step one: put x equals nought for the y intercept. Step two: put y equals nought for the x intercepts. If a log equals nought, its bracket equals one.
+
+00:00:58.640 --> 00:01:15.716
+Step three: find the asymptote or turning point. A log of x plus k has the asymptote x equals minus k. An exponential, a to the x plus k, has the asymptote y equals k. A parabola's turning point comes from completing the square.
+
+00:01:16.280 --> 00:01:24.983
+Step four: draw the shape and label it. The trap is a curve that touches its asymptote. It must get close, but stay on its own side.
+
+00:01:26.120 --> 00:01:38.739
+Worked example. June twenty twenty four. C is y equals minus log base four of, x plus four. Sketch C. Label where it meets the axes, and any asymptote. Four marks.
+
+00:01:39.320 --> 00:01:51.315
+Step one: the asymptote. A log needs a positive bracket, so x plus four is more than nought. The curve stays right of x equals minus four. That line is the asymptote.
+
+00:01:51.880 --> 00:01:57.699
+Step two: put x equals nought. Log base four of four is one, so y is minus one.
+
+00:01:58.280 --> 00:02:04.065
+Step three: put y equals nought. Then x plus four is one, so x is minus three.
+
+00:02:04.640 --> 00:02:13.215
+A tempting wrong route is to set x plus four equal to nought for the x intercept. That gives minus four, which is the asymptote.
+
+00:02:13.800 --> 00:02:25.245
+Step four: the shape. A plain log curve rises. The minus sign flips it, so it falls. It comes down beside the asymptote, through both points, and keeps falling slowly.
+
+00:02:25.800 --> 00:02:37.160
+So the sketch shows a falling curve through both points, with the asymptote x equals minus four. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:38.280 --> 00:02:50.694
+Common mistake. A common mistake is labelling a crossing with one number, like minus three. The question asks for coordinates. Write the asymptote as an equation, not a bare number.
+
+00:02:51.800 --> 00:03:05.366
+Your turn. Now you try, from June twenty twenty two. C is y equals log base ten of, x plus two. Sketch C and label where it meets the axes. Write your answer, then choose Continue to Answer.
+
+00:03:06.480 --> 00:03:18.125
+Answer. Put x equals nought: y is log base ten of two, which is nought point three zero one. Put y equals nought: x plus two is one, so x is minus one.
+
+00:03:18.680 --> 00:03:27.287
+Draw it. The asymptote is x equals minus two. The curve rises slowly from far down beside that line, through both points.
+
+00:03:27.840 --> 00:03:36.073
+The most common wrong answer sets x plus two equal to nought, and gives minus two. That is the asymptote, not an intercept.
+
+00:03:36.640 --> 00:03:43.685
+Remember: x equals nought for y, y equals nought for x, find the asymptote, then draw and label.

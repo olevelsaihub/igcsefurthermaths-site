@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.771
+Idea. On a street grid, a friend walks three blocks east and four blocks north. The straight path is five blocks, by Pythagoras. The length between two points on a graph is found the same way.
+
+00:00:13.360 --> 00:00:22.766
+The distance formula is the square root of: change in x squared, plus change in y squared. A change is the second value minus the first.
+
+00:00:23.320 --> 00:00:38.486
+Exact means we leave the answer as a surd, not a decimal. A surd is a square root that is not a whole number. To simplify, take out the largest square number: root twenty is root four times root five, which is two root five.
+
+00:00:39.040 --> 00:00:49.097
+These questions ask for an exact length, or to show a triangle is isosceles. The length is a tool. Always finish by saying what the lengths prove.
+
+00:00:50.200 --> 00:01:04.176
+Method. Step one: write the two points and find the change in x and the change in y. Take care with negatives: three minus minus four is seven. Step two: square each, add, and take the square root.
+
+00:01:04.760 --> 00:01:16.137
+Step three: simplify the surd with the largest square factor. Step four: if lengths are compared, use them and write a conclusion. The trap is squaring only one change.
+
+00:01:17.240 --> 00:01:28.458
+Worked example. June twenty nineteen. A is two, six. B is six, eight. C is four, two. Find the exact length of A B, B C and A C. Four marks.
+
+00:01:29.040 --> 00:01:41.293
+A B: the change in x is six minus two, which is four. The change in y is eight minus six, which is two. So A B is the square root of sixteen plus four, which is root twenty.
+
+00:01:41.880 --> 00:01:49.268
+Root twenty is not simplest. Twenty is four times five, and four is a square. So A B is two root five.
+
+00:01:49.840 --> 00:02:04.112
+B C: the change in x is four minus six, which is minus two. The change in y is two minus eight, which is minus six. Squares are positive: four plus thirty six is forty. Root forty is two root ten.
+
+00:02:04.680 --> 00:02:14.673
+A C: the changes are two and minus four. Four plus sixteen is twenty. So A C is also two root five. Notice A B and A C are equal.
+
+00:02:15.240 --> 00:02:27.109
+A tempting wrong route is to use the calculator and write four point four seven. The question says exact, so a decimal loses the accuracy mark. Leave it as two root five.
+
+00:02:27.680 --> 00:02:38.346
+So A B is two root five, B C is two root ten, and A C is two root five. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:39.480 --> 00:02:50.507
+Common mistake. A common mistake is to write the root of sixteen plus four as four plus two. It is root twenty, not six. You cannot take the root of each part.
+
+00:02:51.640 --> 00:03:05.929
+Your turn. Now you try, from June twenty twenty five. A is three, two. B is eight, three. C is four, seven. Show that A B C is an isosceles triangle. Write your answer, then choose Continue to Answer.
+
+00:03:07.040 --> 00:03:19.910
+Answer. A B: changes five and one, so root twenty five plus one, which is root twenty six. A C: changes one and five, so root one plus twenty five, also root twenty six.
+
+00:03:20.480 --> 00:03:31.688
+A B and A C are both root twenty six, so they are equal. Two sides are equal, so the triangle is isosceles. That sentence is the conclusion the mark needs.
+
+00:03:32.240 --> 00:03:42.808
+The most common wrong answer checks only A B and B C. B C is root thirty two, so the student wrongly says not isosceles. Check every pair of sides.
+
+00:03:43.360 --> 00:03:50.273
+Remember: changes in x and y, square, add, root, simplify, then use the lengths and conclude.

@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.035
+Idea. Two runners start together. One runs at a steady speed, a straight line on a graph. The other speeds up, a curve. They are level where the graphs share a point. That is a point of intersection.
+
+00:00:13.600 --> 00:00:23.454
+At a meeting point both equations are true together. Both give y, so make the two expressions equal. This is solving simultaneous equations.
+
+00:00:24.040 --> 00:00:33.405
+You get a quadratic. Two solutions mean two points. Find each y from the straight line, which is simpler, and keep each x with its own y.
+
+00:00:33.960 --> 00:00:40.999
+The question says use algebra to find the coordinates. Show the full method. Reading from a graph earns nothing.
+
+00:00:42.120 --> 00:00:53.601
+Method. Step one: make one letter the subject of the linear equation, or equate the two expressions for y. Step two: rearrange to a quadratic equal to zero.
+
+00:00:54.160 --> 00:01:04.186
+Step three: solve the quadratic. Step four: put each x into the linear equation to find y. Step five: write each answer as a coordinate pair.
+
+00:01:04.760 --> 00:01:11.307
+The trap is pairing x and y wrongly. Always find y from the same x using the linear equation.
+
+00:01:12.440 --> 00:01:32.459
+Worked example. January twenty twenty three. The curve C has equation y equals f of x, which is eight x squared plus ten x minus three. The straight line l has equation y equals two x plus thirteen. Use algebra to find the coordinates of the two points of intersection. Four marks.
+
+00:01:33.040 --> 00:01:49.183
+Step one: equate. Eight x squared, plus ten x, minus three, equals two x plus thirteen. Rearrange: eight x squared plus eight x minus sixteen equals zero. Divide by eight: x squared plus x minus two equals zero.
+
+00:01:49.760 --> 00:01:58.091
+Step two: factorise. x plus two, times x minus one, equals zero. So x is minus two, or x is one.
+
+00:01:58.680 --> 00:02:11.041
+Step three: find each y from the line. When x is minus two, y is two times minus two plus thirteen, which is nine. When x is one, y is two plus thirteen, which is fifteen.
+
+00:02:11.600 --> 00:02:22.363
+Here are the two points on the graph. Check on the curve: eight times four, minus twenty, minus three, is nine. Eight plus ten minus three is fifteen. Both fit.
+
+00:02:22.920 --> 00:02:35.485
+A tempting wrong route is to swap the pairing, giving minus two, fifteen. Check it on the line: two times minus two plus thirteen is nine, not fifteen. So that point is not on the line.
+
+00:02:36.040 --> 00:02:44.701
+So the points are minus two, nine and one, fifteen. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:45.840 --> 00:02:56.088
+Common mistake. A common mistake is to give only the x values. The question asks for coordinates. Give minus two, nine, and one, fifteen.
+
+00:02:57.200 --> 00:03:06.468
+Your turn. Now you try, from June twenty nineteen. Use algebra to solve the equations. Write your answer, then choose Continue to Answer.
+
+00:03:07.600 --> 00:03:15.409
+Answer. Subtract the first equation from the second. That removes x y: x plus two y equals seventeen.
+
+00:03:15.960 --> 00:03:35.114
+Substitute into x y equals thirty six. Seventeen minus two y, times y, equals thirty six. That is two y squared minus seventeen y plus thirty six equals zero. Factorise: two y minus nine, times y minus four. So y is nine over two, or four.
+
+00:03:35.680 --> 00:03:49.245
+Now find each x. When y is nine over two, x is eight. When y is four, x is nine. A common wrong answer swaps the pairs, which fails: nine times nine over two is not thirty six.
+
+00:03:49.800 --> 00:03:57.282
+Remember: equate or substitute, rearrange to a quadratic, solve, then find each partner and write pairs.

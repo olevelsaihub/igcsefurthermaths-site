@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.252
+Idea. Open a door wider and the gap opposite the hinge grows. In a triangle, a bigger angle faces a longer side. The sine rule turns this into an equation.
+
+00:00:11.840 --> 00:00:20.521
+The sine rule says: each side over the sine of its opposite angle gives the same value. To find an angle, put the sines on top.
+
+00:00:21.080 --> 00:00:33.537
+Here is the catch. Sine of thirty degrees and sine of one hundred and fifty degrees are both one half. The calculator gives only one. The other is one hundred and eighty minus the first.
+
+00:00:34.120 --> 00:00:47.046
+The second angle counts only if the angles still add to less than one hundred and eighty. If the question says obtuse, take the big one. This type asks you to use the sine rule and watch for two answers.
+
+00:00:48.160 --> 00:00:58.050
+Method. Step one: pair each side with its opposite angle and write the sine rule. Step two: solve for the unknown sine, then take inverse sine.
+
+00:00:58.600 --> 00:01:10.542
+Step three: try one hundred and eighty minus that angle. Keep it if it fits, or if the question says obtuse. Step four: find the third angle, then use the sine rule again for a side.
+
+00:01:11.120 --> 00:01:17.454
+The trap is giving only the acute angle, or rounding the angle too early. Both lose marks.
+
+00:01:18.560 --> 00:01:35.386
+Worked example. November twenty twenty four. In triangle A B C, A C is ten and B C is seven centimetres. Angle C A B is twenty five degrees, and angle A B C is obtuse. Find A B to one decimal place. Five marks.
+
+00:01:35.960 --> 00:01:42.945
+B C is opposite the twenty five degree angle. A C is opposite angle B. These are our two pairs.
+
+00:01:43.520 --> 00:01:51.434
+Step two: sine B over ten equals sine twenty five over seven. So sine B is nought point six zero three seven.
+
+00:01:52.000 --> 00:02:03.485
+Inverse sine gives thirty seven point one four degrees. But B is obtuse, so B is one hundred and eighty minus that: one hundred and forty two point eight six degrees.
+
+00:02:04.040 --> 00:02:19.473
+Step four: C is one hundred and eighty minus twenty five minus one hundred and forty two point eight six, which is twelve point one four. Then A B over sine C equals seven over sine twenty five, so A B is three point four eight.
+
+00:02:20.040 --> 00:02:29.159
+A tempting route keeps the acute angle. That makes A B fourteen point six. But the question says obtuse, so it is the wrong triangle.
+
+00:02:29.720 --> 00:02:39.617
+So A B is three point five centimetres, to one decimal place. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:40.720 --> 00:02:53.956
+Common mistake. A common mistake is pairing a side with an angle that is not opposite it. Ten is opposite B, so the wrong pairing gives seventeen point two degrees, not thirty seven point one.
+
+00:02:55.080 --> 00:03:11.634
+Your turn. Now you try, from January twenty twenty three. Angle B A C is fifty degrees, A B is ten and B C is nine centimetres. Find the two possible values of angle B C A. Write your answer, then choose Continue to Answer.
+
+00:03:12.760 --> 00:03:25.331
+Answer. A B is opposite angle C, and B C is opposite fifty degrees. So sine C over ten equals sine fifty over nine. Inverse sine gives fifty eight point three degrees.
+
+00:03:25.920 --> 00:03:37.374
+The second value is one hundred and eighty minus fifty eight point three, which is one hundred and twenty one point seven. Fifty plus that is under one hundred and eighty, so it fits.
+
+00:03:37.960 --> 00:03:44.231
+The common wrong answer is only fifty eight point three. Two values were asked, so find the second.
+
+00:03:44.800 --> 00:03:50.783
+Remember: pair side and angle, find the acute angle, then try one hundred and eighty minus it.

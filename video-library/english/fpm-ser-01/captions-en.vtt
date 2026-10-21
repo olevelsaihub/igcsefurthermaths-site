@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.486
+Idea. You save five pounds in week one, then three pounds more each week. You have five, eight, eleven, fourteen. The jump is the same every time. That is an arithmetic series.
+
+00:00:13.040 --> 00:00:26.795
+The first term is called a. The jump is the common difference, called d. The second term is a plus d. The third is a plus two d. The tenth is a plus nine d. We write u n for the term in place n.
+
+00:00:27.360 --> 00:00:35.591
+Two unknown numbers, a and d, need two equations. Each fact about the series gives one equation. Then we solve them together.
+
+00:00:36.160 --> 00:00:46.684
+These questions describe some terms, or sums of terms. They ask for the first term and the common difference. Show the equations, the solving and both values.
+
+00:00:47.800 --> 00:00:58.856
+Method. Step one: write each term you are told about as a plus some d's. Step two: if you are given a sum of terms, add them. Each sentence becomes one equation.
+
+00:00:59.440 --> 00:01:08.424
+Step three: solve the two equations together. Subtracting often removes a at once. Step four: put a and d back into the facts to check.
+
+00:01:09.000 --> 00:01:15.677
+The trap is the number of d's. The fifth term is a plus four d, not a plus five d. Count one fewer.
+
+00:01:16.800 --> 00:01:32.827
+Worked example. November twenty twenty four, paper one. The sum of the fifth, sixth and seventh terms is nine times the sum of the first and second terms. The third term is twelve. Find the first term and the common difference. Five marks.
+
+00:01:33.400 --> 00:01:42.118
+Step one: write the terms. The fifth, sixth and seventh terms add to three a plus fifteen d. The first two add to two a plus d.
+
+00:01:42.680 --> 00:01:54.337
+Step two: the first fact says three a plus fifteen d equals nine times two a plus d. Expand and collect. Six d equals fifteen a, so d is five a over two.
+
+00:01:54.920 --> 00:02:03.651
+Step three: the third term is twelve. So a plus two d equals twelve. Substitute d. A plus five a is six a, so a is two.
+
+00:02:04.240 --> 00:02:07.641
+Then d is five times two over two. That is five.
+
+00:02:08.200 --> 00:02:17.745
+Reject a tempting route. Writing the fifth term as a plus five d gives a equals thirty six over thirteen. A messy value is a warning sign.
+
+00:02:18.320 --> 00:02:37.427
+Check: the fifth, sixth and seventh terms are twenty two, twenty seven and thirty two. They add to eighty one. Nine times two plus seven is also eighty one. So the first term is two and the common difference is five. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:38.560 --> 00:02:48.532
+Common mistake. Another slip is mixing up a sum with one term. The sum of the first two terms is two a plus d. A plus d is only the second term.
+
+00:02:49.640 --> 00:03:07.228
+Your turn. Now you try, from January twenty twenty three. Terms ten, eleven and twelve add to one hundred and twenty nine. Terms nineteen, twenty and twenty one add to two hundred and thirty seven. Find the first term. Write your answer, then choose Continue to Answer.
+
+00:03:08.360 --> 00:03:24.283
+Answer. Write each sum with a and d. Terms ten, eleven and twelve give three a plus thirty d, equals one hundred and twenty nine. Terms nineteen, twenty and twenty one give three a plus fifty seven d, equals two hundred and thirty seven.
+
+00:03:24.840 --> 00:03:36.896
+Subtract. Twenty seven d equals one hundred and eight, so d is four. Then three a plus one hundred and twenty is one hundred and twenty nine. So a one, the first term, is three.
+
+00:03:37.480 --> 00:03:46.737
+The common wrong answer is minus one. It comes from writing the tenth term as a plus ten d. The number of d's is one fewer than the term number.
+
+00:03:47.320 --> 00:03:52.769
+Remember the method. Write the terms, make two equations, solve them together, and check.

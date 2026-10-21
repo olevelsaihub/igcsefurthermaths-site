@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.454
+Idea. A tent pole stands straight up from the middle of the floor. A rope runs from the top of the pole to a corner. The pole, the floor and the rope make a right-angled triangle.
+
+00:00:12.040 --> 00:00:26.397
+A solid is a three dimensional shape. Inside it you can always find a flat right-angled triangle, and Pythagoras works in it. A rectangle with sides a and b has a diagonal of root of a squared plus b squared.
+
+00:00:26.960 --> 00:00:38.681
+In a right pyramid, the top point, called the vertex, is directly above the centre of the base. That is where the two diagonals cross. The centre is halfway along each diagonal.
+
+00:00:39.240 --> 00:00:46.447
+So this type asks for a length in a solid. Find a right-angled triangle, draw it flat, and use Pythagoras.
+
+00:00:47.560 --> 00:00:59.121
+Method. Step one: find a right-angled triangle that contains the length you want, and draw it flat. Step two: work out the base lengths first, like half the base diagonal.
+
+00:00:59.680 --> 00:01:10.190
+Step three: use Pythagoras, or a trig ratio if an angle is given. Step four: keep surds exact. A rounded value cannot reach a printed answer.
+
+00:01:10.760 --> 00:01:14.387
+The trap is using the whole diagonal where half is needed.
+
+00:01:15.520 --> 00:01:34.259
+Worked example. November twenty twenty five. Figure four shows a right pyramid A B C D E. The base is a horizontal square of side six centimetres. The sloping edges are all twelve centimetres. The height is h. Show that h is three root fourteen. Three marks.
+
+00:01:34.840 --> 00:01:43.901
+Step one: the base diagonal. A C is the square root of six squared plus six squared. That is root seventy two, which is six root two.
+
+00:01:44.480 --> 00:01:56.159
+Step two: let O be the centre. The vertex is above O, so E O is vertical. A O is half of A C, which is three root two. Triangle E O A is right-angled at O.
+
+00:01:56.720 --> 00:02:08.676
+Step three: Pythagoras in triangle E O A. h squared is twelve squared minus eighteen. That is one hundred and twenty six. Then h is root one hundred and twenty six.
+
+00:02:09.240 --> 00:02:20.203
+Step four: one hundred and twenty six is nine times fourteen. So root one hundred and twenty six is three root fourteen. That is the answer we were asked to show.
+
+00:02:20.760 --> 00:02:32.675
+A tempting route uses the whole diagonal. Then h squared is one hundred and forty four minus seventy two, which is seventy two. That gives six root two, not three root fourteen.
+
+00:02:33.240 --> 00:02:40.481
+So h is three root fourteen. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:41.600 --> 00:02:52.831
+Common mistake. A common mistake is treating the sloping edge as the height. The sloping edge is the longest side of the triangle. So the height must be shorter than twelve.
+
+00:02:53.960 --> 00:03:11.581
+Your turn. Now you try, from November twenty twenty. A rectangle based pyramid has height fourteen centimetres. The base is twelve by sixteen. Find the length of a sloping edge, to three significant figures. Write your answer, then choose Continue to Answer.
+
+00:03:12.720 --> 00:03:22.897
+Answer. The base diagonal is the square root of twelve squared plus sixteen squared, which is twenty. M is the centre, so A M is half of that: ten.
+
+00:03:23.480 --> 00:03:35.169
+Triangle E M A is right-angled at M. E A squared is ten squared plus fourteen squared, which is two hundred and ninety six. E A is seventeen point two centimetres.
+
+00:03:35.720 --> 00:03:43.347
+The common wrong answer uses the whole diagonal, twenty, giving twenty four point four. Use half the diagonal.
+
+00:03:43.920 --> 00:03:48.535
+Remember: right-angled triangle, base length first, then Pythagoras.

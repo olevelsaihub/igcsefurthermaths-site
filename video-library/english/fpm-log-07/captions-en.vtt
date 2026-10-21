@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.609
+Idea. Think of a game where you ask: what power of two gives eight? The answer is three. We write that as log, base two, of eight, equals three. A logarithm is the power. The base is the number being raised.
+
+00:00:14.160 --> 00:00:27.898
+Adding logs with the same base means multiplying what is inside. Log two of four is two, and log two of eight is three. Add them: five. That is log two of thirty two. This is the product law.
+
+00:00:28.480 --> 00:00:39.765
+Subtracting logs means dividing inside. A number in front moves up as a power: two log three is log of three squared. These are the quotient law and the power law.
+
+00:00:40.320 --> 00:00:52.522
+Once there is one log on each side, remove them. If log a of P equals log a of Q, then P equals Q. If log a of P equals a number c, then P is a to the power c.
+
+00:00:53.080 --> 00:01:01.249
+So in these questions, you are given an equation with logs. You combine them into one log, remove it, and solve what is left.
+
+00:01:02.360 --> 00:01:17.438
+Method. Step one: make sure every log has the same base. If not, change the base. Step two: move numbers in front inside as powers, and write plain numbers as logs. Step three: use the laws to make one log.
+
+00:01:18.000 --> 00:01:30.297
+Step four: remove the log. Step five: solve, then check that no log has zero or a negative inside. The trap: log of x plus three is not log x plus log three.
+
+00:01:31.400 --> 00:01:43.363
+Worked example. June twenty twenty one. n satisfies log a of n equals log a of three, plus log a of two n minus one. Find the value of n. Three marks.
+
+00:01:43.920 --> 00:01:53.583
+Step one: the base is already the same, so combine the right side. Adding logs means multiplying inside. Three times two n minus one.
+
+00:01:54.160 --> 00:02:04.125
+Step two: one log each side, so remove the logs. n equals three times two n minus one. Expand: n equals six n minus three.
+
+00:02:04.680 --> 00:02:17.829
+A tempting wrong route adds the insides: n equals three plus two n minus one. That gives n equals minus two. But then log of n is log of a negative number. It does not exist.
+
+00:02:18.400 --> 00:02:24.575
+Step three: solve. Take n from both sides: three equals five n. So n is three fifths.
+
+00:02:25.160 --> 00:02:40.366
+Step four: check. n is positive, and two n minus one is one fifth, also positive. Both logs exist, so n equals three fifths. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:41.480 --> 00:02:55.645
+Common mistake. A common mistake is to split a sum inside a log. Log base two of four plus four is log two of eight, which is three. But log two of four plus log two of four is four. They are not equal.
+
+00:02:56.760 --> 00:03:07.233
+Your turn. Now you try, from June twenty twenty two. Solve this equation. The unknown is the base a. Write your answer, then choose Continue to Answer.
+
+00:03:08.360 --> 00:03:17.027
+Answer. Inside the bracket, add logs: four times sixteen is sixty four. So two times log a of sixty four equals one.
+
+00:03:17.600 --> 00:03:33.033
+The two in front moves inside as a power. Sixty four squared is four thousand and ninety six. So log a of four thousand and ninety six equals one. Remove the log: a to the power one equals four thousand and ninety six.
+
+00:03:33.600 --> 00:03:42.773
+The most common wrong answer is a equals sixty four. The two in front was forgotten. Then two times log of sixty four is two, not one.
+
+00:03:43.360 --> 00:03:47.981
+Remember: same base, powers inside, one log, remove it, then check.

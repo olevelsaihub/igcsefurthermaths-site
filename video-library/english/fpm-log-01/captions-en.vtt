@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.609
+Idea. How many times do you double two to reach sixteen? Two, four, eight, sixteen. That is four doublings. The logarithm of sixteen to base two is four. A logarithm is the power you raise the base to.
+
+00:00:15.160 --> 00:00:27.004
+In general, log to base a of b equals c means a to the power c equals b. The base is a. The number is b. The log value is c. Both lines say the same thing.
+
+00:00:27.560 --> 00:00:41.745
+Some values to know. A log of the base itself is one. A log of one is zero. Logs can be negative or fractions. Log base two of one eighth is minus three. Log base nine of three is a half.
+
+00:00:42.320 --> 00:00:51.621
+The question may say write down the value, or find the base, or express a letter in terms of another. Each time, turn the log into index form.
+
+00:00:52.760 --> 00:01:04.840
+Method. Step one: write the log in index form. Base to the power of the log value equals the number. Step two: for a log value, ask what power of the base gives the number.
+
+00:01:05.400 --> 00:01:15.490
+Step three: if the base or number is unknown, solve the power equation using a root or power. Step four: check the base is positive and not one.
+
+00:01:16.040 --> 00:01:23.654
+The trap is swapping base and number. Log base two of eight is three. It means two cubed is eight, not three squared.
+
+00:01:24.760 --> 00:01:33.408
+Worked example. June twenty twenty four. Find the value of a such that log to base a of eight equals three quarters. Two marks.
+
+00:01:33.960 --> 00:01:39.926
+Step one: write it in index form. The base a, to the power three quarters, equals eight.
+
+00:01:40.480 --> 00:01:49.309
+Step two: undo the power. Raise both sides to the power four thirds, the flip of three quarters. a equals eight to the power four thirds.
+
+00:01:49.880 --> 00:01:56.732
+Step three: evaluate. The cube root of eight is two. Two to the power four is sixteen. So a is sixteen.
+
+00:01:57.320 --> 00:02:05.074
+Check. Sixteen to the power one quarter is two. Two cubed is eight. So log to base sixteen of eight is three quarters.
+
+00:02:05.640 --> 00:02:17.563
+A tempting wrong route is to raise eight to the power three quarters. That gives about four point seven six. Check it: that base does not give a log of three quarters. Use four thirds.
+
+00:02:18.120 --> 00:02:24.381
+So a is sixteen. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:25.520 --> 00:02:39.685
+Common mistake. A common mistake is to treat a log as a division. Some students write sixteen divided by two, which is eight. But log base two of sixteen is four, because two to the power four is sixteen.
+
+00:02:40.800 --> 00:02:53.165
+Your turn. Now you try, from June twenty twenty five. Solve log to base four of, six y minus five, equals three. Two marks. Write your answer, then choose Continue to Answer.
+
+00:02:54.280 --> 00:03:10.606
+Answer. Write it in index form. The base is four and the log value is three, so four cubed equals six y minus five. Four cubed is sixty four. So six y is sixty nine, and y is sixty nine over six, which is twenty three over two.
+
+00:03:11.160 --> 00:03:28.491
+Check: six times twenty three over two is sixty nine. Minus five is sixty four, which is four cubed. The common wrong answer swaps base and log value. Three to the power four is eighty one, giving y equals forty three over three. That loses the marks.
+
+00:03:29.080 --> 00:03:35.179
+Remember: write the log in index form. Base to the power of the log value equals the number.

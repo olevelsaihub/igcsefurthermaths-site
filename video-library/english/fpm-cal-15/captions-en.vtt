@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.153
+Idea. Blow up a balloon. The air inside, the volume, grows. The skin, the surface area, grows too. Both depend on the same thing: the size of the balloon.
+
+00:00:11.720 --> 00:00:18.983
+The shared size is a bridge. From one rate we find how fast the size grows, then use that to find the other rate.
+
+00:00:19.560 --> 00:00:28.071
+Take a cube with edge x. It has six square faces, so the surface area A is six x squared. The volume V is x cubed.
+
+00:00:28.640 --> 00:00:37.311
+Two links. The given rate gives d x by d t. Then d V by d t is d V by d x times d x by d t.
+
+00:00:37.880 --> 00:00:45.569
+These questions give the rate of one quantity, and ask for the rate of a different quantity of the same object, at an instant.
+
+00:00:46.680 --> 00:00:56.879
+Method. Step one: write both quantities using the same letter. Step two: differentiate each with respect to that letter. Each derivative is one link.
+
+00:00:57.440 --> 00:01:06.567
+Step three: use the given rate to find the rate of the letter. Step four: multiply by the derivative of the wanted quantity, at the instant.
+
+00:01:07.120 --> 00:01:12.645
+The trap is mixing up the given rate and the wanted rate. Label them before you start.
+
+00:01:13.760 --> 00:01:30.877
+Worked example. January twenty twenty three. A cube has edge x. Its surface area increases at nought point four five square centimetres per second. Find the rate of increase of the volume when the surface area is three hundred and eighty four. Seven marks.
+
+00:01:31.440 --> 00:01:42.810
+Step one: both formulas and both derivatives. A is six x squared, so d A by d x is twelve x. V is x cubed, so d V by d x is three x squared.
+
+00:01:43.360 --> 00:01:53.716
+Step two: find x. Do not use three hundred and eighty four as x, because that is the area. Six x squared is three hundred and eighty four, so x is eight.
+
+00:01:54.280 --> 00:02:04.945
+Step three: the first link. d x by d t is nought point four five over twelve times eight, which is nought point zero zero four six eight seven five.
+
+00:02:05.520 --> 00:02:16.015
+Step four: the second link. Three x squared is one hundred and ninety two. Times nought point zero zero four six eight seven five gives nought point nine.
+
+00:02:16.600 --> 00:02:26.775
+So the volume is increasing at nought point nine cubic centimetres per second. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:27.880 --> 00:02:41.052
+Common mistake. A common mistake is to turn the first link upside down. The rate of x is the given rate divided by d A by d x. Dividing the other way gives a huge, wrong number.
+
+00:02:42.160 --> 00:02:59.267
+Your turn. Now you try, from January twenty twenty. A sphere's volume is increasing at forty cubic centimetres per second. Find the rate of increase of the surface area when the radius is four centimetres. Write your answer, then choose Continue to Answer.
+
+00:03:00.400 --> 00:03:16.381
+Answer. V is four thirds pi r cubed, so d V by d r is four pi r squared. S is four pi r squared, so d S by d r is eight pi r. At r equals four, they are sixty four pi and thirty two pi.
+
+00:03:16.960 --> 00:03:31.830
+First link: forty equals sixty four pi times d r by d t, so d r by d t is five over eight pi. Second link: thirty two pi times five over eight pi. The pi cancels, leaving twenty.
+
+00:03:32.400 --> 00:03:41.155
+The common wrong answer skips the middle link and multiplies forty by d S by d r. It mixes up the rates, so it loses the marks.
+
+00:03:41.720 --> 00:03:48.212
+Remember: same letter, differentiate both, rate of the letter, then multiply by the wanted derivative.

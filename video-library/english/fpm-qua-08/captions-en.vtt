@@ -1,0 +1,55 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.378
+Idea. Two friends have different heights. How much taller one is than the other is their difference. The roots of a quadratic have a difference too. Alpha is the larger root, and beta is the smaller, so alpha minus beta is a positive number.
+
+00:00:15.960 --> 00:00:31.192
+We want the difference without solving. Square it: alpha squared, minus two alpha beta, plus beta squared. Compare with the sum squared, which has plus two alpha beta. The difference squared is the sum squared, minus four times the product.
+
+00:00:31.760 --> 00:00:42.447
+Now take the square root. That gives plus or minus. The question says alpha is bigger than beta, so alpha minus beta is positive. We choose the plus root.
+
+00:00:43.000 --> 00:00:56.833
+For higher powers, factorise. Alpha squared minus beta squared is alpha plus beta, times alpha minus beta. Alpha to the four minus beta to the four is alpha squared plus beta squared, times that.
+
+00:00:57.400 --> 00:01:05.313
+In these questions, you find or show a difference like alpha minus beta, without solving. Use the sum and the product.
+
+00:01:06.440 --> 00:01:23.185
+Method. Step one: find the sum, minus b over a, and the product, c over a. Step two: use the difference squared is the sum squared minus four times the product. Step three: take the square root and choose the sign from the order of the roots.
+
+00:01:23.760 --> 00:01:34.287
+Step four: for higher powers, factorise using the difference of two squares. Step five: simplify the surd. The trap is two alpha beta. We need four.
+
+00:01:35.400 --> 00:01:51.579
+Worked example. June twenty nineteen. The roots of x squared plus three x minus five equals zero are alpha and beta. Alpha is bigger than beta. Without solving, show that alpha minus beta equals root twenty nine. Two marks.
+
+00:01:52.160 --> 00:01:59.587
+Step one: a is one, b is three, c is minus five. The sum is minus three. The product is minus five.
+
+00:02:00.160 --> 00:02:14.963
+Step two: the difference squared is the sum squared, minus four times the product. Substitute: minus three, squared, is nine. Four times minus five is minus twenty. Nine, minus minus twenty, is twenty nine.
+
+00:02:15.520 --> 00:02:26.803
+A tempting wrong route uses two alpha beta, not four. That gives nine plus ten, which is nineteen. But that is alpha squared plus beta squared, not the difference squared.
+
+00:02:27.360 --> 00:02:42.132
+Step three: square root. Alpha minus beta is plus or minus root twenty nine. But alpha is bigger than beta, so alpha minus beta is positive. So alpha minus beta equals root twenty nine, as required.
+
+00:02:42.720 --> 00:02:58.074
+Check: the roots are minus three plus root twenty nine, over two, and minus three minus root twenty nine, over two. Their difference is root twenty nine. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:59.200 --> 00:03:11.462
+Common mistake. A common mistake is the wrong sign. Taking minus root twenty nine is wrong, because alpha is the bigger root. A bigger number minus a smaller one is positive.
+
+00:03:12.600 --> 00:03:26.315
+Your turn. Now you try, from June twenty twenty one. The equation has roots alpha and beta. Show that alpha minus beta equals three k root five. Write your answer, then choose Continue to Answer.
+
+00:03:27.440 --> 00:03:42.818
+Answer. The sum is minus, minus seven k, which is seven k. The product is k squared. Now the difference squared: seven k, squared, is forty nine k squared. Minus four k squared. That is forty five k squared.
+
+00:03:43.400 --> 00:03:55.813
+Take the square root. Root forty five is three root five. And k is positive, and alpha is bigger, so the difference is positive. Alpha minus beta equals three k root five.
+
+00:03:56.400 --> 00:04:11.681
+The most common wrong answer uses two alpha beta. Forty nine k squared minus two k squared is forty seven k squared. That gives root forty seven k, which does not match. Remember: sum, product, difference squared, root.

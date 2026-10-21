@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:16.246
+Idea. A compass needle shows direction, but not distance. A unit vector is like that. It is a vector of length exactly one. It points the same way as a given vector. Parallel means pointing the same way, or exactly the opposite way.
+
+00:00:16.800 --> 00:00:29.332
+How do we shrink a vector to length one? Divide it by its own magnitude. Dividing by a number scales every part, and keeps the direction. For three i plus four j, the magnitude is five.
+
+00:00:29.920 --> 00:00:42.079
+Often you must find the vector first. For example, vector Q S is vector P S minus vector P Q. End minus start. Then you divide that vector by its magnitude.
+
+00:00:42.640 --> 00:00:50.263
+This question type asks for a unit vector parallel to a given vector. Find the vector, find its length, and divide.
+
+00:00:51.400 --> 00:01:01.705
+Method. Step one: find the vector you need, in components, subtracting position vectors if needed. Step two: find its magnitude with Pythagoras.
+
+00:01:02.280 --> 00:01:09.877
+Step three: divide every component by the magnitude. Step four: simplify, and give the answer in the form asked.
+
+00:01:10.440 --> 00:01:18.472
+The trap is dividing only one part, or dividing by the length of a different vector. Both parts, and the same vector.
+
+00:01:19.600 --> 00:01:33.773
+Worked example. January twenty twenty two. Vector P Q is two i plus three j. Vector P S is minus three i plus fifteen j. Find a unit vector parallel to vector Q S. Four marks.
+
+00:01:34.360 --> 00:01:47.937
+First vector Q S. End minus start: vector P S minus vector P Q. Minus three i plus fifteen j, minus, two i plus three j. That is minus five i plus twelve j.
+
+00:01:48.520 --> 00:01:59.485
+Now the magnitude. Minus five squared is twenty five. Twelve squared is a hundred and forty four. The sum is one hundred and sixty nine, and its square root is thirteen.
+
+00:02:00.040 --> 00:02:07.411
+Divide each component by thirteen. The unit vector is minus five thirteenths i, plus twelve thirteenths j.
+
+00:02:08.000 --> 00:02:18.815
+Check the length is one. Twenty five over one sixty nine, plus one forty four over one sixty nine, is one sixty nine over one sixty nine, which is one.
+
+00:02:19.400 --> 00:02:32.231
+A tempting wrong route divides by the length of vector P S instead. That length is root two thirty four. The result has length about nought point eight five, not one. It is not a unit vector.
+
+00:02:32.800 --> 00:02:44.106
+So a unit vector parallel to Q S is one thirteenth of minus five i plus twelve j. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:45.240 --> 00:02:57.304
+Common mistake. A common mistake is dividing only one component. Minus five thirteenths i, plus twelve j, does not have length one. Divide both parts by thirteen.
+
+00:02:58.440 --> 00:03:16.882
+Your turn. Now you try, from June twenty twenty two. Vector O A is p i minus four j. Vector O B is i plus, two p plus one, j. From part A, p is three. Find a unit vector parallel to vector A B. Write your answer, then choose Continue to Answer.
+
+00:03:18.000 --> 00:03:31.189
+Answer. With p equal to three, vector O A is three i minus four j, and vector O B is i plus seven j. Vector A B is O B minus O A: minus two i plus eleven j.
+
+00:03:31.760 --> 00:03:44.410
+The magnitude squared is four plus one twenty one, which is one twenty five. So the magnitude is root one twenty five, which is five root five. Divide the vector by five root five.
+
+00:03:44.960 --> 00:03:56.937
+The most common wrong answer divides by one twenty five, forgetting the square root. That vector has length far less than one. You must divide by the magnitude, not the magnitude squared.
+
+00:03:57.520 --> 00:04:02.809
+Remember: find the vector, find its magnitude, then divide every part by it.

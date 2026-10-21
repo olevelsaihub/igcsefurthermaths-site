@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:16.655
+Idea. Two straight roads cross at a junction. Next to the junction there are four corners. A rational curve has two separate pieces, called branches, and they sit in two opposite corners. The curve y equals one over x is the simplest example.
+
+00:00:17.240 --> 00:00:28.930
+Asymptotes are drawn as dashed lines. Label each with its equation. A vertical line has the equation x equals something. A horizontal line has y equals something.
+
+00:00:29.480 --> 00:00:40.497
+The axis crossings lie on one branch. So they tell you which corner that branch is in. The other branch is in the opposite corner. If you are unsure, test one more point.
+
+00:00:41.080 --> 00:00:51.233
+This question says: sketch the curve, showing the asymptotes and where it crosses the axes. You show both branches, both dashed lines, and the labelled points.
+
+00:00:52.360 --> 00:01:01.623
+Method. Step one: draw both asymptotes as dashed lines, and label them. Step two: mark the axis crossings with their coordinates.
+
+00:01:02.200 --> 00:01:12.907
+Step three: decide the corners. See where the intercepts sit compared with the two lines. That branch goes there. Test a point on the other side to confirm the opposite corner.
+
+00:01:13.480 --> 00:01:24.050
+Step four: draw each branch smoothly. It gets closer and closer to both lines, but never touches or crosses them. The trap is drawing only one branch.
+
+00:01:25.160 --> 00:01:39.076
+Worked example. January twenty twenty two. The curve C has equation y equals two x minus one, over, x plus four. Sketch C. Show the asymptotes and where it crosses the axes. Three marks.
+
+00:01:39.640 --> 00:01:52.241
+Step one: the asymptotes. The bottom, x plus four, is zero at x equals minus four. The x coefficients are two and one, so y equals two. We draw both as dashed lines.
+
+00:01:52.800 --> 00:02:01.961
+Step two: the crossings. Put x equals nought: y is minus a quarter. Put the top equal to nought: x is a half. Mark both points.
+
+00:02:02.520 --> 00:02:18.585
+Step three: the corners. Both points are right of x equals minus four, and below y equals two. So one branch is bottom right. Test x equals minus five: y is eleven. That is left and above, so the other branch is top left.
+
+00:02:19.160 --> 00:02:24.622
+Step four: draw both branches smoothly. Each hugs the dashed lines without touching them.
+
+00:02:25.200 --> 00:02:34.420
+A tempting wrong route is to let a branch cross an asymptote, or curl away from it. A branch must keep getting closer, and stay on its own side.
+
+00:02:35.000 --> 00:02:49.276
+So the sketch has two branches, dashed lines x equals minus four and y equals two, and the points nought, minus a quarter and a half, nought. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:50.400 --> 00:03:02.717
+Common mistake. A common mistake is drawing only the branch through the intercepts. A rational curve has two branches. The second one sits in the opposite corner of the two dashed lines.
+
+00:03:03.840 --> 00:03:20.724
+Your turn. Now you try, from January twenty twenty. The curve C has equation y equals three x minus two, over, x plus one. Sketch C, showing the asymptotes and where it crosses the axes. Write your answer, then choose Continue to Answer.
+
+00:03:21.840 --> 00:03:36.575
+Answer. The vertical asymptote is x equals minus one. The horizontal one is y equals three over one, which is three. Put x equals nought: y is minus two. Put the top to nought: x is two thirds.
+
+00:03:37.160 --> 00:03:52.091
+Both points are right of x equals minus one and below y equals three. So one branch is bottom right. Test x equals minus two: y is eight. So the other branch is top left. Draw both, hugging the dashed lines.
+
+00:03:52.680 --> 00:04:02.726
+The most common wrong answer draws only one branch, or lets the curve cross a dashed line. Two branches, each staying on its own side, earn the shape mark.
+
+00:04:03.280 --> 00:04:08.690
+Remember: dashed asymptotes, intercepts, choose the corners, draw two smooth branches.

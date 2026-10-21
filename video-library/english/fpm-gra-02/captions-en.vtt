@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.753
+Idea. Think of a dot-to-dot picture. The dots come first, then you join them. A graph is the same. Each column of a table is one point: x is how far across, y is how far up.
+
+00:00:13.320 --> 00:00:23.558
+Join the dots with one smooth curve, drawn freehand, which means by hand with no ruler. A ruler makes sharp corners that the real curve does not have.
+
+00:00:24.120 --> 00:00:31.808
+The question gives an interval, like nought up to three point five. The curve starts at the first point and stops at the last.
+
+00:00:32.360 --> 00:00:40.476
+This question says: on the grid, draw the graph of this equation. You use your table, plot the points and draw one smooth curve.
+
+00:00:41.600 --> 00:00:54.718
+Method. Step one: read the scale on each axis. How much is a small square worth? If a big square is one unit with five small squares, each is point two. Most plotting errors are scale errors.
+
+00:00:55.280 --> 00:01:04.348
+Step two: plot every point with a small neat cross, including both end points. Step three: if one point is out of line, recalculate it.
+
+00:01:04.920 --> 00:01:13.287
+Step four: draw one smooth curve through all the points. Step five: stop at the ends of the interval. The trap is a ruler.
+
+00:01:14.400 --> 00:01:29.827
+Worked example. June twenty twenty five. On the grid, draw the graph of y equals log base three of, four minus x, plus three, from x equals nought to three point five. Two marks. The table from part a gives the points.
+
+00:01:30.400 --> 00:01:45.807
+Step one: the table. Each column is a point. Nought, four point two six. Nought point five, four point one four. One, four. One point five, three point eight three. Then on to three point five, two point three seven.
+
+00:01:46.360 --> 00:01:56.651
+Step two: plot all eight points with small crosses. Include both end points. The y values run from two point three seven to four point two six.
+
+00:01:57.240 --> 00:02:07.947
+The drops in y grow: point one two, point one four, point one seven, up to point six three. So the curve gets steeper, heading for the line x equals four.
+
+00:02:08.520 --> 00:02:16.167
+Step four: draw one smooth freehand curve from the first point to the last. Do not go past x equals three point five.
+
+00:02:16.720 --> 00:02:24.685
+A tempting wrong route is to join the dots with a ruler. That gives straight pieces with corners, so the curve mark is lost.
+
+00:02:25.240 --> 00:02:35.501
+So the graph is a smooth falling curve through all eight points, steeper to the right. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:36.640 --> 00:02:51.327
+Common mistake. A common mistake is bending the curve to reach a wrong point. If one point is off the pattern, recalculate it. Say you plotted three point three at one point five. The true value is three point eight three.
+
+00:02:52.440 --> 00:03:08.705
+Your turn. Now you try, from January twenty twenty. Part a: complete the table for y equals x minus three over x squared. Part b: draw the graph for x from nought point five to six. Write your answer, then choose Continue to Answer.
+
+00:03:09.840 --> 00:03:21.186
+Answer. First the table. At x equals one, y is minus two. At one point five, y is nought point two. At four, three point eight. At five, four point nine.
+
+00:03:21.760 --> 00:03:33.437
+Now plot all eight points, including the low one at minus eleven point five. Draw one smooth curve. It rises steeply, then flattens, and stops at x equals six.
+
+00:03:34.000 --> 00:03:43.855
+The most common wrong answer leaves out the end point at x equals nought point five, because it is far down the page. The curve then misses part of the interval.
+
+00:03:44.440 --> 00:03:50.739
+Remember: read the scale, plot every point with a cross, draw one smooth curve, and stop at the ends.

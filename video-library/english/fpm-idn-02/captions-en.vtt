@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.114
+Idea. A half pipe is a U shape. A skater is low only between the two edges, and high outside them. A quadratic graph is the same: below the axis between two crossing points, above it outside them.
+
+00:00:14.680 --> 00:00:27.403
+A quadratic inequality has x squared in it, like three x squared minus eight x minus three is less than nought. The critical values are the x values where it equals nought. They are the boundaries.
+
+00:00:27.960 --> 00:00:37.942
+Which region do we want? For a U shape, less than nought means between the two roots. Greater than nought means outside them, written as two separate inequalities.
+
+00:00:38.520 --> 00:00:46.861
+This question type asks: find the set of values of x. Give one interval for inside, or two inequalities for outside.
+
+00:00:48.000 --> 00:00:58.911
+Method. Step one: move every term to one side, so the other side is nought. Keep the x squared positive if you can. Collect carefully. This is where slips happen.
+
+00:00:59.480 --> 00:01:11.243
+Step two: solve the equals nought version, by factorising or the formula. These are the critical values. Step three: sketch the parabola through them. The sketch shows the region.
+
+00:01:11.800 --> 00:01:22.146
+Steps four and five: choose inside for less than nought, or two outside parts for greater than nought. The trap is joining outside parts into one inequality.
+
+00:01:23.280 --> 00:01:34.387
+Worked example. January twenty twenty three. Find the set of values of x for which three x squared, minus eight x, minus three, is less than nought. Four marks.
+
+00:01:34.960 --> 00:01:42.664
+Step one: one side is already nought, and the x squared coefficient, three, is positive. So the graph is a U shape.
+
+00:01:43.240 --> 00:01:57.742
+Step two: solve three x squared minus eight x minus three equals nought. It factorises as three x plus one, times x minus three. So x is minus a third, or three. These are the critical values.
+
+00:01:58.320 --> 00:02:08.003
+Step three: sketch the U through minus a third and three. We want the expression to be less than nought. That is where the curve is below the axis, shaded here.
+
+00:02:08.560 --> 00:02:16.975
+Step four: choose the region. The curve is below the axis between the roots. So the answer is x between minus a third and three.
+
+00:02:17.560 --> 00:02:27.906
+A tempting wrong route is the outside region, x less than minus a third, or x greater than three. That is the answer to greater than nought. We need less than.
+
+00:02:28.480 --> 00:02:38.765
+Check. At x equals nought the value is minus three, less than nought, and nought is between the roots. At x equals four the value is thirteen, so it fails.
+
+00:02:39.320 --> 00:02:48.333
+So the set of values is x between minus a third and three. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:49.440 --> 00:03:01.993
+Common mistake. A common mistake is joining outside regions into one inequality. Three is less than x is less than minus a half is impossible. Write two inequalities with or.
+
+00:03:03.120 --> 00:03:16.271
+Your turn. Now you try, from June twenty twenty five. Find the set of values of x for which ten x squared, plus seven x, is less than twelve. Write your answer, then choose Continue to Answer.
+
+00:03:17.400 --> 00:03:32.485
+Answer. Move twelve across: ten x squared plus seven x minus twelve is less than nought. It factorises as two x plus three, times five x minus four. The critical values are minus three halves and four fifths.
+
+00:03:33.040 --> 00:03:43.288
+The coefficient is positive, so the graph is a U. Less than nought means below the axis, between the roots: x between minus three halves and four fifths.
+
+00:03:43.840 --> 00:03:53.128
+The common wrong answer factorises without moving the twelve across, giving x less than twelve. That is wrong. One side must be nought first.
+
+00:03:53.680 --> 00:04:00.313
+Remember: one side zero, find the critical values, sketch the U, choose the region, and write the set.

@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.835
+Idea. Imagine a potter spinning clay. A flat shape spun round a line sweeps out a solid. In maths we spin a region through three hundred and sixty degrees about the x-axis.
+
+00:00:12.400 --> 00:00:23.289
+Cut the solid into thin slices. Each slice is a disc, with radius y and thickness d x. Its volume is pi times radius squared times thickness.
+
+00:00:23.840 --> 00:00:32.863
+Add up all the discs between the limits. The volume is pi times the integral of y squared d x. Square the whole expression for y.
+
+00:00:33.440 --> 00:00:46.239
+Squaring needs care. Three plus two sine x, all squared, is nine plus twelve sine x plus four sine squared x. Sine squared cannot be integrated directly, so we use an identity.
+
+00:00:46.800 --> 00:00:54.297
+These questions rotate a region about the x-axis through three hundred and sixty degrees, and ask for the volume.
+
+00:00:55.400 --> 00:01:05.880
+Method. Step one: square y, expanding the brackets fully. Step two: rewrite any sine squared or cosine squared with the double angle identity.
+
+00:01:06.440 --> 00:01:16.974
+Step three: integrate and put in the limits. Step four: multiply by pi. If the volume is given, set pi times the integral equal to it, and solve.
+
+00:01:17.560 --> 00:01:21.601
+The trap is squaring term by term. That loses the middle term.
+
+00:01:22.720 --> 00:01:39.984
+Worked example. June twenty twenty two. The region R is bounded by y equals three plus two sine x, the two axes, and x equals pi over four. It is rotated about the x-axis. Find the volume, to the nearest integer. Six marks.
+
+00:01:40.560 --> 00:01:46.605
+Here is region R, under the curve from nought to pi over four. We spin it about the x-axis.
+
+00:01:47.160 --> 00:01:58.347
+Step one: the volume is pi times the integral of y squared. Square the whole bracket. Squaring each term gives nine plus four sine squared, and misses twelve sine x.
+
+00:01:58.920 --> 00:02:10.592
+Step two: use part a. Four sine squared x is two minus two cosine two x. So the integrand is eleven, plus twelve sine x, minus two cosine two x.
+
+00:02:11.160 --> 00:02:23.857
+Step three: integrate: eleven x, minus twelve cosine x, minus sine two x. Upper limit minus lower limit gives eleven pi over four, plus eleven, minus six root two.
+
+00:02:24.440 --> 00:02:38.145
+Step four: the bracket is eleven point one five four one. Times pi is thirty five point zero four, so thirty five. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:39.280 --> 00:02:48.740
+Common mistake. A common mistake is to forget pi. The integral gives eleven point one five four one. The volume is pi times that.
+
+00:02:49.840 --> 00:03:07.809
+Your turn. Now you try, from November twenty twenty. The region under y equals e to the three x, from x equals nought to three, is rotated about the x-axis. Find the exact volume, in terms of pi and e. Write your answer, then choose Continue to Answer.
+
+00:03:08.920 --> 00:03:16.139
+Answer. Square y: e to the three x, all squared, is e to the six x. Add the powers: three plus three.
+
+00:03:16.720 --> 00:03:29.553
+Integrate: e to the six x over six. At three, minus at nought: e to the eighteen over six, minus one over six. So V is pi over six, times e to the eighteen minus one.
+
+00:03:30.120 --> 00:03:38.779
+The common wrong answer squares the three and gets e to the nine x. But squaring doubles the power: two times three x is six x.
+
+00:03:39.360 --> 00:03:45.488
+Remember: square y fully, rewrite any squares, integrate with the limits, and multiply by pi.

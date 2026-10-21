@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.329
+Idea. A road crosses a railway at right angles. The road is perpendicular to the railway. A perpendicular gradient is the negative reciprocal: flip it, and change the sign.
+
+00:00:12.880 --> 00:00:23.930
+A perpendicular bisector cuts a line segment in half, at a right angle. So it passes through the midpoint, and its gradient is the negative reciprocal of the segment's gradient.
+
+00:00:24.480 --> 00:00:36.339
+Any line needs a gradient and a point. For a perpendicular line, the gradient comes from the perpendicular rule. The point is given, or is the midpoint, or comes from a ratio.
+
+00:00:36.920 --> 00:00:46.199
+These questions say a line is perpendicular to another and passes through a point. Often the equation is printed, so you must reach it exactly.
+
+00:00:47.320 --> 00:00:58.581
+Method. Step one: find the gradient of the given line or segment. Step two: take the negative reciprocal. Step three: find the point the new line goes through.
+
+00:00:59.160 --> 00:01:13.697
+Step four: put the gradient and the point into y minus y one equals m, x minus x one. Clear fractions and rearrange to the form asked. The trap is using the wrong point, or the wrong gradient.
+
+00:01:14.800 --> 00:01:35.931
+Worked example. January twenty twenty two. L one is y minus two x minus six equals zero. The point P, two, a, lies on L one. L two is perpendicular to L one and goes through P. Show that an equation of L two is x plus two y minus twenty two equals zero. Four marks.
+
+00:01:36.520 --> 00:01:45.323
+First, the point P. Put x equals two into L one: a minus four minus six equals zero. So a is ten, and P is two, ten.
+
+00:01:45.880 --> 00:01:56.215
+Now the gradient. Rearrange L one to y equals two x plus six. Its gradient is two. The perpendicular gradient is minus one half.
+
+00:01:56.800 --> 00:02:06.035
+Now the equation. Y minus ten equals minus one half, times, x minus two. This line goes through P with the right gradient.
+
+00:02:06.600 --> 00:02:20.241
+Multiply by two to clear the fraction: two y minus twenty equals minus x plus two. Move everything to one side: x plus two y minus twenty two equals zero. That is the printed equation.
+
+00:02:20.800 --> 00:02:31.691
+A tempting wrong route is to use the reciprocal only, one half. Then the line is x minus two y plus eighteen equals zero, which is not the printed equation.
+
+00:02:32.280 --> 00:02:43.767
+So an equation of L two is x plus two y minus twenty two equals zero, as required. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:44.880 --> 00:02:57.712
+Common mistake. A common mistake is doing half the rule. Some students only change the sign, or only flip. The perpendicular gradient to two is minus one half. Both steps are needed.
+
+00:02:58.840 --> 00:03:19.900
+Your turn. Now you try, from January twenty twenty three. The line l has gradient minus one twelfth and passes through A, three, ten. The line k is perpendicular to l and passes through A. Find an equation for k in the form y equals m x plus c. Write your answer, then choose Continue to Answer.
+
+00:03:21.000 --> 00:03:33.704
+Answer. The gradient of l is minus one twelfth. Flip it to get minus twelve, then change the sign, to get plus twelve. So the gradient of k is twelve. The point A is three, ten.
+
+00:03:34.280 --> 00:03:50.654
+Use y minus ten equals twelve, times, x minus three. Multiply out: y minus ten equals twelve x minus thirty six. So y equals twelve x minus twenty six. Check A: twelve times three, minus twenty six, is ten.
+
+00:03:51.240 --> 00:04:00.081
+The most common wrong answer only changes the sign, using one twelfth. That line is not perpendicular. Flip and change the sign.
+
+00:04:00.640 --> 00:04:06.531
+Remember: gradient, negative reciprocal, a point, then the equation in the form asked.

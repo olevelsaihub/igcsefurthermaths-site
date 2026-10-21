@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.677
+Idea. A video goes viral. On day one it has two views, then four, then eight, then sixteen. It doubles every day. You multiply by the same number each time. That is a geometric series.
+
+00:00:14.240 --> 00:00:25.907
+The first term is a. The number you multiply by is the common ratio, r. The second term is a r. The third is a r squared. The power is one less than the term number.
+
+00:00:26.480 --> 00:00:35.459
+Two terms give two equations. To remove a, divide the later term by the earlier term. Everything cancels except a power of r.
+
+00:00:36.040 --> 00:00:49.295
+Then take a root. An even power gives two values, plus and minus. A clue in the question, such as the second term being negative, picks one. Exact means leave roots as surds, like root two.
+
+00:00:49.880 --> 00:00:58.956
+These questions give two terms and ask for the common ratio and the first term. You divide, take the root, choose the sign, then find a.
+
+00:01:00.080 --> 00:01:11.789
+Method. Step one: write each term as a times r to a power. The power is one less than the term number. Step two: divide the later term by the earlier. The a cancels.
+
+00:01:12.360 --> 00:01:22.786
+Step three: take the root. An even power gives two values. Step four: use the clue to choose the sign, then find a by substituting into one of the terms.
+
+00:01:23.360 --> 00:01:28.649
+The trap is the power of r. The third term is a r squared, not a r cubed.
+
+00:01:29.760 --> 00:01:44.357
+Worked example. June twenty twenty five, paper two. A geometric series has third term ten and seventh term forty. The second term is negative. Find the exact value of r, and the value of a. Five marks.
+
+00:01:44.920 --> 00:01:52.535
+Step one: write the terms. The third term, a r squared, is ten. The seventh term, a r to the six, is forty.
+
+00:01:53.120 --> 00:02:01.515
+Step two: divide. A cancels. R to the four equals four. So r squared is two, and r is plus or minus root two.
+
+00:02:02.080 --> 00:02:14.601
+Step three: choose. A r squared is ten, and r squared is positive, so a is positive. The second term, a r, is negative. So r must be negative. R is minus root two.
+
+00:02:15.160 --> 00:02:20.417
+Step four: find a. A equals ten over r squared. Ten over two is five.
+
+00:02:21.000 --> 00:02:31.548
+Reject a tempting route. Ignoring the clue and taking r as plus root two makes the second term five root two. That is positive, which breaks the question.
+
+00:02:32.120 --> 00:02:49.082
+Check. The terms run five, minus five root two, ten, and so on, up to forty. The third is ten and the seventh is forty. So r is minus root two and a is five. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:50.200 --> 00:02:58.027
+Common mistake. A common mistake is subtracting the two terms. Subtracting does not remove a. Dividing does.
+
+00:02:59.160 --> 00:03:15.383
+Your turn. Now you try, from January twenty twenty two. The second term is five over sixteen. The fifth term is one hundred and thirty five over one thousand and twenty four. Find r and a. Write your answer, then choose Continue to Answer.
+
+00:03:16.520 --> 00:03:28.178
+Answer. The second term is a r. The fifth term is a r to the four. Divide the fifth by the second. R cubed is twenty seven over sixty four. So r is three quarters.
+
+00:03:28.760 --> 00:03:36.663
+Now a r is five over sixteen. So a is five over sixteen divided by three quarters, which is five over twelve.
+
+00:03:37.240 --> 00:03:46.753
+The common wrong answer is r equal to four thirds. It comes from dividing the earlier term by the later term. Always put the later term on top.
+
+00:03:47.320 --> 00:03:54.347
+Remember the method. Write the terms, divide the later by the earlier, take the root, choose the sign, and find a.

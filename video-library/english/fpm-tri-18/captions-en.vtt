@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.357
+Idea. Slice a corner off a block of cheese. The flat cut is a triangle. In the same way, any three corners of a solid join to make a triangle, such as triangle F A C inside this cube.
+
+00:00:13.920 --> 00:00:25.087
+Step by step, find its three sides with Pythagoras. The sides are often a base diagonal, a sloping edge or a face diagonal. Then draw the triangle flat.
+
+00:00:25.640 --> 00:00:33.820
+For an angle, use the cosine rule with all three sides. For an area, use half base times height, or half a b sine C.
+
+00:00:34.400 --> 00:00:42.995
+This type asks for an angle or an area of a triangle inside a solid. Name the triangle, find its sides, then choose the tool.
+
+00:00:44.120 --> 00:00:51.986
+Method. Step one: name the triangle and sketch it flat. Step two: find each side with Pythagoras in the solid.
+
+00:00:52.560 --> 00:01:02.030
+Step three: for an angle use the cosine rule. For an area use half base times height. Step four: for a surface area, add every face once.
+
+00:01:02.600 --> 00:01:08.839
+The trap is using the sloping edge as the height of a face, or assuming a right angle without checking.
+
+00:01:09.960 --> 00:01:27.750
+Worked example. January twenty twenty. A triangular pyramid has an equilateral base A B C, with sides eight centimetres. The vertex X is directly above A, and the height is nine. Find angle B X C, to one decimal place. Three marks.
+
+00:01:28.320 --> 00:01:38.535
+Here is the pyramid. X is directly above A. The angle we want is B X C. It lies in triangle B X C, so we need its three sides.
+
+00:01:39.120 --> 00:01:50.446
+Step two: X A B has a right angle at A. X B squared is nine squared plus eight squared, which is one hundred and forty five. X C is the same, and B C is eight.
+
+00:01:51.000 --> 00:01:59.436
+Here is triangle B X C drawn flat. It is isosceles, with two sides root one hundred and forty five and base eight.
+
+00:02:00.000 --> 00:02:14.718
+Step four: the cosine rule. Cosine B X C is one hundred and forty five, plus one hundred and forty five, minus sixty four, over two times one hundred and forty five. The angle is thirty eight point eight degrees.
+
+00:02:15.280 --> 00:02:25.626
+A tempting route uses nine for both X B and X C. But nine is only the height X A. That would give fifty two point eight degrees, which is wrong.
+
+00:02:26.200 --> 00:02:35.000
+So angle B X C is thirty eight point eight degrees. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:36.120 --> 00:02:49.995
+Common mistake. A common mistake is assuming a right angle without checking. Here one hundred and forty five plus one hundred and forty five is two hundred and ninety, not sixty four. So it is not ninety degrees.
+
+00:02:51.120 --> 00:03:05.679
+Your turn. Now you try, from June twenty twenty five. Find the exact area of triangle V A D, in square centimetres. The height of the pyramid is two root three. Write your answer, then choose Continue to Answer.
+
+00:03:06.800 --> 00:03:23.277
+Answer. The face V A D has base A D, twelve. Its height is V M, where M is the midpoint of A D. O M is six and V O is two root three. So V M squared is twelve plus thirty six, which is forty eight. V M is four root three.
+
+00:03:23.840 --> 00:03:30.248
+The area is a half times twelve times four root three. That is twenty four root three square centimetres.
+
+00:03:30.800 --> 00:03:42.170
+The common wrong answer uses the height of the pyramid, two root three, as the height of the face. That gives twelve root three. The face height is the slant height, four root three.
+
+00:03:42.720 --> 00:03:49.070
+Remember: name the triangle, find the sides, then pick the cosine rule or half base times height.

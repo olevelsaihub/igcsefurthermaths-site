@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.361
+Idea. If you know the roots, you can build the equation. Roots two and three come from x minus two, times x minus three, which is x squared minus five x plus six. Five is the sum, and six is the product.
+
+00:00:14.920 --> 00:00:27.239
+Now the new roots are made from alpha and beta, like two alpha and two beta. The new sum is two times alpha plus beta. The new product is four alpha beta. No solving is needed.
+
+00:00:27.800 --> 00:00:41.235
+The old sum is minus b over a, and the old product is c over a. Put them into the new sum and product. Then write x squared, minus the new sum times x, plus the new product, equals zero.
+
+00:00:41.800 --> 00:00:49.384
+If the question asks for integer coefficients, multiply through to clear the fractions. Integer means a whole number.
+
+00:00:49.960 --> 00:00:56.166
+In these questions, you form a new quadratic equation whose roots are built from the roots of another.
+
+00:00:57.280 --> 00:01:09.517
+Method. Step one: write the old sum and old product. Step two: find the new sum. Step three: find the new product, expanding carefully. Use the difference if it is given.
+
+00:01:10.080 --> 00:01:21.559
+Step four: write x squared, minus the sum times x, plus the product, equals zero. Step five: clear fractions if asked. The trap: the x term is minus the sum.
+
+00:01:22.680 --> 00:01:39.411
+Worked example. June twenty twenty one. This equation has roots alpha and beta, with alpha bigger. From part b, alpha minus beta is three k root five. Form an equation with roots alpha plus one, and beta minus one. Four marks.
+
+00:01:40.000 --> 00:01:50.397
+Step one: the old sum is minus b over a, which is seven k. The old product is c over a, which is k squared. We are also given the difference.
+
+00:01:50.960 --> 00:02:01.437
+Step two: the new sum. Alpha plus one, plus beta minus one. The one and minus one cancel, so the new sum is alpha plus beta, which is seven k.
+
+00:02:02.000 --> 00:02:14.657
+Step three: the new product. Expand alpha plus one, times beta minus one: alpha beta, minus alpha, plus beta, minus one. Minus alpha plus beta is minus the difference.
+
+00:02:15.240 --> 00:02:21.473
+Substitute. k squared, minus three root five k, minus one. That is the new product.
+
+00:02:22.040 --> 00:02:32.823
+A tempting wrong route drops the middle terms, and says the new product is alpha beta minus one. But minus alpha plus beta is not zero, as the roots differ.
+
+00:02:33.400 --> 00:02:46.751
+Step four: x squared, minus the new sum times x, plus the new product, equals zero. So p is minus seven k. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:47.880 --> 00:03:01.267
+Common mistake. A common mistake is the sign of the x term. The new sum is seven k, so the x term is minus seven k x. Plus seven k x would make the roots add to minus seven k.
+
+00:03:02.400 --> 00:03:17.145
+Your turn. Now you try, from January twenty twenty two. Form a quadratic equation, with integer coefficients, whose roots are alpha to the four and beta to the four. Write your answer, then choose Continue to Answer.
+
+00:03:18.280 --> 00:03:27.898
+Answer. The new sum is alpha to the four plus beta to the four, given as minus seven over two. The new product is alpha beta, to the power four.
+
+00:03:28.480 --> 00:03:37.994
+The old product is c over a, which is three over two. So the new product is three over two, to the power four. That is eighty one over sixteen.
+
+00:03:38.560 --> 00:03:53.153
+Write x squared, minus the sum, x, plus the product. Minus minus seven over two is plus seven over two. Multiply by sixteen: sixteen x squared, plus fifty six x, plus eighty one, equals zero.
+
+00:03:53.720 --> 00:04:07.219
+The most common wrong answer uses a plus sign for the new sum, giving sixteen x squared minus fifty six x plus eighty one. Remember: old sum and product, new sum, new product, minus the sum.

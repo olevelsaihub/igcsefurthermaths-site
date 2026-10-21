@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.073
+Idea. Slice a pizza from the centre, a small slice and a big slice. Both have the same height, so the wider crust means the bigger slice. For triangles with the same height, area follows the base.
+
+00:00:13.640 --> 00:00:19.205
+Why? Area is half base times height. With the same height, only the base changes.
+
+00:00:19.760 --> 00:00:32.345
+Triangles may share an angle instead. Area is half a b sine C. If a small triangle takes fractions p and q of the two sides, its area is p times q times the big area.
+
+00:00:32.920 --> 00:00:40.726
+This type uses length ratios from vector work to compare areas. Build the shape from triangles, then write a ratio.
+
+00:00:41.840 --> 00:00:52.644
+Method. Step one: list the length ratios from earlier parts. Step two: find a triangle with a known fraction of the whole shape, such as half a parallelogram.
+
+00:00:53.200 --> 00:01:05.407
+Step three: compare a smaller triangle with it. Shared angle: multiply the side fractions. Shared height: use the ratio of bases. Step four: add or subtract areas.
+
+00:01:05.960 --> 00:01:14.770
+Step five: write the ratio in simplest whole numbers. The trap: a length ratio is not an area ratio when both sides change.
+
+00:01:15.880 --> 00:01:34.807
+Worked example. January twenty twenty. O A B C is a parallelogram. M and N are the midpoints of A B and B C. O B meets M N at X, and O X is three quarters of O B. Find the ratio of area O X N C to area O A B C. Three marks.
+
+00:01:35.360 --> 00:01:43.389
+Let the parallelogram have area S. The diagonal O B cuts it in half, so triangle O B C has area half S.
+
+00:01:43.960 --> 00:01:53.697
+X is three quarters along O B, so X B is one quarter of O B. N is the midpoint of B C, so B N is half of B C.
+
+00:01:54.280 --> 00:02:06.310
+Triangles X B N and O B C share the angle at B. Multiply the side fractions: a quarter times a half is an eighth. So X B N is one sixteenth of S.
+
+00:02:06.880 --> 00:02:16.340
+O X N C is triangle O B C minus triangle X B N. Half S minus S over sixteen is seven S over sixteen.
+
+00:02:16.920 --> 00:02:25.751
+A tempting wrong route uses three quarters for X B. Then X B N is three sixteenths of S, and the ratio is five to sixteen.
+
+00:02:26.320 --> 00:02:36.207
+So the ratio is seven S over sixteen to S: seven to sixteen. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:37.320 --> 00:02:51.025
+Common mistake. A common mistake is changing one side only. X B is a quarter of O B, but B N is also half of B C. Both sides change, so the area is an eighth, not a quarter.
+
+00:02:52.160 --> 00:03:09.127
+Your turn. Now you try, from June twenty twenty four. Use the trapezium. B X is three eighths of B D. Find the ratio of the area of triangle C X D to the area of the trapezium. Write your answer, then choose Continue to Answer.
+
+00:03:10.240 --> 00:03:24.415
+Answer. B X is three eighths of B D, so X D is five eighths. Triangles C X D and C B D share the vertex C, with bases on B D. So C X D is five eighths of C B D.
+
+00:03:25.000 --> 00:03:42.769
+Triangle C B D and the trapezium have the same height. So compare the parallel sides: triangle C B D is three eighths of the trapezium. Then C X D is five eighths of three eighths, which is fifteen sixty fourths. The ratio is fifteen to sixty four.
+
+00:03:43.320 --> 00:03:51.533
+The most common wrong answer is five to eight. That is only the fraction of triangle C B D, not of the whole trapezium.
+
+00:03:52.120 --> 00:03:59.083
+Remember: list the ratios, find a known area, compare triangles, then add or subtract, and simplify.

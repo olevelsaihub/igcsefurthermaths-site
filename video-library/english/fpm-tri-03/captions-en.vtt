@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:16.579
+Idea. Think of a slice of pizza. It has two straight sides and a curved crust. In maths that slice is a sector of a circle. The straight sides are radii. The curved edge is the arc. The angle between the radii is the angle at the centre.
+
+00:00:17.160 --> 00:00:29.413
+We measure the angle in radians. A full turn is two pi radians. Half a turn is pi radians, which is one hundred and eighty degrees. These formulae only work in radians.
+
+00:00:30.000 --> 00:00:42.777
+The arc is a fraction of the whole circumference. The fraction is theta over two pi. Two pi r times theta over two pi leaves r theta. So arc length s is r times theta.
+
+00:00:43.360 --> 00:00:53.557
+The area is the same fraction of the whole circle's area, pi r squared. Theta over two pi times pi r squared leaves a half r squared theta.
+
+00:00:54.120 --> 00:01:03.099
+So these questions ask for an arc length, a sector area, or a perimeter. The perimeter is the whole boundary: two radii plus the arc.
+
+00:01:04.200 --> 00:01:16.017
+Method. Step one: check the angle is in radians. If it is in degrees, multiply by pi over one hundred and eighty. Step two: choose the formula, arc or area.
+
+00:01:16.600 --> 00:01:26.923
+Step three: for a perimeter, add both radii to the arc. Step four: if the radius or angle is unknown, put the facts in a formula and rearrange.
+
+00:01:27.480 --> 00:01:33.207
+The trap: the perimeter is not just the arc. Forget the two radii and you lose the mark.
+
+00:01:34.320 --> 00:01:50.062
+Worked example. January twenty twenty two. Figure one shows sector A O B, with centre O and radius seven centimetres. The angle is one point two radians. Calculate the area of the sector, and the perimeter. Four marks.
+
+00:01:50.640 --> 00:02:06.015
+Part a: the area. A is a half r squared theta. That is a half, times seven squared, times one point two. A half times forty nine is twenty four point five, times one point two is twenty nine point four square centimetres.
+
+00:02:06.600 --> 00:02:14.565
+Part b: first the arc. s is r theta, which is seven times one point two. That is eight point four centimetres.
+
+00:02:15.120 --> 00:02:24.004
+A tempting wrong answer is eight point four as the perimeter. That is only the curved edge. The boundary also has the two straight radii.
+
+00:02:24.560 --> 00:02:43.684
+Step two: add the radii. Seven plus seven plus eight point four is twenty two point four centimetres. So the area is twenty nine point four square centimetres, and the perimeter is twenty two point four centimetres. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:44.800 --> 00:02:59.823
+Common mistake. A common mistake is using degrees in the formulae. Take a sector of radius six, with angle sixty degrees. Convert to pi over three radians first. The arc is two pi, not three hundred and sixty.
+
+00:03:00.960 --> 00:03:18.851
+Your turn. Now you try, from June twenty nineteen. Figure one shows a sector with radius r, angle one point five radians, and arc length twelve centimetres. Find r, then the area of the sector. Three marks. Write your answer, then choose Continue to Answer.
+
+00:03:19.960 --> 00:03:31.200
+Answer. Part a: arc length is r theta. So twelve equals r times one point five. Divide: r is twelve over one point five, which is eight centimetres.
+
+00:03:31.760 --> 00:03:45.085
+Part b: the area is a half r squared theta. That is a half, times eight squared, times one point five. Half of sixty four is thirty two, times one point five is forty eight square centimetres.
+
+00:03:45.640 --> 00:03:56.208
+The common wrong answer uses twelve as the radius. Then the area would be one hundred and eight. But twelve is the arc length, not the radius. Find r first.
+
+00:03:56.760 --> 00:04:03.627
+Remember: radians first, pick the formula, add two radii for a perimeter, and rearrange for an unknown.

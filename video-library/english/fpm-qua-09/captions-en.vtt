@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.655
+Idea. An unknown constant is a letter, like p, whose value we do not know. A condition is a clue about the roots, such as: the roots differ by three. The clue lets us find p.
+
+00:00:13.240 --> 00:00:24.459
+The sum and product still work with p inside. Here a is two. The sum is minus six plus two p, over two, which is minus, three plus p. The product is p.
+
+00:00:25.040 --> 00:00:38.501
+Rewrite the condition using the sum and product. The difference squared is the sum squared, minus four times the product: three plus p squared, minus four p, which is nine plus two p plus p squared.
+
+00:00:39.080 --> 00:00:50.141
+Then the clue gives an equation in p. We solve it, often a quadratic. Finally we check every answer against the conditions in the question, and reject any that fail.
+
+00:00:50.720 --> 00:00:56.488
+In these questions, you find the value of an unknown constant from a condition on the roots.
+
+00:00:57.600 --> 00:01:11.737
+Method. Step one: write the sum and the product, with the letter in them. Step two: rewrite the given condition using the sum and the product. Step three: substitute to form an equation in the letter, and simplify.
+
+00:01:12.320 --> 00:01:21.941
+Step four: solve it. Step five: reject values that break a condition. The trap is dividing by the letter. That loses the solution nought.
+
+00:01:23.080 --> 00:01:40.935
+Worked example. June twenty twenty two. This equation has roots alpha and beta. From part b, alpha minus beta, squared, is nine plus two p plus p squared. Given that alpha minus beta is three, find the possible values of p. Three marks.
+
+00:01:41.520 --> 00:01:51.087
+Step one: if alpha minus beta is three, then alpha minus beta, squared, is nine. So nine equals nine plus two p plus p squared.
+
+00:01:51.640 --> 00:01:57.111
+Step two: take nine from both sides. We get p squared plus two p equals zero.
+
+00:01:57.680 --> 00:02:09.474
+A tempting wrong route is to divide both sides by p. That leaves p plus two equals zero, so p is minus two. But p equal to nought is lost. Factorise instead.
+
+00:02:10.040 --> 00:02:16.971
+Step three: factorise. p times p plus two equals zero. So p is nought, or p is minus two.
+
+00:02:17.560 --> 00:02:34.359
+Check minus two: the roots of two x squared plus two x minus four are one and minus two, three apart. Check nought: the roots are nought and minus three, also three apart. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:35.480 --> 00:02:49.385
+Common mistake. A common mistake is a sign slip. The sum is minus six plus two p, over two. That is minus, three plus p. Writing three plus p loses the minus sign, and the sum goes wrong.
+
+00:02:50.520 --> 00:03:05.001
+Your turn. Now you try, from January twenty twenty three. Use the given alpha squared plus beta squared, and alpha to the four plus beta to the four, to find k. Write your answer, then choose Continue to Answer.
+
+00:03:06.120 --> 00:03:20.033
+Answer. The product of the roots is minus one third. Alpha to the four plus beta to the four is alpha squared plus beta squared, squared, minus two times the product squared. The product squared is one ninth.
+
+00:03:20.600 --> 00:03:34.934
+Set it equal to four hundred and sixty six over eighty one. Write two ninths as eighteen over eighty one. Multiply by eighty one: k squared plus six, squared, minus eighteen equals four hundred and sixty six.
+
+00:03:35.520 --> 00:03:48.415
+The square root of four hundred and eighty four is twenty two. So k squared plus six is twenty two. k squared is sixteen. k is four. k is a positive integer, so reject minus four.
+
+00:03:49.000 --> 00:04:02.692
+The most common wrong answer uses two alpha beta, not two times alpha beta squared. That gives four hundred and twelve, which is not a square number. Remember: sum, product, condition, solve, check.

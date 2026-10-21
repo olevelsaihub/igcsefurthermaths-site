@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.524
+Idea. Think of a car on a straight road. Its displacement, s, is how far it is from the start, in metres. The speedometer shows how fast that changes. This is the velocity, v.
+
+00:00:13.080 --> 00:00:26.784
+Now press the accelerator. The velocity changes. How fast the velocity changes is the acceleration, a. So acceleration is d v by d t. It is also the second derivative of s.
+
+00:00:27.360 --> 00:00:34.516
+So to go along this chain, from s to v to a, you differentiate. Each step along is one differentiation.
+
+00:00:35.080 --> 00:00:43.483
+Units matter too. Displacement is in metres, velocity in metres per second, and acceleration in metres per second squared.
+
+00:00:44.040 --> 00:00:51.560
+These questions give s or v as a formula in t. They ask for the velocity or acceleration at one time.
+
+00:00:52.680 --> 00:01:04.893
+Method. Step one: decide which quantity you are given and which you need. Step two: differentiate with respect to t, once or twice. Each step moves one place along the chain.
+
+00:01:05.480 --> 00:01:13.533
+Step three: now put the time into the new formula and write the answer with its unit. The trap is putting the time in too early.
+
+00:01:14.640 --> 00:01:33.305
+Worked example. June twenty nineteen. A particle P moves in a straight line. At time t seconds, its velocity v metres per second is t squared minus four t plus seven. Find the acceleration of P, in metres per second squared, when t is three. Two marks.
+
+00:01:33.880 --> 00:01:39.799
+Step one: we are given velocity, and we need acceleration. That is one differentiation.
+
+00:01:40.360 --> 00:01:49.820
+Step two: differentiate each term. T squared gives two t. Minus four t gives minus four. The seven is a constant, so it gives nought.
+
+00:01:50.400 --> 00:01:59.633
+A tempting route is to put t equals three straight into v. That gives four, which is the velocity, not the acceleration. Reject it.
+
+00:02:00.200 --> 00:02:15.073
+Step three: substitute t equals three into the acceleration. Two times three, minus four, is two. The unit is metres per second squared. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:15.640 --> 00:02:24.257
+Here is v against t. The gradient of this graph is the acceleration. At t equals three the gradient is two, which agrees.
+
+00:02:25.360 --> 00:02:33.775
+Common mistake. A common mistake is keeping the constant when differentiating. The derivative of seven is nought, not seven.
+
+00:02:34.880 --> 00:02:55.855
+Your turn. Now you try, from June twenty twenty two. A particle P moves along the x-axis. Its displacement is t to the power four, minus thirteen point five t, plus twelve. Find the velocity when t is three, and the acceleration when t is two. Write your answer, then choose Continue to Answer.
+
+00:02:56.960 --> 00:03:17.949
+Answer. For velocity, differentiate the displacement once. T to the four gives four t cubed. Minus thirteen point five t gives minus thirteen point five. The twelve disappears. At t equals three, four times twenty seven, minus thirteen point five, is ninety four point five metres per second.
+
+00:03:18.520 --> 00:03:29.943
+For acceleration, differentiate the velocity again. Four t cubed gives twelve t squared. At t equals two, twelve times four is forty eight metres per second squared.
+
+00:03:30.520 --> 00:03:41.063
+The common wrong answer puts t equals three into x. That gives fifty two point five, which is a position. It is not the velocity, so it loses the marks.
+
+00:03:41.640 --> 00:03:47.477
+Remember: decide what you have and need, differentiate, substitute the time, and write the unit.

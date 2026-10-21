@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.308
+Idea. Imagine a hill. A map shows how steep it is at every point, but not how high it is. Can we rebuild the hill from its steepness? Yes, and this question type does exactly that.
+
+00:00:12.880 --> 00:00:24.345
+The gradient function is f dash of x, or d y by d x. Going backwards from it is called integration. Raise each power by one and divide by the new power.
+
+00:00:24.920 --> 00:00:37.277
+Why the c? Differentiating wipes out any constant. So x squared, x squared plus two and x squared minus two share one gradient. Integrating must allow for a constant, c.
+
+00:00:37.840 --> 00:00:43.770
+A point on the curve picks the right one. Put its x and y into the equation and solve for c.
+
+00:00:44.320 --> 00:00:53.663
+These questions give a gradient function and a point, and ask for the equation, or to show something, such as that the curve passes through the origin.
+
+00:00:54.800 --> 00:01:06.088
+Method. Step one: integrate each term. Raise the power by one and divide by the new power. Step two: add c, because differentiating loses any constant.
+
+00:01:06.640 --> 00:01:14.521
+Step three: substitute the known point. Step four: solve for c, then write the curve. Two unknowns need two points.
+
+00:01:15.080 --> 00:01:21.181
+The trap is leaving out c, or guessing it is nought. Add c first, then find it from the point.
+
+00:01:22.320 --> 00:01:39.645
+Worked example. June twenty twenty two. The point four, minus one hundred and four, lies on curve C. The gradient function is four x cubed, minus twelve x squared, minus nineteen x, plus twelve. Show that C passes through the origin. Four marks.
+
+00:01:40.200 --> 00:01:52.068
+Step one: integrate each term and add c. Four x cubed gives x to the four. Minus nineteen x gives minus nineteen over two, x squared. Twelve gives twelve x.
+
+00:01:52.640 --> 00:02:02.730
+Step two: put in x equals four and y equals minus one hundred and four. The first two terms cancel. Then minus one fifty two, plus forty eight.
+
+00:02:03.280 --> 00:02:12.479
+Step three: solve. Minus one hundred and four equals minus one hundred and four plus c, so c is nought. We must show this, not assume it.
+
+00:02:13.040 --> 00:02:24.163
+Step four: conclude. Put in x equals nought: every term is nought, so y is nought. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:25.280 --> 00:02:36.457
+Common mistake. A common mistake is to multiply by the new power instead of dividing. Twelve x squared gives twelve x cubed over three, which is four x cubed.
+
+00:02:37.560 --> 00:02:58.843
+Your turn. Now you try, from January twenty twenty. The gradient function is three x squared, minus four x, minus p. The points two, nought and minus one, nine lie on the curve. Show that C is y equals x cubed, minus two x squared, minus four x, plus eight. Write your answer, then choose Continue to Answer.
+
+00:02:59.960 --> 00:03:05.799
+Answer. Integrate: x cubed, minus two x squared, minus p x, and add c.
+
+00:03:06.360 --> 00:03:15.211
+Point two, nought: eight minus eight minus two p plus c is nought, so c is two p. Point minus one, nine: p plus c is twelve.
+
+00:03:15.800 --> 00:03:21.953
+So p plus two p is twelve. p is four and c is eight, which gives the printed equation.
+
+00:03:22.520 --> 00:03:32.161
+A common wrong answer integrates minus p to nought. But p is a constant, so it integrates to minus p x. Leaving it out loses marks.
+
+00:03:32.720 --> 00:03:37.951
+Remember: integrate every term, add c, substitute the points, solve for c.

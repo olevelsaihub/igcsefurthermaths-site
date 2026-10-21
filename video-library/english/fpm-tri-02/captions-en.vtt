@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:16.713
+Idea. Take a right-angled triangle with sides three, four and five. Sine is opposite over hypotenuse, three over five. Cosine is four over five. Square each and add: nine over twenty five plus sixteen over twenty five is one.
+
+00:00:17.280 --> 00:00:25.695
+This works for every angle. Sine squared theta plus cosine squared theta is one. If you know one ratio, you can find the other.
+
+00:00:26.280 --> 00:00:41.509
+Try it. Cosine alpha is five thirteenths. Then sine squared is one minus twenty five over one hundred and sixty nine, which is one hundred and forty four over one hundred and sixty nine. So sine alpha is twelve thirteenths.
+
+00:00:42.080 --> 00:00:58.462
+A square root can be plus or minus, so the angle decides the sign. In an acute angle, all three ratios are positive. In an obtuse angle, between ninety and one hundred and eighty degrees, sine is positive, but cosine and tangent are negative.
+
+00:00:59.040 --> 00:01:09.875
+So you are given one ratio, or triangle sides, and find another ratio exactly. Exact means a fraction or a root, such as root fifteen, not a decimal.
+
+00:01:11.000 --> 00:01:24.407
+Method. Step one: write down the ratio you know. It may come from the cosine rule. Step two: use sine squared plus cosine squared equals one to find the square of the other ratio, then take the root.
+
+00:01:24.960 --> 00:01:32.486
+Step three: choose the sign from the angle. Step four: for tangent, divide sine by cosine, then simplify.
+
+00:01:33.040 --> 00:01:38.309
+The trap is forgetting to square. Square the cosine first, then subtract from one.
+
+00:01:39.440 --> 00:01:54.583
+Worked example. June twenty nineteen. In triangle A B C, A B is two x, A C is three x, and B C is four x centimetres. Show that sine of angle A B C is three root fifteen over sixteen. Four marks.
+
+00:01:55.160 --> 00:02:03.243
+Here is the triangle. Angle A B C is at B, opposite side A C. We know three sides, so use the cosine rule.
+
+00:02:03.800 --> 00:02:18.060
+Step one: the cosine rule. Cosine B is A B squared plus B C squared minus A C squared, over two A B times B C. That is eleven x squared over sixteen x squared, which is eleven sixteenths.
+
+00:02:18.640 --> 00:02:27.843
+Step two: sine squared B is one minus eleven sixteenths, squared. That is one hundred and thirty five over two hundred and fifty six.
+
+00:02:28.400 --> 00:02:40.794
+A tempting wrong route is sine B equals one minus eleven sixteenths. That forgets to square. It gives five sixteenths, about nought point three one, not the target nought point seven three.
+
+00:02:41.360 --> 00:03:00.463
+Step three: B is a triangle angle, so sine is positive. Root one hundred and thirty five is root nine times fifteen, which is three root fifteen. So sine A B C is three root fifteen over sixteen. This explanation is by olevels dot com, not an official mark scheme.
+
+00:03:01.600 --> 00:03:13.587
+Common mistake. A common mistake is the sign for an obtuse angle. If sine theta is three fifths and theta is obtuse, cosine theta is minus four fifths, not plus.
+
+00:03:14.720 --> 00:03:31.841
+Your turn. Now you try, from June twenty twenty one. Alpha is acute, with cosine three fifths. Beta is obtuse, with sine a half. Find the exact value of tan alpha and tan beta. Three marks. Write your answer, then choose Continue to Answer.
+
+00:03:32.960 --> 00:03:41.986
+Answer. For alpha: sine alpha is four fifths, and positive. Tan alpha is four fifths over three fifths, which is four thirds.
+
+00:03:42.560 --> 00:03:57.642
+For beta: cosine squared is one minus a quarter, three quarters. Beta is obtuse, so cosine is minus root three over two. Tan beta is a half over minus root three over two, which is minus root three over three.
+
+00:03:58.200 --> 00:04:08.587
+The common wrong answer is plus root three over three. That ignores that beta is obtuse. A decimal is also wrong, because the question says exact.
+
+00:04:09.160 --> 00:04:14.969
+Remember: know one ratio, use the identity, choose the sign, and divide for tangent.

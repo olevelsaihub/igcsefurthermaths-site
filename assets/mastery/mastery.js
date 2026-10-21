@@ -3,7 +3,7 @@
   'use strict';
   var BANKS = window.MASTERY_BANKS = window.MASTERY_BANKS || {};
   var SIZE = 10;
-  var STORE = 'olv-ac-mastery-v1';
+  var STORE = 'olv-fpm-mastery-v1';
 
   function shuffle(a) { a = a.slice(); for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }

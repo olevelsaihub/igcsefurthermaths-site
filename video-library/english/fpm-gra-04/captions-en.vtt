@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:16.051
+Idea. Share a twelve pound bill between x friends. Each pays twelve over x. You cannot share between nought friends. With a thousand friends each pays almost nothing, but never exactly nothing. These two lines are called asymptotes.
+
+00:00:16.640 --> 00:00:32.255
+A rational curve is a fraction with x on the top and bottom, like a x plus b over c x plus d. Its vertical asymptote is parallel to the y axis. You cannot divide by zero, so the denominator is not zero there.
+
+00:00:32.840 --> 00:00:49.923
+The horizontal asymptote, parallel to the x axis, is where y settles when x is huge. Then plain numbers hardly matter. Take y equals two x plus one, over x plus one. As x grows, y gets closer to two, which is two over one.
+
+00:00:50.480 --> 00:01:00.815
+The question says: write down an equation of the asymptote parallel to an axis. Answer with a full equation, x equals something or y equals something.
+
+00:01:01.920 --> 00:01:12.191
+Method. Step one: for the vertical asymptote, set the denominator equal to zero and solve. It must match the value the question says x cannot be.
+
+00:01:12.760 --> 00:01:25.249
+Step two: for the horizontal asymptote, divide the coefficient of x on top by the coefficient of x below. Watch the signs. Seven minus x has coefficient minus one.
+
+00:01:25.800 --> 00:01:38.928
+Steps three and four: write each answer as an equation, and check the vertical one against the question. The trap is a bare number. Three over two is not an asymptote. x equals three over two is.
+
+00:01:40.040 --> 00:01:57.617
+Worked example. June twenty twenty two. A curve C is y equals seven x minus two, over, two x minus three, where x is not three over two. Write down the asymptote parallel to the y axis and the one parallel to the x axis. Two marks.
+
+00:01:58.200 --> 00:02:08.792
+Step one: parallel to the y axis. Set the denominator to zero. Two x minus three is nought, so x is three over two. This matches the question.
+
+00:02:09.360 --> 00:02:18.519
+Step two: parallel to the x axis. The coefficient of x on top is seven. On the bottom it is two. So y is seven over two.
+
+00:02:19.080 --> 00:02:29.923
+Check with big values of x. At ten, y is four. At a hundred, three point five four. At a thousand, three point five. It settles near seven over two.
+
+00:02:30.480 --> 00:02:40.890
+A tempting wrong route is to divide the constants: minus two over minus three. That is two thirds, where the curve crosses the y axis, not its asymptote.
+
+00:02:41.440 --> 00:02:46.431
+Here is the curve. Each branch hugs both dashed lines but never touches them.
+
+00:02:47.000 --> 00:03:02.263
+So the asymptote parallel to the y axis is x equals three over two. The asymptote parallel to the x axis is y equals seven over two. This explanation is by olevels dot com, not an official mark scheme.
+
+00:03:03.400 --> 00:03:13.889
+Common mistake. A common mistake is a sign slip. If x plus four is nought, x is minus four, not four. Moving a number across changes its sign.
+
+00:03:15.000 --> 00:03:28.765
+Your turn. Now you try, from June twenty twenty five. A curve is y equals seven minus x, over, two x plus three. Write down both asymptotes. Write your answer, then choose Continue to Answer.
+
+00:03:29.880 --> 00:03:36.527
+Answer. Parallel to the y axis: two x plus three is nought, so x is minus three over two.
+
+00:03:37.080 --> 00:03:46.913
+Parallel to the x axis: on top, seven minus x has x coefficient minus one. On the bottom it is two. So y is minus a half.
+
+00:03:47.480 --> 00:03:57.047
+The most common wrong answer drops the minus sign and gives y equals a half. The top is seven minus x, so the coefficient is minus one.
+
+00:03:57.600 --> 00:04:06.184
+Remember: denominator zero for the vertical line, ratio of x coefficients for the horizontal line, then full equations.

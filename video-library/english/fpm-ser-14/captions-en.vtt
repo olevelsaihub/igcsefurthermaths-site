@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.063
+Idea. Total views double each day. The running totals are fifteen, thirty one, sixty three, one hundred and twenty seven. When does the total first pass one hundred? On day seven.
+
+00:00:12.640 --> 00:00:24.780
+In a geometric series, n sits in a power, like r to the n. To bring n down, take logarithms, or logs. The rule: log of r to the n is n times log r.
+
+00:00:25.360 --> 00:00:35.107
+When r is a fraction, its log is negative. Dividing an inequality by a negative number reverses the sign. This step loses many marks.
+
+00:00:35.680 --> 00:00:43.678
+These questions ask for the least n so that a sum or a term passes a target. You use logs, then round to a whole number.
+
+00:00:44.800 --> 00:00:55.185
+Method. Step one: write the sum or term using a and r, and make the inequality. Step two: get the power of r on its own, before taking logs.
+
+00:00:55.760 --> 00:01:04.699
+Step three: take logs, bring n down, and divide by log r. If r is a fraction, log r is negative, so reverse the sign.
+
+00:01:05.280 --> 00:01:11.391
+Step four: round to a whole number the right way, and check. The trap is not reversing the sign.
+
+00:01:12.520 --> 00:01:30.064
+Worked example. June twenty twenty four, paper one. The first term is three hundred and twenty and the common ratio is one quarter. Using logarithms, find the least n such that S n is greater than four hundred and twenty six point six. Four marks.
+
+00:01:30.640 --> 00:01:41.403
+Step one: S n is a times one minus r to the n, over one minus r. That is twelve hundred and eighty over three, times one minus one quarter to the n.
+
+00:01:41.960 --> 00:01:50.407
+Step two: divide by twelve hundred and eighty over three. Then one quarter to the n is less than one over six thousand four hundred.
+
+00:01:50.960 --> 00:01:58.352
+Step three: take logs. N times log of one quarter is less than log of one over six thousand four hundred.
+
+00:01:58.920 --> 00:02:10.439
+Step four: log of one quarter is negative, so dividing reverses the sign. N is greater than log six thousand four hundred over log four. That is six point three two.
+
+00:02:11.000 --> 00:02:23.640
+Reject a tempting route. Not reversing the sign gives n less than six point three two, so n is six. But S six is four hundred and twenty six point five six, not above the target.
+
+00:02:24.200 --> 00:02:31.249
+So the least whole number is seven. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:32.360 --> 00:02:43.323
+Common mistake. Another mistake is taking logs too early. Log of one minus a power is not log one minus log of the power. Isolate the power first.
+
+00:02:44.440 --> 00:03:04.554
+Your turn. Now you try, from November twenty twenty three. The first term is sixteen. From part a, r is plus or minus thirteen over twenty five, and r is positive. The sum to n terms is greater than thirty three. Using logarithms, find the least n. Write your answer, then choose Continue to Answer.
+
+00:03:05.680 --> 00:03:17.929
+Answer. R is thirteen over twenty five. S n is one hundred over three, times one minus r to the n. Greater than thirty three gives r to the n less than nought point nought one.
+
+00:03:18.480 --> 00:03:29.166
+Take logs. The log of thirteen over twenty five is negative, so reverse the sign. N is greater than seven point oh four. The least whole number is eight.
+
+00:03:29.720 --> 00:03:40.631
+The common wrong answer is seven, from rounding seven point oh four down. But S seven is thirty two point nine nine, not above thirty three. Least means round up.
+
+00:03:41.200 --> 00:03:46.433
+Remember the method. Isolate the power, take logs, reverse the sign, and round.

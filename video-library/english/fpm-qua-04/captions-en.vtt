@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.891
+Idea. Kick a football. It rises to a highest point, then falls. That highest point is the maximum. The lowest point of a curve is the minimum. Either one is a turning point.
+
+00:00:12.480 --> 00:00:23.487
+A square is never negative. x minus three, all squared, is zero when x is three, and positive everywhere else. So a square has a smallest value of zero.
+
+00:00:24.040 --> 00:00:35.507
+Add a square to a number, and the least value is that number. x minus three, squared, plus two, is smallest when the square is zero. The least value is two, when x is three.
+
+00:00:36.080 --> 00:00:52.227
+Take a square away from a number, and the greatest value is that number. Nine minus x minus three squared is biggest when the square is zero: the value is nine, at x equals three. The x value has the opposite sign to the number in the bracket.
+
+00:00:52.800 --> 00:01:02.798
+These questions give you completed square form, or ask you to find it first. Then you write down the greatest or least value, and the x value where it happens.
+
+00:01:03.920 --> 00:01:17.560
+Method. Step one: have the completed square form. Step two: plus a square means a minimum. Minus a square means a maximum. Step three: the greatest or least value is the number outside the bracket.
+
+00:01:18.120 --> 00:01:28.138
+Step four: to find x, set the bracket equal to zero and solve. The trap is the sign: x minus three means x is three, not minus three.
+
+00:01:29.240 --> 00:01:47.973
+Worked example. November twenty twenty. f of x is x squared minus nine x plus fourteen. From the earlier part, it is x minus nine over two, squared, minus twenty five over four. Find the minimum value of f of x, and the x value where it occurs. Two marks.
+
+00:01:48.560 --> 00:01:58.809
+Step one: the form is a bracket squared, minus twenty five over four. A square is never negative, so f of x is at least minus twenty five over four.
+
+00:01:59.360 --> 00:02:08.308
+Step two: the plus sign in front of the square means a minimum. The minimum value is minus twenty five over four. That answers part one.
+
+00:02:08.880 --> 00:02:16.623
+Step three: it happens when the square is zero. So x minus nine over two equals zero. x is nine over two.
+
+00:02:17.200 --> 00:02:28.634
+A tempting wrong route is to copy the sign and say x is minus nine over two. Then f of x is two hundred and ninety nine over four, which is nowhere near the minimum.
+
+00:02:29.200 --> 00:02:41.817
+Check on the graph: the lowest point is at x equals four point five, where f is minus six point two five. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:42.920 --> 00:02:54.769
+Common mistake. A common mistake is to call a maximum a minimum. For nine minus x minus three squared, the square is taken away. So it is a maximum, not a minimum.
+
+00:02:55.880 --> 00:03:11.103
+Your turn. Now you try, from November twenty twenty three. Part a is done for you: g of x is in completed square form. Find the minimum of g, then of h, and where each occurs. Write your answer, then choose Continue to Answer.
+
+00:03:12.240 --> 00:03:25.829
+Answer. Part b. A square is added, so there is a minimum. The minimum value of g is minus ninety seven over thirty two. It occurs when x plus one eighth is zero, so x is minus one eighth.
+
+00:03:26.400 --> 00:03:39.838
+Part c. h is g with x cubed in place of x. So the minimum value is the same, minus ninety seven over thirty two. It occurs when x cubed is minus one eighth, so x is minus one half.
+
+00:03:40.400 --> 00:03:50.293
+The most common wrong answer, in part c, keeps x as minus one eighth. But it is x cubed that equals minus one eighth, so x is minus one half.
+
+00:03:50.880 --> 00:03:56.975
+Remember: completed square form, plus or minus, number outside, bracket equals zero.

@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.465
+Idea. Spin a wheel twice as fast and it reaches the top twice as often. So sine two x repeats twice as fast as sine x, and hits the same height more times. That means extra solutions.
+
+00:00:14.040 --> 00:00:26.305
+The angle inside the bracket, such as two x minus seventy five, is a compound angle. We call it u. When x runs from zero to one hundred and eighty, u runs over a different interval.
+
+00:00:26.880 --> 00:00:40.500
+Inverse sine gives one answer, the principal value. The symmetry of the graph gives the others. For sine, the second answer is one hundred and eighty minus the first. Then add or subtract full turns.
+
+00:00:41.080 --> 00:00:49.206
+This type asks you to solve for x in a stated interval. Find u first, keep the values that fit, then change back to x.
+
+00:00:50.320 --> 00:01:02.319
+Method. Step one: rearrange so one trig ratio of the compound angle equals a number. Step two: let u be that angle, and change the interval for x into one for u.
+
+00:01:02.880 --> 00:01:13.418
+Step three: find the principal value, then every other u in the new interval. Step four: undo the bracket to get x, and check each x is in the original interval.
+
+00:01:14.000 --> 00:01:20.611
+The trap is using the old interval for u. You then keep values that are too big and miss negative ones.
+
+00:01:21.720 --> 00:01:38.303
+Worked example. January twenty twenty. Solve, to the nearest integer, sine of two x minus seventy five degrees equals minus nought point five one five, for x from zero up to one hundred and eighty, not included. Three marks.
+
+00:01:38.880 --> 00:01:49.822
+Let u be two x minus seventy five. Double the x interval, then subtract seventy five. So u runs from minus seventy five up to two hundred and eighty five.
+
+00:01:50.400 --> 00:02:05.225
+Inverse sine gives u equals minus thirty point nine nine seven. That is inside the interval, so keep it. By symmetry, the second value is one hundred and eighty minus it: two hundred and ten point nine nine seven.
+
+00:02:05.800 --> 00:02:11.367
+Adding three sixty gives three hundred and twenty nine. That is too big, so reject it.
+
+00:02:11.920 --> 00:02:20.757
+Now undo: add seventy five, then divide by two. That gives x equals twenty two, and x equals one hundred and forty three.
+
+00:02:21.320 --> 00:02:34.011
+A tempting wrong route is to look for u from zero to three sixty. That gives x equals one hundred and forty three, and two hundred and two. The second is out of range, and twenty two is missed.
+
+00:02:34.600 --> 00:02:43.207
+So x is twenty two or one hundred and forty three. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:44.320 --> 00:02:54.857
+Common mistake. A common mistake is to undo only the shift. Two x equals forty four is not the answer. Divide by two as well, to get twenty two.
+
+00:02:55.960 --> 00:03:12.375
+Your turn. Now you try, from June twenty twenty two. Solve cosine of, three x minus fifteen degrees, equals root three over two, for x from zero up to, not including, one hundred and eighty. Write your answer, then choose Continue to Answer.
+
+00:03:13.480 --> 00:03:28.479
+Answer. Let u be three x minus fifteen, so u runs from minus fifteen up to five hundred and twenty five. The principal value is thirty. Symmetry gives three hundred and thirty, and thirty plus three sixty gives three ninety.
+
+00:03:29.040 --> 00:03:42.403
+Undo: add fifteen, then divide by three. So x is fifteen, one hundred and fifteen, or one hundred and thirty five. Check: three times one hundred and fifteen, minus fifteen, is three thirty.
+
+00:03:42.960 --> 00:03:51.598
+The most common wrong answer stops after one turn of u: thirty and three thirty. That misses x equals one hundred and thirty five.
+
+00:03:52.160 --> 00:03:57.361
+Remember: name u, find its interval, find every u, then change back to x.

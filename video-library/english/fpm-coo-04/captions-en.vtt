@@ -1,0 +1,55 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.425
+Idea. A bus route follows a fixed road. A bus stop is on the route only if it is actually on that road. In coordinate geometry, a point lies on a line when its coordinates fit the line's equation.
+
+00:00:14.000 --> 00:00:25.871
+So to find a missing coordinate, substitute the known one into the equation. That leaves one unknown, and one unknown can be solved. Be careful which letter is x and which is y.
+
+00:00:26.440 --> 00:00:37.191
+Where a line crosses the y axis, x is zero. Where it crosses the x axis, y is zero. These are the intercepts. So substitute nought for the other letter.
+
+00:00:37.760 --> 00:00:50.591
+These questions say the point lies on the line, find the value of a, or show that a equals a given number, or write down where the line crosses an axis. They are usually the first one to three marks.
+
+00:00:51.720 --> 00:01:01.763
+Method. Step one: write down the equation of the line. Step two: put the known coordinate in, or nought for an intercept. This leaves one unknown.
+
+00:01:02.320 --> 00:01:13.761
+Step three: solve the linear equation and write the value, or the full point if coordinates are asked. Step four: check by putting it back. The trap is swapping x and y.
+
+00:01:14.880 --> 00:01:30.981
+Worked example. January twenty twenty. The line l one has equation y plus two x minus four equals zero. It passes through P, a, six, and Q, three, b. Find the value of a and the value of b. Two marks.
+
+00:01:31.560 --> 00:01:39.719
+For P, the y coordinate is six, so substitute y equals six. Six plus two a minus four equals zero.
+
+00:01:40.280 --> 00:01:46.392
+Simplify: two a plus two equals zero. So two a equals minus two, and a is minus one.
+
+00:01:46.960 --> 00:01:59.187
+For Q, the x coordinate is three. Substitute x equals three: b plus two times three, minus four, equals zero. That is b plus two equals zero, so b is minus two.
+
+00:01:59.760 --> 00:02:16.035
+Check on the graph. P is minus one, six, and Q is three, minus two. Both lie on the line. A wrong route puts six in for x, as if the point were six, a. That gives a equals minus eight, and the point minus eight, six, is not on the line.
+
+00:02:16.600 --> 00:02:25.015
+So a equals minus one and b equals minus two. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:26.120 --> 00:02:39.901
+Common mistake. A common mistake is a sign slip when moving terms across the equals sign. From two a plus two equals zero, some write two a equals two. The two moves across and becomes minus two.
+
+00:02:41.040 --> 00:02:58.166
+Your turn. Now you try, from November twenty twenty five. The line L one has equation y minus three x plus a equals zero. The point A, a, ten, lies on L one. Show that a equals five. Write your answer, then choose Continue to Answer.
+
+00:02:59.280 --> 00:03:09.333
+Answer. The point A is a, ten. So x is a and y is ten. Substitute into the equation: ten, minus three a, plus a, equals zero.
+
+00:03:09.920 --> 00:03:20.603
+Collect the a terms: minus three a plus a is minus two a. So ten minus two a equals zero. Then two a equals ten, and a equals five, as required.
+
+00:03:21.160 --> 00:03:34.214
+The most common wrong answer collects the a terms wrongly: minus three a plus a written as minus four a. That gives a equals two point five, not five. Minus three plus one is minus two.
+
+00:03:34.800 --> 00:03:41.760
+Remember: write the equation, substitute the known coordinate, solve, and write the answer in the form asked.

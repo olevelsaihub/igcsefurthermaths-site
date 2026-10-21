@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.208
+Idea. Every point on the y axis has x equal to nought. Every point on the x axis has y equal to nought. So ask which coordinate is nought. Here a curve crosses both.
+
+00:00:12.760 --> 00:00:25.332
+A fraction is zero only when its top, the numerator, is zero. Nought over five is nought. But five over nought does not exist. So for the x axis, set only the top equal to nought.
+
+00:00:25.920 --> 00:00:36.349
+For the y axis, put x equals nought. For y equals a x plus b over c x plus d, that gives b over d. The point is nought, b over d.
+
+00:00:36.920 --> 00:00:45.609
+This question says: find where the curve crosses the x axis and the y axis. Answer with coordinates, using exact fractions.
+
+00:00:46.720 --> 00:00:58.638
+Method. Step one: for the y axis, substitute x equals nought and simplify. Step two: for the x axis, set the numerator to nought and solve. Never use the bottom.
+
+00:00:59.200 --> 00:01:11.427
+Step three: write each answer as coordinates, with exact fractions. Step four: check by substituting back. The trap is one coordinate only. Minus five thirds is not a point.
+
+00:01:12.000 --> 00:01:19.038
+Another trap: setting the denominator to nought for the x axis. That gives the asymptote, not an intercept.
+
+00:01:20.160 --> 00:01:36.793
+Worked example. November twenty twenty four. A curve has equation y equals five x minus two, over, three x plus two. Find the coordinates of the point where it meets the x axis, and the point where it meets the y axis. Two marks.
+
+00:01:37.360 --> 00:01:47.901
+Step one: the y axis. Put x equals nought. The top is minus two. The bottom is two. So y is minus one. The point is nought, minus one.
+
+00:01:48.480 --> 00:01:57.364
+Step two: the x axis. Set the top to nought. Five x minus two is nought, so x is two fifths. The point is two fifths, nought.
+
+00:01:57.920 --> 00:02:07.820
+Check by substituting. At x equals two fifths, the top is nought. The bottom is sixteen fifths, which is not nought. So y is nought, as needed.
+
+00:02:08.400 --> 00:02:19.780
+A tempting wrong route is to set the bottom to nought for the x axis. Three x plus two is nought gives minus two thirds. But that is the asymptote, which the curve never reaches.
+
+00:02:20.360 --> 00:02:25.051
+Here is the curve with its two points. The dashed lines are the asymptotes.
+
+00:02:25.640 --> 00:02:37.020
+So the curve meets the x axis at two fifths, nought, and the y axis at nought, minus one. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:38.120 --> 00:02:48.368
+Common mistake. A common mistake is giving one number only. Minus one is not enough. The question asks for coordinates, so write nought, minus one.
+
+00:02:49.480 --> 00:03:06.629
+Your turn. Now you try, from June twenty twenty three. A curve has equation y equals three minus two x, over, x plus six. Find where it crosses the x axis, and where it crosses the y axis. Write your answer, then choose Continue to Answer.
+
+00:03:07.760 --> 00:03:18.547
+Answer. For the x axis, set the top to nought. Three minus two x is nought, so two x is three, and x is three over two. The point is three over two, nought.
+
+00:03:19.120 --> 00:03:27.722
+For the y axis, put x equals nought. The top is three. The bottom is six. So y is a half. The point is nought, a half.
+
+00:03:28.280 --> 00:03:38.201
+The most common wrong answer is a sign slip, giving x equals minus three over two. Check: put x equals three over two in the top. You get nought.
+
+00:03:38.760 --> 00:03:45.697
+Remember: y axis, put x equals nought. x axis, top equals nought. Write coordinates, and check.

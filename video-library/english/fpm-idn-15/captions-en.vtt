@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.834
+Idea. A straight path meets a curved river. It may cross the river again further on. Here a line meets a curve at a point you know. You must find the second place they meet.
+
+00:00:11.400 --> 00:00:20.796
+The curve is a fraction with x in the denominator. Where line and curve meet, the y values are equal. So write the line equal to the curve.
+
+00:00:21.360 --> 00:00:29.603
+To clear the fraction, multiply every term by the denominator, here x minus one. Every term means both sides.
+
+00:00:30.160 --> 00:00:38.148
+You get a quadratic. The known point is one root. The other root is D. The question says find the x coordinate of D.
+
+00:00:39.280 --> 00:00:46.923
+Method. Step one: write the line equal to the curve. Step two: multiply every term by the denominator.
+
+00:00:47.480 --> 00:00:54.612
+Step three: expand and rearrange to zero. Step four: factorise. The known x value is a root.
+
+00:00:55.200 --> 00:01:00.893
+Step five: reject the known point, and give the other root. The trap is giving the known point.
+
+00:01:02.000 --> 00:01:26.222
+Worked example. January twenty twenty. The curve C is y equals q x minus two, over x minus p. It crosses the y axis at A. The line l, y equals x plus two, is the normal at A. A normal is a line at right angles to the curve. From part a, p is one and q is three. The line meets C again at D. Find the x coordinate of D. Four marks.
+
+00:01:26.800 --> 00:01:36.206
+Here is the picture. An asymptote is a line the curve approaches but never reaches. The line passes through A and meets the curve again at D.
+
+00:01:36.760 --> 00:01:47.318
+Step one: line equal to curve, then multiply every term by x minus one. x plus two, times x minus one, equals three x minus two.
+
+00:01:47.880 --> 00:01:57.233
+Step two: expand and rearrange. x squared minus two x equals zero. Factorise: x times x minus two equals zero.
+
+00:01:57.800 --> 00:02:03.259
+So x is nought or two. Nought is the known point A. So D has x equal to two.
+
+00:02:03.840 --> 00:02:08.638
+A tempting wrong route is x equals nought. But that is A, where we started.
+
+00:02:09.200 --> 00:02:25.058
+So the x coordinate of D is two. Check: at x equals two, the curve gives four over one, which is four, and the line gives two plus two, also four. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:26.160 --> 00:02:36.899
+Common mistake. A common mistake is to leave the left side alone. That gives x plus two equals three x minus two. It loses the quadratic, and the marks.
+
+00:02:38.000 --> 00:02:58.399
+Your turn. Now you try, from June twenty twenty two. The curve is five x plus one, over three x minus six. The normal at A meets the curve again at D. Give the x coordinate of D as an improper fraction, a fraction with the top bigger than the bottom. Write your answer, then choose Continue to Answer.
+
+00:02:59.520 --> 00:03:07.281
+Answer. Make y the subject of the line: seventy two x minus eleven, over sixty six. Equate it to the curve.
+
+00:03:07.840 --> 00:03:18.590
+Cross multiply. Sixty six times five x plus one, equals seventy two x minus eleven, times three x minus six. Expand both sides.
+
+00:03:19.160 --> 00:03:37.516
+Rearrange: two hundred and sixteen x squared minus seven hundred and ninety five x equals zero. Factorise. x equals nought is A, so reject it. x is seven hundred and ninety five over two hundred and sixteen, which is two hundred and sixty five over seventy two.
+
+00:03:38.080 --> 00:03:49.449
+The common wrong answer is x equals nought, the known point A. Another gives a decimal, three point six eight. That is not an improper fraction, so the final mark is lost.
+
+00:03:50.000 --> 00:03:57.609
+Remember: line equals curve, multiply every term, rearrange to zero, factorise, reject the known point.

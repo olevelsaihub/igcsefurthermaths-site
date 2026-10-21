@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.437
+Idea. Take sixty. If you know five is a factor, divide to get twelve. Then twelve is three times four. So sixty is five times three times four.
+
+00:00:11.000 --> 00:00:23.323
+Algebra works the same way. A cubic is an expression with x cubed as its highest power. If x minus a is a factor, then the cubic equals x minus a, times a quadratic.
+
+00:00:23.880 --> 00:00:34.478
+To find the quadratic, compare coefficients. Write it with unknowns, such as six x squared plus b x plus c. Expand, and match the terms with the cubic.
+
+00:00:35.040 --> 00:00:48.809
+These questions say: hence factorise completely, or solve. Hence means use the result you have just found. A linear factor is a bracket with x to the power one. Solving means each factor set to zero.
+
+00:00:49.920 --> 00:00:59.632
+Method. Step one: write the known factor. Step two: find the quadratic by comparing coefficients or dividing. Check it by expanding.
+
+00:01:00.200 --> 00:01:11.975
+Step three: factorise the quadratic. Use the formula if it will not factorise. Step four: write f of x as a product of all the factors, or set each factor to zero.
+
+00:01:12.560 --> 00:01:22.060
+Step five: list every root, including the known one. The trap is signs. The bracket three x plus one gives x equals minus a third.
+
+00:01:23.160 --> 00:01:39.511
+Worked example. January twenty twenty. Solve six x cubed, minus thirty one x squared, plus twenty five x, plus twelve, equals zero. From part a, x minus four is a factor. Show clear algebraic working. Four marks.
+
+00:01:40.080 --> 00:01:51.052
+Write the cubic as x minus four, times six x squared plus b x plus c. Compare the constants: minus four c equals twelve, so c is minus three.
+
+00:01:51.640 --> 00:02:03.906
+Compare the x squared terms: b minus twenty four equals minus thirty one, so b is minus seven. Check the x terms: minus three plus twenty eight is twenty five. Correct.
+
+00:02:04.480 --> 00:02:13.973
+Step three: factorise the quadratic. Six x squared minus seven x minus three is three x plus one, times two x minus three.
+
+00:02:14.560 --> 00:02:21.706
+Step four: set each factor to zero. x is four, x is minus one third, and x is three over two.
+
+00:02:22.280 --> 00:02:34.866
+A tempting wrong route is x equals one third from three x plus one. Test it: f of one third is a hundred and fifty four over nine, not zero. The root is minus one third.
+
+00:02:35.440 --> 00:02:44.304
+So x is four, minus one third, or three over two. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:45.440 --> 00:02:57.705
+Common mistake. A common mistake is to leave out the known root. After finding minus one third and three over two, the root four from the factor x minus four must be listed too.
+
+00:02:58.840 --> 00:03:15.175
+Your turn. Now you try, from November twenty twenty four. Four x minus one is a factor of f of x. Find the exact roots. Exact means keep square roots, with no rounded decimals. Write your answer, then choose Continue to Answer.
+
+00:03:16.280 --> 00:03:36.221
+Answer. Write f of x as four x minus one, times sixteen x squared plus b x plus c. The constant: minus c equals three, so c is minus three. The x squared terms: four b minus sixteen equals minus sixty four, so b is minus twelve. Check: the x terms cancel.
+
+00:03:36.800 --> 00:03:57.423
+This quadratic does not factorise, so use the formula. The discriminant is one hundred and forty four plus one hundred and ninety two, which is three hundred and thirty six, or sixteen times twenty one. So x is three plus or minus root twenty one, over eight. The other root, from four x minus one, is one quarter.
+
+00:03:58.000 --> 00:04:09.477
+The common wrong answer gives rounded decimals, such as nought point nine four eight. They are not exact, so the final mark is lost. Leaving out one quarter loses a mark too.
+
+00:04:10.040 --> 00:04:15.229
+Remember: known factor, find the quadratic, factorise it, write every factor.

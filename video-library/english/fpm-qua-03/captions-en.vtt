@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.689
+Idea. Start with a square tile with side x. Its area is x squared. Add two strips, each three wide. They add six x. A three by three corner, area nine, is missing. Fill it, and you get a square with side x plus three.
+
+00:00:16.240 --> 00:00:29.210
+Completing the square means rewriting a quadratic as a bracket squared plus a number. Since x plus three squared is x squared plus six x plus nine, x squared plus six x is that, minus nine.
+
+00:00:29.760 --> 00:00:38.526
+The rule: halve the number in front of x, and put it in the bracket. Then subtract its square. Half of six is three, and three squared is nine.
+
+00:00:39.080 --> 00:00:49.554
+If there is a number in front of x squared, take it out of the x squared and x terms only. Then complete the square inside the bracket. The constant stays outside.
+
+00:00:50.120 --> 00:00:55.537
+In these questions, you write a quadratic in the form given, and find the three constants.
+
+00:00:56.640 --> 00:01:11.936
+Method. Step one: take the number in front of x squared out of the x squared and x terms. Step two: halve the x-number inside, and put it in the bracket. Step three: subtract its square, and multiply by the number you took out.
+
+00:01:12.520 --> 00:01:24.391
+Step four: collect the plain numbers into one constant. Step five: check by expanding. The trap is forgetting to multiply the subtracted square by the number you took out.
+
+00:01:25.520 --> 00:01:39.203
+Worked example. January twenty twenty three. f of x is eight x squared, plus ten x, minus three. Write it as A times x plus B, squared, plus C. Find A, B and C. Three marks.
+
+00:01:39.760 --> 00:01:48.675
+Step one: take eight out of the x squared and x terms. Ten divided by eight is five over four. The minus three stays outside.
+
+00:01:49.240 --> 00:01:57.794
+Step two: halve five over four to get five over eight. That goes in the bracket. Subtract its square, twenty five over sixty four.
+
+00:01:58.360 --> 00:02:07.682
+A tempting wrong route is to halve the ten. That gives x plus five, which is far too big. Always halve the number after you have taken the eight out.
+
+00:02:08.240 --> 00:02:22.251
+Step three: multiply the whole bracket by eight. Eight times twenty five over sixty four is twenty five over eight. So we have eight, times x plus five eighths squared, minus twenty five eighths, minus three.
+
+00:02:22.840 --> 00:02:35.199
+Step four: collect the numbers. Minus twenty five eighths minus twenty four eighths is minus forty nine eighths. So A is eight, B is five eighths, and C is minus forty nine eighths.
+
+00:02:35.760 --> 00:02:51.459
+Check with x equals two. The original gives forty nine. The new form gives four hundred and forty one over eight, minus forty nine over eight, also forty nine. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:52.560 --> 00:03:05.707
+Common mistake. A common mistake is a sign slip when x squared is negative. For minus x squared plus four x, take out minus one first. The answer has x minus two, not x plus two.
+
+00:03:06.840 --> 00:03:18.701
+Your turn. Now you try, from January twenty twenty. Write f of x in the form a minus b times x plus c, squared. Write your answer, then choose Continue to Answer.
+
+00:03:19.840 --> 00:03:31.538
+Answer. Put the terms in order: minus x squared, plus four x, plus seven. Take out minus one from the first two terms: minus, x squared minus four x, plus seven.
+
+00:03:32.120 --> 00:03:44.021
+Halve minus four to get minus two. So x squared minus four x is x minus two, squared, minus four. The minus sign outside means this minus four becomes plus four.
+
+00:03:44.600 --> 00:03:54.803
+Collect: four plus seven is eleven. So f of x is eleven minus, x minus two, squared. a is eleven, b is one, and c is minus two.
+
+00:03:55.360 --> 00:04:04.172
+The most common wrong answer writes x plus two. Its x term has the wrong sign. Remember: factor, halve, subtract, collect.

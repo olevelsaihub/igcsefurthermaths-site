@@ -77,15 +77,20 @@
   const norm = t => String(t).replace(/[\s,'"`\u2018\u2019\u201C\u201D]/gu, '').toUpperCase().replace(/\.+$/, '');
   // accept_text (Further Maths): a written form such as 'k=2' found in the answer, but never as part of a longer number
   // ('K=2' does not match 'K=25' or 'K=-2'). When an item has accept_text it replaces accept_values.
-  const textHit = (answer, forms) => {
-    const got = norm(answer);
+  // Line by line: norm() drops newlines, so 'k = 2' over '5n = 3' would read as 'K=25N=3'.
+  const textHit = (answer, forms) => String(answer).split(/\r?\n/).some(line => {
+    const got = norm(line);
     return forms.some(f => {
       const n = norm(f);
-      for (let i = n ? got.indexOf(n) : -1; i >= 0; i = got.indexOf(n, i + 1))
-        if (!/[0-9.\-]/.test(got[i - 1] || '') && !/[0-9.\/]/.test(got[i + n.length] || '')) return true;
+      for (let i = n ? got.indexOf(n) : -1; i >= 0; i = got.indexOf(n, i + 1)) {
+        const after = got[i + n.length] || '';
+        // 'Y=2' is not 'y = 2x + 1': a digit form followed by one letter (a term like 2x) is not a match
+        const term = /\d$/.test(n) && /[A-Z]/i.test(after) && !/[A-Z]/i.test(got[i + n.length + 1] || '');
+        if (!/[0-9.\-]/.test(got[i - 1] || '') && !/[0-9.\/]/.test(after) && !term) return true;
+      }
       return false;
     });
-  };
+  });
   const itemHit = (it, answer, nums) => it.accept_text ? textHit(answer, it.accept_text) : nums.some(n => near(n, it.accept_values || []));
 
   function check(rule, answer) {

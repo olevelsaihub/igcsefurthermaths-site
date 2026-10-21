@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.051
+Idea. A swing goes up and down, again and again, between a highest and a lowest point. Tides and temperatures repeat like this. A sine formula can model a pattern like that.
+
+00:00:12.640 --> 00:00:25.287
+The sine of any angle is never bigger than one or smaller than minus one. The curve never leaves the two lines. Angles here are in radians. Pi radians is one hundred and eighty degrees.
+
+00:00:25.840 --> 00:00:40.131
+Now a model: P equals a plus b sine of something, with b positive. The sine part is between minus b and b. So P is between a minus b and a plus b. For three plus two sine, that is one to five.
+
+00:00:40.720 --> 00:00:54.363
+For an exact value, put in t, simplify the angle, and use a standard angle. Sine of pi over six is a half. Pi over four gives root two over two. Pi over three gives root three over two.
+
+00:00:54.920 --> 00:01:00.850
+So you get a sine formula, and find an exact value, or the largest or smallest value.
+
+00:01:01.960 --> 00:01:11.441
+Method. Step one: check the angle is in radians. Step two: for a value, put in t, simplify the angle, and use an exact value.
+
+00:01:12.000 --> 00:01:21.881
+Step three: for largest and smallest, put sine equal to one, then minus one. Step four: check the angle is reached for t in the allowed range.
+
+00:01:22.440 --> 00:01:27.825
+The trap is the coefficient. The least value is a minus b, not a minus one.
+
+00:01:28.960 --> 00:01:44.476
+Worked example. November twenty twenty. Here is a formula: P equals three plus two sine of three pi t over eight, for t from nought to twelve. Find the largest value of P, and the smallest value of P. Two marks.
+
+00:01:45.040 --> 00:01:51.833
+Here is the model drawn. It rises and falls between two levels, three minus two and three plus two.
+
+00:01:52.400 --> 00:01:59.651
+Step one: the largest value. Put sine equal to one. P is three plus two times one, which is five.
+
+00:02:00.240 --> 00:02:08.264
+Step two: the smallest value. Put sine equal to minus one. P is three plus two times minus one, which is one.
+
+00:02:08.840 --> 00:02:16.071
+A tempting wrong answer for the smallest is three minus one, which is two. That forgets the two in front of the sine.
+
+00:02:16.640 --> 00:02:29.424
+Step three: check they are reached. Sine is one at pi over two, which is t equal to four thirds. Sine is minus one at three pi over two, t equal to four. Both are in range.
+
+00:02:30.000 --> 00:02:39.865
+So the largest value of P is five, and the smallest value is one. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:41.000 --> 00:02:49.628
+Common mistake. A common mistake is a calculator in degree mode. Here the angle is in radians, so the answers come out wrong.
+
+00:02:50.760 --> 00:03:04.299
+Your turn. Now you try, from November twenty twenty. Same formula, a new task. Find the least value of t for which P equals four. Three marks. Write your answer, then choose Continue to Answer.
+
+00:03:05.400 --> 00:03:12.585
+Answer. Set P equal to four. Take away three, then halve. The sine of three pi t over eight is a half.
+
+00:03:13.160 --> 00:03:26.353
+Sine is a half at pi over six, the smallest angle that works, so it gives the least t. Three pi t over eight equals pi over six, so t is four ninths. That is inside nought to twelve.
+
+00:03:26.920 --> 00:03:40.742
+The common wrong answer uses thirty degrees in place of pi over six. That gives t equal to eighty over pi, about twenty five point five, which is outside the range. The angle here is in radians.
+
+00:03:41.320 --> 00:03:50.076
+Remember: check radians, use sine equal to one and minus one for the limits, and use standard angles to move between t and P.
