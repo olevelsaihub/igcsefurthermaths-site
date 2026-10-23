@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.188
+Think of a route on a map. To get from school to the shop, you go along roads you know. Vector questions work like that: travel from start to end along known vectors, such as a and b.
+
+00:00:14.760 --> 00:00:25.373
+Going against an arrow gives the negative vector. If vector O A is a, then vector A O is minus a. Backwards along a vector means a minus sign.
+
+00:00:25.960 --> 00:00:39.341
+A midpoint cuts a line in half, so vector O M is half of a. A ratio three to one makes four equal parts. Three are on the first side, so O N is three quarters of b: part over whole.
+
+00:00:39.920 --> 00:00:48.613
+This type asks for a vector in terms of a and b. Travel along the sides, using fractions from midpoints and ratios.
+
+00:00:49.720 --> 00:01:01.540
+Step one: mark every known vector on the diagram, with fractions for midpoints and ratios. Step two: turn each ratio m to n into the fraction m over m plus n.
+
+00:01:02.120 --> 00:01:14.254
+Step three: choose a route from the start to the end along known vectors. Step four: add the steps, with a minus sign for any step against its arrow. Then collect like terms.
+
+00:01:14.840 --> 00:01:22.462
+The trap is using the ratio as a fraction directly. Three to one is three quarters of the line, not three times it.
+
+00:01:23.600 --> 00:01:43.294
+January twenty twenty three. In triangle O A B, vector O A is a and vector O B is b. M is the midpoint of O A. N is on O B with O N to N B three to one. Find vector A N and vector B M. Three marks.
+
+00:01:43.880 --> 00:01:53.809
+First the fractions. M is the midpoint, so O M is half of a. N cuts O B three to one, so O N is three over four of b.
+
+00:01:54.360 --> 00:02:00.086
+Now the route for vector A N. From A, go back to O. Then go along O to N.
+
+00:02:00.640 --> 00:02:08.979
+A to O is minus a. O to N is three quarters b. So vector A N is minus a plus three quarters b.
+
+00:02:09.560 --> 00:02:18.917
+For vector B M: from B go back to O, that is minus b. Then O to M, half of a. So B M is half a minus b.
+
+00:02:19.480 --> 00:02:29.927
+A tempting wrong route uses the ratio as a fraction of three. That makes O N three b, longer than O B. Then N would be beyond B.
+
+00:02:30.480 --> 00:02:40.031
+So A N is three quarters b minus a, and B M is half a minus b. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:41.160 --> 00:02:51.242
+A common mistake is forgetting to reverse the sign. Going from A to O is against the arrow of a. It is minus a, not plus a.
+
+00:02:52.360 --> 00:03:14.679
+Now you try, from June twenty twenty one. Vector O A is five p. Vector A B is three q. O C is three halves of O B, and O D is three fifths of O A. Find vector D C in terms of p and q. Write your answer, then choose Continue to Answer.
+
+00:03:15.800 --> 00:03:26.541
+First vector O B: O A plus A B, five p plus three q. Vector O C is three halves of that: seven and a half p, plus four and a half q.
+
+00:03:27.120 --> 00:03:37.435
+Vector O D is three fifths of five p, which is three p. Vector D C is end minus start, O C minus O D: four and a half p, plus four and a half q.
+
+00:03:38.000 --> 00:03:47.037
+The most common wrong answer is the wrong way round: O D minus O C. That is vector C D, the negative of the answer. End minus start.
+
+00:03:47.600 --> 00:03:53.435
+Remember: mark the known vectors, turn ratios into fractions, pick a route, and add the steps.

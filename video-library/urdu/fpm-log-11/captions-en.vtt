@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:16.020
+A log asks: what power? Log base three of nine is two, because three squared is nine. Now flip it. Log base nine of three asks: what power of nine gives three? A half.
+
+00:00:16.600 --> 00:00:27.991
+Swapping the base and the number gives the reciprocal, one divided by the log. So log base x of three is one over log base three of x. Now both logs have base three.
+
+00:00:28.560 --> 00:00:40.598
+Let u stand for log base three of x. An equation with u and one over u becomes a quadratic after you multiply by u. A quadratic has a squared term, like u squared.
+
+00:00:41.160 --> 00:00:52.743
+Each u gives an x. If log base three of x is u, then x is three to the power u. A negative u is allowed. It gives a fraction.
+
+00:00:53.320 --> 00:00:59.904
+So in these questions, you solve an equation with logs of different bases by making a quadratic, then finding x.
+
+00:01:01.040 --> 00:01:14.348
+Step one: change every log to the same base. Step two: let u be that log. Step three: multiply by u, and rearrange to a quadratic equal to zero.
+
+00:01:14.920 --> 00:01:25.027
+Step four: solve the quadratic. Step five: convert each u back to x using x equals the base to the power u. The trap is stopping at u.
+
+00:01:26.160 --> 00:01:37.895
+November twenty twenty. Solve the equation: log base three of x, minus two log base x of three, equals one. Seven marks.
+
+00:01:38.480 --> 00:01:50.039
+Step one: log base x of three is one over log base three of x. Let u be log base three of x. We get u minus two over u equals one.
+
+00:01:50.600 --> 00:02:03.539
+A tempting wrong route says log base x of three equals log base three of x. Then u is minus one and x is a third. But x equals nine is lost.
+
+00:02:04.120 --> 00:02:15.251
+Step two: multiply every term by u. This gives u squared, minus two, equals u. Rearrange: u squared minus u minus two equals zero.
+
+00:02:15.840 --> 00:02:23.561
+Step three: factorise. u minus two, times u plus one, equals zero. So u is two, or u is minus one.
+
+00:02:24.120 --> 00:02:36.923
+Step four: convert back. Log base three of x is two, so x is three squared, which is nine. Or it is minus one, so x is three to the minus one, a third.
+
+00:02:37.480 --> 00:02:53.904
+Check nine: log base three of nine is two, and log base nine of three is a half, so two minus one is one. Check a third: minus one, minus two times minus one, is one. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:55.040 --> 00:03:06.686
+A common mistake is converting back with the wrong base. u equals two means x is three squared, which is nine. Not two cubed, which is eight.
+
+00:03:07.800 --> 00:03:19.169
+Now you try, from June twenty twenty two. Solve this equation, where q is the unknown. Write your answer, then choose Continue to Answer.
+
+00:03:20.280 --> 00:03:34.095
+Use base two. Let v be log base two of q. Log base q of sixteen is four over v. So five times four over v, plus four v, equals twenty four.
+
+00:03:34.680 --> 00:03:46.276
+Multiply by v: twenty plus four v squared equals twenty four v. Divide by four: v squared minus six v plus five equals zero. So v is one or five.
+
+00:03:46.840 --> 00:03:58.210
+Now convert back. q is two to the power v. So q is two to the one, which is two. Or q is two to the five, which is thirty two.
+
+00:03:58.800 --> 00:04:09.673
+The most common wrong answer stops at v equals one and five. The question asks for q. Remember: same base, let u, quadratic, convert back.

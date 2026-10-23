@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.389
+Put a coin on a ruler. The ruler touches the coin at one point. That ruler is a tangent: a straight line that touches a circle at exactly one point.
+
+00:00:11.960 --> 00:00:18.602
+Key fact: the radius to the touching point meets the tangent at a right angle, ninety degrees or pi over two radians.
+
+00:00:19.160 --> 00:00:26.844
+So radius and tangent make a right-angled triangle. If the angle at the centre is theta, the tangent is r times tan theta long.
+
+00:00:27.400 --> 00:00:37.333
+A sector is a slice of a circle. Its area is a half r squared theta, with theta in radians. The shaded region is the triangle minus the sector.
+
+00:00:37.920 --> 00:00:43.999
+You are given the area and asked for r. So build an equation in r, then solve it.
+
+00:00:45.120 --> 00:00:57.503
+Step one: mark the right angle where a radius meets a tangent. Step two: find the tangent length with tan, because the opposite side is r times tan of the angle.
+
+00:00:58.080 --> 00:01:10.503
+Step three: find the triangle area. Two tangents make a kite, which is two equal triangles. Step four: subtract the sector, then solve for r squared.
+
+00:01:11.080 --> 00:01:14.492
+The trap: thinking the tangent is as long as the radius.
+
+00:01:15.600 --> 00:01:34.472
+January twenty twenty. Sector A O B has radius r and angle nought point eight radians. C B is a tangent at B. The shaded area is one hundred and one. Find r to three significant figures. Six marks.
+
+00:01:35.040 --> 00:01:39.200
+Step one: C B is a tangent, so angle O B C is a right angle.
+
+00:01:39.760 --> 00:01:46.566
+Step two: B C is opposite and r is adjacent. So B C is r times tan nought point eight.
+
+00:01:47.120 --> 00:01:58.996
+Step three: triangle area is a half, r, times r tan nought point eight. The sector is a half r squared times nought point eight, which is nought point four r squared.
+
+00:01:59.560 --> 00:02:09.850
+A tempting wrong route takes the tangent as r. That gives nought point one r squared, and r about thirty one point eight. It is wrong.
+
+00:02:10.400 --> 00:02:23.601
+Step four: the shaded area is triangle minus sector, and it equals one hundred and one. Tan nought point eight is one point zero three, so r squared times nought point one one five is one hundred and one.
+
+00:02:24.160 --> 00:02:33.246
+The square root gives twenty nine point six six, so r is twenty nine point seven. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:34.360 --> 00:02:44.687
+A common mistake is leaving the calculator in degree mode. Then tan of nought point eight is tiny, and r comes out far too big.
+
+00:02:45.800 --> 00:03:07.031
+Now you try, from November twenty twenty. A B and A C are tangents. Angle B O C is two pi over three radians. The shaded area is ten. Find r to three significant figures. Eight marks. Write your answer, then choose Continue to Answer.
+
+00:03:08.160 --> 00:03:25.705
+Join O to A. It cuts the angle in half, so angle B O A is pi over three. Triangle O B A has a right angle at B, so A B is r tan pi over three, root three r. The kite is two triangles: root three r squared.
+
+00:03:26.280 --> 00:03:38.952
+The sector is a half r squared times two pi over three, which is pi r squared over three. Kite minus sector is ten, so r squared is fourteen point six, and r is three point eight two centimetres.
+
+00:03:39.520 --> 00:03:50.724
+The common wrong answer uses one triangle only. Then r squared comes out negative, which is impossible. A negative square cannot be right, so that clue tells you to double the triangle.
+
+00:03:51.280 --> 00:03:58.653
+Remember the method: mark the right angle, use tan for the tangent, subtract the sector, then solve for r.

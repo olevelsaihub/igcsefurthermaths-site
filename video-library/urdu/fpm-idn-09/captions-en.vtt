@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.551
+I am thinking of two numbers. Two clues, the sum and the difference, give exactly one answer. Two unknowns need two equations, solved together. These are simultaneous equations.
+
+00:00:14.120 --> 00:00:25.095
+In algebra the unknowns are constants in a polynomial, such as a and b. The remainder theorem says: divide f of x by x minus a, and the remainder is f of a.
+
+00:00:25.680 --> 00:00:35.888
+Each piece of information gives one equation. A factor gives f of the number equals zero. A remainder gives f of the number equals that remainder.
+
+00:00:36.440 --> 00:00:51.233
+The question gives two conditions, and asks you to show one constant, and find the other. Show that means the value is printed, and you must prove it. Reach the value by solving. Do not assume it.
+
+00:00:52.360 --> 00:01:04.405
+Step one: for a factor, substitute the root and set it equal to zero. Step two: for a remainder, substitute the same way, and set it equal to the remainder.
+
+00:01:04.960 --> 00:01:14.345
+Step three: simplify each equation. Step four: solve them together. Step five: check in one condition.
+
+00:01:14.920 --> 00:01:20.539
+The trap is a sign slip with a negative value such as minus three. Use brackets.
+
+00:01:21.640 --> 00:01:40.494
+January twenty twenty two. f of x has constants a and b. The bracket x plus two is a factor. The remainder on dividing by x plus three is twenty one. Show that a is two, and find b. Five marks.
+
+00:01:41.080 --> 00:01:53.246
+The factor x plus two means f of minus two is zero. Substitute: that is minus twenty four a plus sixteen b equals zero. Divide by eight: two b equals three a.
+
+00:01:53.800 --> 00:02:04.114
+The remainder twenty one on x plus three means f of minus three equals twenty one. Substitute: minus fifty one a, plus forty one b, equals twenty one.
+
+00:02:04.680 --> 00:02:19.878
+Solve together. From the first, b is three a over two. Substitute into the second. Twenty one a over two equals twenty one. So a is two, as required. Then b is three.
+
+00:02:20.440 --> 00:02:30.258
+A tempting wrong route is x equals three for the bracket x plus three. Then a comes out as fourteen over seventy five, not two. Make the bracket zero.
+
+00:02:30.840 --> 00:02:44.003
+So a equals two and b equals three. Check both clues. f of minus two is zero, and f of minus three is twenty one. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:45.120 --> 00:02:53.978
+A common mistake is to mix up a factor and a remainder. A remainder of twenty one gives f equals twenty one, not zero.
+
+00:02:55.080 --> 00:03:06.811
+Now you try, from November twenty twenty. Find the value of p and the value of q. Write your answer, then choose Continue to Answer.
+
+00:03:07.920 --> 00:03:20.927
+f of one is minus twelve, so p plus q is minus thirteen. f of four is thirty, so sixty four plus four p plus q equals thirty. That is four p plus q equals minus thirty four.
+
+00:03:21.480 --> 00:03:39.401
+Subtract the first equation from the second. Three p equals minus twenty one, so p is minus seven. Then q is minus six. Check: one minus seven minus six is minus twelve, and sixty four minus twenty eight minus six is thirty. Both clues work.
+
+00:03:39.960 --> 00:03:49.856
+The common wrong answer uses x equals minus one and minus four. That gives p equals minus thirty five. Make each bracket zero.
+
+00:03:50.440 --> 00:03:54.622
+Remember: one equation per clue, simplify, solve together, and check.

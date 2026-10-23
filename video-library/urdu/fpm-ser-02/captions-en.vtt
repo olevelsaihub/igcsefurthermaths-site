@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.150
+Think of goals in a football season. You score two, then three, then one. The running total after each game is two, then five, then six. A running total is exactly what S n means.
+
+00:00:13.720 --> 00:00:25.502
+S one is just the first term. S two is the first two terms added. So the second term is S two minus S one. The total after game two, take away the total after game one.
+
+00:00:26.080 --> 00:00:39.482
+In an arithmetic series the common difference d is the second term minus the first. Sometimes the sum is written with sigma. Sigma means add up. Put r equal to one, two, three, and add the results.
+
+00:00:40.040 --> 00:00:49.889
+These questions give a formula for S n, or a sigma, and ask for the first term and the common difference. You find the first two terms, then subtract.
+
+00:00:51.000 --> 00:01:01.421
+Step one: put n equal to one. The sum of one term is that term, so this is the first term, a. With a sigma, put r equal to one.
+
+00:01:02.000 --> 00:01:13.258
+Step two: find S two, then take away S one to get the second term. Step three: subtract the terms. The difference d is the second term minus the first.
+
+00:01:13.840 --> 00:01:18.970
+The trap is thinking S two is the second term. It is the first two terms added together.
+
+00:01:20.080 --> 00:01:34.893
+November twenty twenty, paper one. An arithmetic series has sum S n equals n times the bracket fifteen plus two n. Find the first term a and the common difference d. Four marks.
+
+00:01:35.480 --> 00:01:43.452
+Step one: put n equal to one. One times seventeen is seventeen. S one is the first term, so a is seventeen.
+
+00:01:44.040 --> 00:01:51.464
+Step two: put n equal to two. Two times nineteen is thirty eight. That is the first two terms added.
+
+00:01:52.040 --> 00:01:57.173
+The second term is S two minus S one. Thirty eight minus seventeen is twenty one.
+
+00:01:57.760 --> 00:02:03.830
+Step three: d is the second term minus the first. Twenty one minus seventeen is four.
+
+00:02:04.400 --> 00:02:17.514
+Reject a tempting route. Treating S two as the second term gives d equals thirty eight minus seventeen, which is twenty one. That is wrong. S two includes the first term.
+
+00:02:18.080 --> 00:02:32.664
+Check: the terms seventeen, twenty one, twenty five add to sixty three. The formula gives S three equal to three times twenty one, also sixty three. So a is seventeen and d is four. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:33.800 --> 00:02:46.330
+A common mistake is to find the twentieth term by putting n equal to twenty. That gives S twenty, the sum of twenty terms. The twentieth term is S twenty minus S nineteen.
+
+00:02:47.440 --> 00:03:05.309
+Now you try, from June twenty nineteen. The sum of the first n terms is A n, equal to sigma, from r equals one to n, of four r plus five. Find the first term and the common difference. Write your answer, then choose Continue to Answer.
+
+00:03:06.440 --> 00:03:14.143
+Put r equal to one. Four times one plus five is nine. So the first term is nine.
+
+00:03:14.720 --> 00:03:22.421
+Put r equal to two. Four times two plus five is thirteen. The common difference is thirteen minus nine, which is four.
+
+00:03:23.000 --> 00:03:33.124
+The common wrong answer is a first term of five. That reads the number added in the bracket as the first term. Always put r equal to one.
+
+00:03:33.680 --> 00:03:39.612
+Remember the method. Put in one for the first term, find the second term, and subtract.

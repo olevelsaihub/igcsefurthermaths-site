@@ -5,11 +5,11 @@
   window.olvFurtherMathsVideosLoaded = true;
   const base = '/igcsefurthermaths/video-library/';
   const style = document.createElement('link');
-  style.rel = 'stylesheet'; style.href = base + 'student-videos.css?v=400301d1ce'; document.head.append(style);
+  style.rel = 'stylesheet'; style.href = base + 'student-videos.css?v=d41fe7dec5'; document.head.append(style);
   const chapterPlayerReady = new Promise(resolve => {
     if (window.olvCreateChapterPlayer) { resolve(window.olvCreateChapterPlayer); return; }
     const script = document.createElement('script');
-    script.src = base + 'chapter-player.js?v=400301d1ce';
+    script.src = base + 'chapter-player.js?v=d41fe7dec5';
     script.onload = () => resolve(window.olvCreateChapterPlayer);
     script.onerror = () => resolve(null);
     document.head.append(script);
@@ -19,8 +19,8 @@
   function loadGuidedPlayer() {
     guidedAssets ||= chapterPlayerReady.then(() => new Promise(resolve => {
       if (window.olvMountGuidedPlayer) { resolve(window.olvMountGuidedPlayer); return; }
-      const css = document.createElement('link'); css.rel = 'stylesheet'; css.href = base + 'guided-player.css?v=400301d1ce'; document.head.append(css);
-      const script = document.createElement('script'); script.src = base + 'guided-player.js?v=400301d1ce';
+      const css = document.createElement('link'); css.rel = 'stylesheet'; css.href = base + 'guided-player.css?v=d41fe7dec5'; document.head.append(css);
+      const script = document.createElement('script'); script.src = base + 'guided-player.js?v=d41fe7dec5';
       script.onload = () => resolve(window.olvMountGuidedPlayer); script.onerror = () => resolve(null); document.head.append(script);
     }));
     return guidedAssets;
@@ -175,7 +175,7 @@
       urduLink.href = base + urdu.page;
       const urduIcon = node('span', '▶', 'furthermaths-teach-me-icon'); urduIcon.setAttribute('aria-hidden', 'true');
       const urduWording = node('span', undefined, 'furthermaths-teach-me-wording');
-      urduWording.append(node('strong', 'Teach Me in Urdu', 'furthermaths-video-title'), node('span', 'Urdu explanation with English furthermaths terms.', 'furthermaths-teach-me-description'));
+      urduWording.append(node('strong', 'Teach Me in Urdu', 'furthermaths-video-title'), node('span', 'Urdu explanation with English maths terms.', 'furthermaths-teach-me-description'));
       const urduDuration = node('span', 'Urdu video', 'furthermaths-video-duration');
       urduLink.append(urduIcon, urduWording, urduDuration); primary.after(urduLink);
       const urduLaunchers = [urduLink];
@@ -194,5 +194,7 @@
     for (const card of root.querySelectorAll('[data-method-card]')) if (!card.closest('[data-type-lesson]')) mount(card);
   }
   document.addEventListener('furthermaths:content-ready', event => initialise(event.detail?.root || document));
+  // The plan and type workspaces (bank.js) announce loaded lessons as olv:content-ready.
+  document.addEventListener('olv:content-ready', event => initialise(event.detail?.root || document));
   initialise();
 })();

@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.243
+A drinks company wants a can that holds a fixed amount of juice with as little metal as possible. To optimise means to find the largest or smallest value of something. Here, the metal is the surface area.
+
+00:00:15.800 --> 00:00:30.372
+The surface area depends on two letters, r and h. To differentiate we need one. So we use the fixed volume to write h using r, and substitute. That is eliminating a variable.
+
+00:00:30.960 --> 00:00:42.448
+Cylinder volume is pi r squared times h. A closed cylinder has two circular ends and a curved side. Unrolled, the side is a rectangle, two pi r by h.
+
+00:00:43.000 --> 00:00:52.602
+These questions say show that S equals a given formula. The answer is printed, so show every line, ending exactly at the printed result.
+
+00:00:53.720 --> 00:01:06.978
+Step one: write the formula for the fixed amount, and the formula for the target, using both letters. Step two: rearrange the fixed one to make the unwanted letter the subject.
+
+00:01:07.560 --> 00:01:19.335
+Step three: substitute. Step four: simplify to the printed result. The trap is a missing face: a closed cylinder has two circles.
+
+00:01:20.440 --> 00:01:39.163
+January twenty twenty two. A solid cylinder has radius r and height h. Its volume is ninety pi and its total surface area is S. Show that S equals two pi r squared, plus one hundred and eighty pi over r. Three marks.
+
+00:01:39.720 --> 00:01:49.056
+Step one: the volume. Pi r squared times h equals ninety pi. Divide by pi r squared: h is ninety over r squared.
+
+00:01:49.640 --> 00:01:58.874
+Step two: the target. Total surface area is two circles, plus the curved side. Two pi r squared, plus two pi r h.
+
+00:01:59.440 --> 00:02:07.863
+Step three: substitute h equals ninety over r squared. Two pi r squared, plus two pi r times ninety over r squared.
+
+00:02:08.440 --> 00:02:19.938
+Step four: simplify. Two pi r times ninety is one hundred and eighty pi r. Over r squared, one r cancels, leaving one hundred and eighty pi over r.
+
+00:02:20.520 --> 00:02:30.720
+A tempting wrong route is to count only one circular end. That gives pi r squared, not the printed answer. Total surface area needs both ends.
+
+00:02:31.280 --> 00:02:40.206
+So S equals two pi r squared plus one hundred and eighty pi over r, as required. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:41.320 --> 00:02:54.541
+A common mistake is an algebra slip at the end: two pi r times ninety over r squared becomes one hundred and eighty pi over r squared. One r cancels, so the answer is over r.
+
+00:02:55.680 --> 00:03:13.574
+Now you try, from June twenty twenty five. A solid cylinder has total surface area seven hundred pi. Show that the volume V is pi r times three hundred and fifty minus r squared. Write your answer, then choose Continue to Answer.
+
+00:03:14.680 --> 00:03:30.819
+The surface area is fixed: two pi r squared plus two pi r h equals seven hundred pi. Divide by two pi: r squared plus r h equals three hundred and fifty. So h is three hundred and fifty minus r squared, over r.
+
+00:03:31.400 --> 00:03:46.621
+The target is the volume: pi r squared times h. Substitute: pi r squared times, three hundred and fifty minus r squared, over r. One r cancels. That is pi r times three hundred and fifty minus r squared.
+
+00:03:47.200 --> 00:03:58.046
+The most common wrong answer uses only one circle in the surface area. Then h comes out differently, and the printed result cannot be reached. Count every face.
+
+00:03:58.600 --> 00:04:04.536
+Remember: fixed formula, rearrange, substitute into the target, simplify to the printed result.

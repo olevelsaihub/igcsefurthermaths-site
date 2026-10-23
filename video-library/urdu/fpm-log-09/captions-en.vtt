@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.801
+Money in a bank can double every year. After x years you have two to the power x. When the unknown is in the power, it is an exponential equation.
+
+00:00:12.360 --> 00:00:25.203
+The special number e is about two point seven one eight. L N is the natural log key, the log to base e. L N of e to the k is just k. It undoes the power.
+
+00:00:25.760 --> 00:00:34.003
+To solve e to the two x equals four, take L N of both sides. Two x equals L N four, so x is L N two.
+
+00:00:34.560 --> 00:00:50.116
+An equation can hide a quadratic. E to the four x is e to the two x, squared. Let u be e to the two x. An exponential is always positive, so u is never zero or negative.
+
+00:00:50.680 --> 00:00:58.497
+In the exam you may meet two curves and an exact answer. Exact means an answer with L N in it, not a decimal.
+
+00:00:59.600 --> 00:01:12.583
+Step one: for two curves, set the equations equal, and multiply to clear any negative power. Step two: let u be the exponential, and solve the quadratic.
+
+00:01:13.160 --> 00:01:26.194
+Step three: reject any u that is zero or negative. Step four: take L N and simplify. The trap: L N of five plus four is not L N five plus L N four.
+
+00:01:27.320 --> 00:01:46.560
+November twenty twenty. Curve one is y equals five e to the minus two x plus four. Curve two is y equals e to the two x. They meet at A. Find the exact coordinates of A. Four marks.
+
+00:01:47.120 --> 00:01:52.341
+Step one: at A the y values are equal. Set the equations equal.
+
+00:01:52.920 --> 00:02:02.853
+Step two: multiply every term by e to the two x. This gives five, plus four e to the two x, equals e to the four x.
+
+00:02:03.440 --> 00:02:14.503
+Step three: let u be e to the two x. Then u squared minus four u minus five equals zero. This factorises as u minus five, times u plus one.
+
+00:02:15.080 --> 00:02:28.233
+Step four: u is five or minus one. But e to a power is always positive, so reject minus one. Then two x is L N five, so x is a half L N five.
+
+00:02:28.800 --> 00:02:40.376
+Step five: y is e to the two x, which is five. So A is a half L N five, five. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:40.960 --> 00:02:51.485
+A tempting wrong route is taking L N of both sides straight away. L N of a sum cannot be split. Clear the negative power first.
+
+00:02:52.600 --> 00:03:02.432
+A common mistake is keeping u equals minus one. You cannot take the log of a negative number. Reject it.
+
+00:03:03.560 --> 00:03:16.760
+Now you try, from June twenty twenty two. Two curves meet at the origin O and at a point A. Show the hidden quadratic, then show that x at A is a third of L N nine.
+
+00:03:17.320 --> 00:03:26.076
+Here is Figure two: curve C and curve D, crossing at O and at A. Write your answer, then choose Continue to Answer.
+
+00:03:27.200 --> 00:03:38.016
+Part one. At A the y values are equal. Multiply every term by e to the three x, then collect the terms on one side.
+
+00:03:38.600 --> 00:03:54.902
+Part two. Let u be e to the three x. Then u is one or nine. u equals one gives x equals nought, which is the origin. So at A, e to the three x is nine, and x is a third of L N nine.
+
+00:03:55.480 --> 00:04:04.219
+The most common wrong answer forgets to multiply the one and the nine by e to the three x. Then the printed quadratic never appears.
+
+00:04:04.800 --> 00:04:12.638
+Remember: match bases or take L N, clear negative powers, let u, reject u not above zero.

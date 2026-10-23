@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.969
+Carrying one heavy box is hard. Split it into two light bags and it is easy. A product, such as sine seven x times cosine x, is like that heavy box. We cannot integrate it directly.
+
+00:00:16.520 --> 00:00:27.493
+An identity is an equation true for every value. This one turns a product into a sum: two sine A cosine B is sine of A plus B, plus sine of A minus B.
+
+00:00:28.080 --> 00:00:38.715
+Powers need an identity too. Cosine two A is two cos squared A minus one. So cos squared A is a half, times one plus cosine two A.
+
+00:00:39.280 --> 00:00:50.492
+Now single sines and cosines are easy. Sine a x integrates to minus cosine a x over a. Cosine a x integrates to sine a x over a.
+
+00:00:51.080 --> 00:00:59.304
+These questions ask for the exact value of a definite integral of a product or power. Exact means a fraction or surd, not a decimal.
+
+00:01:00.440 --> 00:01:12.623
+Step one: use the identity to write the integrand as a sum of single sines and cosines. Step two: integrate each term, dividing by the number in front of x.
+
+00:01:13.200 --> 00:01:22.620
+Step three: put in the upper limit, then the lower limit, and subtract. Step four: use exact values, such as cosine two pi equals one.
+
+00:01:23.200 --> 00:01:29.604
+The trap is reaching for the calculator. A decimal, or degree mode, loses the exact mark.
+
+00:01:30.720 --> 00:01:49.295
+November twenty twenty. Part b gave two sine seven x cosine x as sine eight x plus sine six x. Part c: evaluate the integral from nought to pi over four of six sine seven x cosine x. Four marks.
+
+00:01:49.880 --> 00:02:05.525
+Step one: rewrite. Six sine seven x cosine x is three times two sine seven x cosine x, so three times sine eight x plus sine six x. Do not integrate sine seven x and cosine x separately.
+
+00:02:06.080 --> 00:02:17.093
+Step two: integrate each term. Sine eight x gives minus cosine eight x over eight. Sine six x gives minus cosine six x over six.
+
+00:02:17.680 --> 00:02:27.966
+Step three: the upper limit, pi over four. Cosine two pi is one, and cosine three pi over two is nought. So we get minus one eighth.
+
+00:02:28.520 --> 00:02:36.726
+The lower limit, nought. Both cosines are one, giving minus one eighth, minus one sixth, which is minus seven over twenty four.
+
+00:02:37.280 --> 00:02:47.806
+Step four: upper minus lower, times three. Four over twenty four, times three, is one half. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:48.920 --> 00:03:00.703
+A common mistake is to forget the one over a. Sine eight x integrates to minus cosine eight x over eight, not minus cosine eight x.
+
+00:03:01.840 --> 00:03:23.509
+Now you try, from June twenty twenty four. Use part b: cosine cubed A is cosine three A plus three cosine A, over four. Find the exact value of the integral from nought to pi over six of four cosine cubed theta, minus sine two theta. Write your answer, then choose Continue to Answer.
+
+00:03:24.640 --> 00:03:34.173
+Rewrite: four cosine cubed theta is cosine three theta plus three cosine theta. Then take away sine two theta.
+
+00:03:34.760 --> 00:03:45.168
+Integrate: sine three theta over three, plus three sine theta, plus cosine two theta over two. The last sign is plus, because minus times minus is plus.
+
+00:03:45.720 --> 00:03:56.453
+Upper limit: one third, plus three over two, plus one quarter, which is twenty five over twelve. Lower limit: one half. The difference is nineteen over twelve.
+
+00:03:57.040 --> 00:04:07.790
+The common wrong answer integrates minus sine two theta to minus cosine two theta over two. The sign slip gives twenty five twelfths and loses the marks.
+
+00:04:08.360 --> 00:04:14.932
+Remember: rewrite with the identity, integrate each term, put in both limits, keep exact values.

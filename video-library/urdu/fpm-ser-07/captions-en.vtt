@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.650
+A bike costs two hundred and twenty pounds. After nine weeks of saving you have one hundred and eighty. After ten you have two hundred and thirty. Ten is the first week above the price.
+
+00:00:14.240 --> 00:00:24.406
+S n is the sum of the first n terms. The least value of n is the smallest whole number that works. The greatest value is the biggest whole number that works.
+
+00:00:24.960 --> 00:00:39.243
+S n is a quadratic in n, for example n times three n minus seven. Set it equal to the target and solve. The answer is rarely whole. It is the critical value, where the sum equals the target exactly.
+
+00:00:39.800 --> 00:00:48.118
+These questions give some facts, then a limit on the sum. You find a and d, solve, and round the right way.
+
+00:00:49.240 --> 00:01:01.224
+Step one: find a and d if needed, and write S n as a quadratic in n. Step two: write the inequality and rearrange it to compare with zero.
+
+00:01:01.800 --> 00:01:15.522
+Step three: solve the equation with the quadratic formula to get the critical value. Step four: round the right way. Least means round up. Greatest means round down.
+
+00:01:16.080 --> 00:01:25.352
+Step five: check S n for your whole number and the one next to it. The trap is giving the decimal, or rounding the wrong way.
+
+00:01:26.480 --> 00:01:43.381
+June twenty twenty five, paper one R. An arithmetic series F has third term eight and fifth term twenty. The sum to n terms is greater than two hundred and twenty. Find the least value of n. Seven marks.
+
+00:01:43.960 --> 00:01:58.061
+Step one: find a and d. A plus two d is eight. A plus four d is twenty. Subtract: two d is twelve, so d is six. Then a is eight minus twelve, which is minus four.
+
+00:01:58.640 --> 00:02:07.581
+Step two: write S n. N over two times, minus eight plus six n minus six. That is n times, three n minus seven.
+
+00:02:08.160 --> 00:02:19.449
+Step three: n times three n minus seven is greater than two hundred and twenty. Rearrange, then use the quadratic formula. The positive root is nine point eight one.
+
+00:02:20.000 --> 00:02:26.576
+Step four: n must be bigger than nine point eight one. The least whole number is ten.
+
+00:02:27.160 --> 00:02:40.672
+Reject a tempting route. Rounding nine point eight one down to nine gives S nine equal to one hundred and eighty. That is not more than two hundred and twenty. Round up for least.
+
+00:02:41.240 --> 00:02:53.610
+Check. S nine is one hundred and eighty, too small. S ten is two hundred and thirty. So the least value of n is ten. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:54.720 --> 00:03:06.840
+A common mistake is giving the critical value as the answer. Nine point eight one is not a number of terms. Always round, and say the whole number.
+
+00:03:07.960 --> 00:03:25.603
+Now you try, from January twenty twenty three. First term sixteen, common difference minus five. The sum S n is less than minus four hundred and fifty. Find the least value of n. Write your answer, then choose Continue to Answer.
+
+00:03:26.720 --> 00:03:47.287
+S n is n over two, times thirty seven minus five n. It must be less than minus four hundred and fifty. Multiply by two and rearrange. The sign flips: five n squared minus thirty seven n minus nine hundred is greater than zero. The critical value is seventeen point six.
+
+00:03:47.840 --> 00:04:00.011
+So n is greater than seventeen point six. The least whole number is eighteen. S seventeen is minus four hundred and eight, not low enough. S eighteen is minus four hundred and seventy seven.
+
+00:04:00.600 --> 00:04:07.663
+The common wrong answer is seventeen. It comes from rounding down. Least means round up.
+
+00:04:08.240 --> 00:04:15.072
+Remember the method. Write S n, solve for the critical value, round the right way, and check.

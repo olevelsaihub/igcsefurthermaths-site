@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.063
+Think of a garden with an odd shape. Cut it into easy pieces, find each area, and add. A region whose boundary changes part-way is solved the same way.
+
+00:00:13.640 --> 00:00:22.510
+A triangle is an easy piece. Its area is a half, times base, times height. A straight edge needs no integral.
+
+00:00:23.080 --> 00:00:33.589
+Here a curve is above the x-axis and a line is below it. Cut along the x-axis. The top piece is an integral. The bottom piece is a triangle.
+
+00:00:34.160 --> 00:00:42.821
+These questions give a region bounded by a curve, a line and an axis. Find the corners, split the region, find each area, and add.
+
+00:00:43.960 --> 00:00:55.381
+Step one: sketch the region and mark where its boundary changes. Step two: find the points you need, such as where lines meet the axes.
+
+00:00:55.960 --> 00:01:05.912
+Step three: integrate each curved piece, and use half base times height for each triangle. Step four: add the pieces.
+
+00:01:06.480 --> 00:01:10.615
+The trap is a missing piece, usually the triangle below the axis.
+
+00:01:11.720 --> 00:01:30.147
+January twenty twenty three. C is y equals four minus e to the two x. The line l is the normal to C at B. Region R is bounded by C, l and the y-axis. Find its area, to one decimal place. Seven marks.
+
+00:01:30.720 --> 00:01:38.946
+Part b gives l as y equals x over eight, minus l n two over eight. The curve is above the axis and the line is below it.
+
+00:01:39.520 --> 00:01:49.858
+Step one: split along the x-axis. The top piece is under C, from nought to l n two. The bottom piece is triangle O B D, where D is below O.
+
+00:01:50.440 --> 00:01:58.023
+Step two: the top piece. The integral is four l n two, minus three halves, which is one point two seven two six.
+
+00:01:58.600 --> 00:02:09.192
+Step three: the triangle. Half, times l n two, times l n two over eight, is l n two squared over sixteen. That is nought point zero three.
+
+00:02:09.760 --> 00:02:20.970
+A tempting route is to use only the area under the curve. That misses the triangle. It still rounds to one point three here, but it loses method marks.
+
+00:02:21.520 --> 00:02:32.603
+Step four: add. One point three zero two six, so one point three to one decimal place. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:33.720 --> 00:02:47.865
+A common mistake is the sign of D. The line has gradient one eighth through B, so going left it falls. D is below the axis, at minus l n two over eight.
+
+00:02:49.000 --> 00:03:07.693
+Now you try, from November twenty twenty. Region R is bounded by the x-axis, the curve S, y equals two sine x, and the curve C, y equals two cosine x. Find its area in the form a minus root b. Write your answer, then choose Continue to Answer.
+
+00:03:08.800 --> 00:03:21.979
+A is where cosine x is nought, so x is pi over two. B is where sine x equals cosine x, so x is pi over four. Use S up to B, then C.
+
+00:03:22.560 --> 00:03:34.262
+Under S, minus two cosine x from nought to pi over four gives two minus root two. Under C, two sine x from pi over four to pi over two gives two minus root two.
+
+00:03:34.840 --> 00:03:41.253
+Add: four minus two root two. Two root two is root eight, so the area is four minus root eight.
+
+00:03:41.840 --> 00:03:51.491
+The common wrong answer integrates S all the way. After B the top edge is C, not S. Use each curve on its own interval.
+
+00:03:52.080 --> 00:04:02.241
+Remember: sketch, corners, integrate each curve piece, add. Use half base times height for straight pieces.

@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.513
+In a car, speed is the rate of change of distance, and acceleration is the rate of change of speed. In maths, differentiating twice gives the second derivative, d two y by d x squared.
+
+00:00:13.080 --> 00:00:28.331
+Some functions link to their own derivatives. Take y equals sine two x. Its derivative is two cosine two x. Differentiate again: minus four sine two x. That is minus four y.
+
+00:00:28.920 --> 00:00:40.666
+In an exam the relation is printed. Show that means every step must be on the page: differentiate twice, substitute, and collect until you reach exactly the printed result.
+
+00:00:41.800 --> 00:00:55.496
+Step one: find d y by d x with the product rule and take out the common factor. Step two: differentiate again. A tidy first derivative makes the second easier.
+
+00:00:56.080 --> 00:01:06.693
+Step three: substitute into the left side. Step four: collect the sine and cosine coefficients. They must give exactly the printed result.
+
+00:01:07.280 --> 00:01:12.793
+The trap: in the second derivative, differentiate the factor and the bracket, not only the bracket.
+
+00:01:13.920 --> 00:01:30.592
+A real question from January twenty twenty. Given y equals e to the three x times sine two x, show that d two y by d x squared, minus six d y by d x, plus thirteen y, equals nought. Eight marks.
+
+00:01:31.160 --> 00:01:42.834
+First derivative, by the product rule. Three e to the three x sine two x, plus e to the three x times two cosine two x. Take out e to the three x.
+
+00:01:43.400 --> 00:01:54.587
+Differentiate again. Three e to the three x times the bracket, plus e to the three x times the bracket's derivative: six cosine two x minus four sine two x.
+
+00:01:55.160 --> 00:02:03.734
+Collect inside the bracket. Sine terms: nine minus four is five. Cosine terms: six plus six is twelve.
+
+00:02:04.320 --> 00:02:11.611
+Now substitute into the left side. The second derivative, minus six times the first derivative, plus thirteen times y.
+
+00:02:12.200 --> 00:02:23.851
+Collect. Sine: five minus eighteen plus thirteen is nought. Cosine: twelve minus twelve is nought. So the whole expression is nought, as required.
+
+00:02:24.440 --> 00:02:34.264
+A tempting wrong route is to differentiate only the bracket. That misses the first product term, so the sines and cosines would not cancel.
+
+00:02:34.840 --> 00:02:41.941
+So the left side equals nought, as required. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:43.080 --> 00:02:52.225
+A common mistake is the sign of the derivative of e to the minus t. It is minus e to the minus t, not plus.
+
+00:02:53.360 --> 00:03:11.466
+Now you try, from November twenty twenty. Given x equals e to the minus t sine two t, show that d two x by d t squared, plus two d x by d t, plus five x, equals nought. Write your answer, then choose Continue to Answer.
+
+00:03:12.600 --> 00:03:24.029
+Product rule, then factorise. Differentiate again: minus e to the minus t times the bracket, plus e to the minus t times the bracket's derivative.
+
+00:03:24.600 --> 00:03:36.542
+Substitute. Cosine: minus four plus four is nought. Sine: minus three, minus two, plus five is nought. So the expression is nought, as required.
+
+00:03:37.120 --> 00:03:47.640
+The most common wrong answer uses plus e to the minus t for the derivative. The cosine terms then add to eight, not nought, and the proof fails.
+
+00:03:48.200 --> 00:03:56.747
+Remember: differentiate twice, factorising each time, substitute all three terms, then collect sines and cosines to reach the printed result.

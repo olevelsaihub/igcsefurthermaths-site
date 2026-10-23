@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.051
+Shine a torch straight down on a leaning stick. It makes a shadow on the floor. The angle between a line and a plane is the angle between the line and its shadow. The shadow is called the projection.
+
+00:00:15.640 --> 00:00:27.725
+Drop a vertical from the top end of the line to the plane. Its foot is the point directly below. Join the foot to the other end. The line, projection and vertical make a right-angled triangle.
+
+00:00:28.280 --> 00:00:37.050
+In a right pyramid, the line from the vertex to the centre of the base is vertical. So the centre is the foot. For edge E A, the projection is A M.
+
+00:00:37.600 --> 00:00:44.982
+This type asks for the angle between a line and a plane. Find the foot, draw the projection, then use trigonometry.
+
+00:00:46.120 --> 00:00:55.191
+Step one: find the point on the plane directly below the top of the line. Step two: join it to the other end.
+
+00:00:55.760 --> 00:01:02.752
+Step three: find the height and the projection. Step four: use tan, sin or cos to find the angle.
+
+00:01:03.320 --> 00:01:06.054
+The trap is measuring from a base edge, instead of from the projection.
+
+00:01:07.160 --> 00:01:25.192
+November twenty twenty four. Figure one shows a right prism A B C D E F, with a triangular cross section C D E. The measurements are on the card. Find the angle between the line F D and the plane D C B A. Six marks.
+
+00:01:25.760 --> 00:01:34.256
+Here is Figure one, redrawn. F B is a vertical edge, so F is directly above B. B is the foot of the line F D.
+
+00:01:34.840 --> 00:01:41.491
+Step two: the projection of F D is B D. So we need angle F D B, in the right-angled triangle F B D.
+
+00:01:42.080 --> 00:01:53.453
+Step three: the end triangle. F B is fifteen sine forty, nine point six four two. D C is fifteen cosine forty, eleven point four nine one.
+
+00:01:54.040 --> 00:02:03.938
+Step four: B D is the base diagonal. D C is eleven point four nine one and C B is twenty. So B D is twenty three point zero six six.
+
+00:02:04.520 --> 00:02:15.600
+Step five: tan of angle F D B is height over projection: nine point six four two over twenty three point zero six six. The angle is twenty two point seven degrees.
+
+00:02:16.160 --> 00:02:25.171
+A tempting route measures from the base edge D A. That gives thirty six point nine degrees. But D A is not the shadow of F D.
+
+00:02:25.760 --> 00:02:35.248
+So the angle between F D and the plane is twenty two point seven degrees, to one decimal place. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:36.360 --> 00:02:46.356
+A common mistake is turning the tan ratio upside down. Projection over height gives sixty seven point three degrees, which is far too big.
+
+00:02:47.480 --> 00:02:59.711
+Now you try, from November twenty twenty. Find the angle between A E and the base, to one decimal place. Write your answer, then choose Continue to Answer.
+
+00:03:00.840 --> 00:03:10.197
+The foot of E is M, the centre. So the projection of A E is A M. The base diagonal is twenty, so A M is ten.
+
+00:03:10.760 --> 00:03:18.516
+In triangle E M A, tan of the angle is height over projection, fourteen over ten. The angle is fifty four point five degrees.
+
+00:03:19.080 --> 00:03:27.734
+The common wrong answer uses the whole diagonal, twenty, as the projection. That gives thirty five degrees. The shadow stops at the centre M.
+
+00:03:28.320 --> 00:03:33.697
+Remember: find the foot, join it to make the projection, then use tan, sin or cos.

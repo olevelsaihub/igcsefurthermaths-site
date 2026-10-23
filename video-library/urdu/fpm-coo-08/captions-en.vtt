@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.775
+A map says the chest is ten steps from the tree, along a straight path. There are two such places, one each side of the tree. A point on a line at a fixed distance from a given point works the same way.
+
+00:00:15.360 --> 00:00:26.330
+Distance comes from the distance formula, which uses squares. So square the given length. Six root five, squared, is thirty six times five, which is one hundred and eighty.
+
+00:00:26.920 --> 00:00:38.895
+The line gives one coordinate using the other, so the equation has one unknown. It is a quadratic, so it gives two points. A sign condition may pick just one.
+
+00:00:39.480 --> 00:00:47.473
+These questions give an unknown point, a line it lies on, and a length. They ask for the coordinates, often both pairs.
+
+00:00:48.600 --> 00:00:58.545
+Step one: use the line or gradient to write one coordinate using the other. Step two: if the length is not given, find it first.
+
+00:00:59.120 --> 00:01:15.652
+Step three: use the distance formula, set it equal to the length squared, and solve. Step four: find both points, then use any sign condition. The traps are not squaring the length, and using the wrong line.
+
+00:01:16.760 --> 00:01:39.894
+January twenty twenty. The line l one is y plus two x minus four equals zero, through P, a, six. The line l two is through P, perpendicular to l one. R, e, f, is on l two with P R equal to six root five. Find the two possible pairs. Eight marks.
+
+00:01:40.480 --> 00:01:51.726
+From part a, P is minus one, six. Line l one has gradient minus two, so l two has gradient one half. Through P, f is e plus thirteen over two.
+
+00:01:52.280 --> 00:02:04.869
+Step two: P R squared is one hundred and eighty. The change in x is e plus one. The change in y is e plus one over two. So e plus one squared, plus a quarter of it, equals one hundred and eighty.
+
+00:02:05.440 --> 00:02:16.201
+Step three: five quarters of e plus one squared is one hundred and eighty. So e plus one squared is one hundred and forty four, and e plus one is twelve or minus twelve.
+
+00:02:16.760 --> 00:02:27.162
+So e is eleven or minus thirteen. Step four: find f. When e is eleven, f is twelve. When e is minus thirteen, f is nought.
+
+00:02:27.720 --> 00:02:36.466
+A tempting wrong route is to use l one, because its equation is printed. But R is on l two, the perpendicular line.
+
+00:02:37.040 --> 00:02:44.189
+So the pairs are eleven, twelve, and minus thirteen, nought. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:45.320 --> 00:02:56.540
+A common mistake is not squaring a surd properly. Six root five, squared, is not thirty. It is thirty six times five, which is one hundred and eighty.
+
+00:02:57.640 --> 00:03:22.896
+Now you try, from June twenty nineteen. A is minus one, three. B is five, six. P is three, five. C is m, n, with m positive, and C P is perpendicular to A B. The circle through A, P and C has radius five. Find m and n. Write your answer, then choose Continue to Answer.
+
+00:03:24.000 --> 00:03:40.792
+A B has gradient one half, so C P has gradient minus two, through P. That gives n equals minus two m plus eleven. The angle at P is ninety degrees, so A C is a diameter. The radius is five, so A C is ten.
+
+00:03:41.360 --> 00:03:54.973
+A C squared is one hundred, so m plus one squared, plus n minus three squared, equals one hundred. That gives m minus seven, times, m plus one, equals zero. M is positive, so m is seven, and n is minus three.
+
+00:03:55.560 --> 00:04:02.210
+The most common wrong answer takes five as the distance A C. But five is the radius, so A C is ten.
+
+00:04:02.760 --> 00:04:10.311
+Remember: use the line, square the length, solve, find both points, and use the sign condition.

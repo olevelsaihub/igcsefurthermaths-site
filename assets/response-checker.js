@@ -1,5 +1,5 @@
-import { CHECKER_VERSION, cleanAnswer, evaluateChoice, currentAttempt, mergeAttempt } from './response-checker-core.mjs?v=400301d1ce';
-import { checkWrittenAnswer } from './written-response-core.mjs?v=400301d1ce';
+import { CHECKER_VERSION, cleanAnswer, evaluateChoice, currentAttempt, mergeAttempt } from './response-checker-core.mjs?v=d41fe7dec5';
+import { checkWrittenAnswer } from './written-response-core.mjs?v=d41fe7dec5';
 
 const storageKey = 'igcsefurthermaths-practice-results-v1';
 const markingApi = '/igcsefurthermaths/';

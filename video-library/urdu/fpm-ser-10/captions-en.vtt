@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.401
+A ball bounces. Each bounce is the same fraction of the one before. That fraction is the common ratio, r. Two bounces add to four hundred, and the next pair to one hundred.
+
+00:00:13.960 --> 00:00:23.473
+In a geometric series, the first term is a. The second is a r and the third is a r squared. Two sums give two equations in a and r.
+
+00:00:24.040 --> 00:00:35.885
+Factorise each sum. Both have a and one plus r. Divide the second equation by the first, and a and one plus r cancel. Only r is left.
+
+00:00:36.440 --> 00:00:44.063
+These questions give two sums of terms and ask for the common ratio. Sometimes there are two possible values.
+
+00:00:45.200 --> 00:00:56.483
+Step one: write each sum using a and r. Step two: factorise each one. Common factors like a, and a power of r, come out.
+
+00:00:57.040 --> 00:01:09.425
+Step three: divide one equation by the other so a cancels. Step four: solve for r. A quadratic may give two values. Check each one.
+
+00:01:10.000 --> 00:01:17.778
+The trap is subtracting the equations. That leaves a in the working. Dividing is the way to remove a.
+
+00:01:18.880 --> 00:01:36.030
+June twenty twenty four, paper one. The first and second terms of a geometric series add to four hundred. The second and third terms add to one hundred. Show that the common ratio is one quarter. Four marks.
+
+00:01:36.600 --> 00:01:45.653
+Step one: the first and second terms: a plus a r equals four hundred. The second and third: a r plus a r squared equals one hundred.
+
+00:01:46.240 --> 00:01:53.543
+Step two: factorise. A times one plus r is four hundred. A r times one plus r is one hundred.
+
+00:01:54.120 --> 00:02:04.470
+Step three: divide the second equation by the first. A and one plus r cancel. R equals one hundred over four hundred, which is one quarter.
+
+00:02:05.040 --> 00:02:17.589
+Reject a tempting route. Subtracting gives three hundred equals a times one minus r squared. A is still there. Dividing removes a.
+
+00:02:18.160 --> 00:02:33.689
+Check with a. A times one and a quarter is four hundred, so a is three hundred and twenty. The terms are three hundred and twenty, eighty, twenty. The sums are four hundred and one hundred. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:34.800 --> 00:02:43.875
+A common mistake is factorising wrongly. A r plus a r squared is a r times one plus r, not one plus r squared.
+
+00:02:45.000 --> 00:03:03.618
+Now you try, from June twenty twenty one. The second term plus the fourth term is two hundred and twelve point five. The third plus the fourth is sixty two point five. Find the two possible values of r. Write your answer, then choose Continue to Answer.
+
+00:03:04.720 --> 00:03:20.919
+Second plus fourth: a r plus a r cubed. Take out a r: a r times one plus r squared, equals two hundred and twelve point five. Third plus fourth: a r squared times one plus r equals sixty two point five.
+
+00:03:21.480 --> 00:03:35.288
+Divide the second by the first. R times one plus r, over one plus r squared, is five over seventeen. Cross multiply and collect. Twelve r squared plus seventeen r minus five is zero.
+
+00:03:35.840 --> 00:03:48.312
+Factorise: four r minus one, times three r plus five, equals zero. So r is one quarter, or minus five thirds. Both values fit the two sums, so give both.
+
+00:03:48.880 --> 00:03:59.615
+The common wrong answer gives only one value, one quarter. The question says two possible values. Always give both roots, unless the question tells you to reject one.
+
+00:04:00.200 --> 00:04:05.533
+Remember the method. Write the sums, factorise, divide, and solve for r.

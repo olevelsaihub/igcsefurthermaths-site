@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.751
+A logo is made of curved and straight parts. To find its area, cut it into pieces you know: sectors, which are slices of a circle, and triangles. Then add or subtract.
+
+00:00:14.320 --> 00:00:28.755
+Theta is in radians. Sector area is a half r squared theta. Arc length is r theta. A triangle with sides a and b, and angle C between them, has area a half a b sine C.
+
+00:00:29.320 --> 00:00:42.223
+A segment is the region between a chord and its arc. A chord joins two points on a circle. The segment is the sector minus the triangle: a half r squared, times theta minus sine theta.
+
+00:00:42.800 --> 00:00:54.844
+Diagrams often hide equilateral triangles. Their three angles are each pi over three. Sine of pi over three, and of two pi over three, are both root three over two.
+
+00:00:55.400 --> 00:01:00.306
+So you find the area or perimeter of a region with arcs and straight lines, often exactly.
+
+00:01:01.440 --> 00:01:12.732
+Step one: split the region into sectors and triangles. Step two: find each angle in radians, using geometry such as equilateral triangles.
+
+00:01:13.320 --> 00:01:24.351
+Step three: work out each piece. Step four: add or subtract, counting repeated pieces the right number of times. Keep exact values if asked.
+
+00:01:24.920 --> 00:01:28.069
+The trap: counting a piece once when it appears twice.
+
+00:01:29.200 --> 00:01:49.686
+June twenty twenty two. Two circles each have radius six centimetres. Each centre lies on the other circle. They meet at A and B and enclose the region R. Find its exact area P, in the form a pi minus b root c. Seven marks.
+
+00:01:50.240 --> 00:02:03.785
+Here is the figure. O one O two is six, and so are O one A and O two A. So the triangle is equilateral, and angle A O one O two is pi over three. By symmetry, angle A O one B is two pi over three.
+
+00:02:04.360 --> 00:02:14.868
+The region is two equal segments, cut off by the chord A B. Sector O one A B is a half, times thirty six, times two pi over three. That is twelve pi.
+
+00:02:15.440 --> 00:02:22.561
+Triangle O one A B is a half, times six, times six, times sine two pi over three. That is nine root three.
+
+00:02:23.120 --> 00:02:33.355
+A tempting wrong route stops at one segment, twelve pi minus nine root three. That is only half of the region. The region has two segments.
+
+00:02:33.920 --> 00:02:42.270
+So P is twice the segment: twenty four pi minus eighteen root three. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:43.400 --> 00:02:55.271
+A common mistake is a calculator in degree mode. Here angles are in radians, so sine of two pi over three is about nought point eight six six.
+
+00:02:56.400 --> 00:03:13.627
+Now you try, from June twenty twenty five. Sector O A B C has radius six centimetres and perimeter twelve plus pi. The shaded region is bounded by the arc and the line A C. Find its exact area S. Six marks.
+
+00:03:14.200 --> 00:03:20.803
+Here is Figure one, the sector with the shaded region. Write your answer, then choose Continue to Answer.
+
+00:03:21.920 --> 00:03:33.374
+Here is the figure. The perimeter is twelve plus six theta, so theta is pi over six. The shaded region is a segment: the sector minus triangle O A C.
+
+00:03:33.960 --> 00:03:45.800
+The sector is a half, times thirty six, times pi over six, which is three pi. The triangle is a half, times thirty six, times a half, which is nine. So S is three pi minus nine.
+
+00:03:46.360 --> 00:03:53.033
+The common wrong answer is three pi. That is the whole sector. It forgets to subtract the triangle.
+
+00:03:53.600 --> 00:03:59.126
+Remember: split, find angles, work out each piece, then add or subtract.

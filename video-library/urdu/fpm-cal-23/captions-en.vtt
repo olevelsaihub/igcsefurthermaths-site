@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.943
+Think of a polo mint: a disc with a hole. Its volume is the whole disc minus the hole. Some volume questions need this: outer solid, minus inner solid.
+
+00:00:13.520 --> 00:00:25.265
+Spin the region between two graphs about the x-axis. Each thin slice is a ring, with outer radius y one and inner radius y two. The outer radius is further from the x-axis.
+
+00:00:25.840 --> 00:00:35.943
+The volume is pi times the integral of y one squared minus y two squared. Square each radius, then subtract. Do not subtract first.
+
+00:00:36.520 --> 00:00:43.692
+The limits are where the graphs meet. Test a value between them: the bigger y is the outer graph.
+
+00:00:44.280 --> 00:00:51.140
+These questions rotate a region between a curve and a line, or two curves, about the x-axis, and ask for the exact volume.
+
+00:00:52.240 --> 00:01:02.285
+Step one: solve the equations together for the limits. Step two: test a value between them to find the outer graph.
+
+00:01:02.840 --> 00:01:12.063
+Step three: work out pi times the integral of outer squared minus inner squared. Step four: integrate, use the limits, and simplify.
+
+00:01:12.640 --> 00:01:17.279
+The trap is squaring the difference. That is not the same thing.
+
+00:01:18.400 --> 00:01:32.759
+November twenty twenty one. The region enclosed by y equals four minus x squared and y equals x plus two is rotated about the x-axis. Find the exact volume. Six marks.
+
+00:01:33.320 --> 00:01:37.690
+Here is the region. Both graphs are above the x-axis, and the curve is on top.
+
+00:01:38.280 --> 00:01:48.483
+Step one: the limits. Four minus x squared equals x plus two gives x squared plus x minus two equals nought, so x is minus two or one.
+
+00:01:49.040 --> 00:01:58.740
+Step two: pi times the integral of outer squared minus inner squared. Do not square the difference. Square each one, then subtract.
+
+00:01:59.320 --> 00:02:14.962
+Expand: the first square is sixteen minus eight x squared plus x to the four. Subtract x squared plus four x plus four. That gives x to the four, minus nine x squared, minus four x, plus twelve.
+
+00:02:15.520 --> 00:02:23.970
+Step three: integrate. At one, the value is thirty six fifths. At minus two, it is minus seventy two fifths.
+
+00:02:24.560 --> 00:02:37.481
+Subtract: thirty six fifths plus seventy two fifths is one hundred and eight fifths. So V is one hundred and eight pi over five. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:38.600 --> 00:02:48.833
+A common mistake is a sign error with a negative limit. Minus two to the power five is minus thirty two, not plus.
+
+00:02:49.960 --> 00:03:08.666
+Now you try, from January twenty twenty. The region between y equals two x minus x squared and the line two y minus x equals nought is rotated about the x-axis. Find the volume in terms of pi. Write your answer, then choose Continue to Answer.
+
+00:03:09.800 --> 00:03:22.641
+Limits: nought and three over two. At x equals one, the curve is one and the line is a half, so the curve is outer. Integrate curve squared minus line squared.
+
+00:03:23.200 --> 00:03:35.953
+Integrate: x to the five over five, minus x to the four, plus five x cubed over four. At three over two, that is twenty seven over forty. So V is twenty seven pi over forty.
+
+00:03:36.520 --> 00:03:46.104
+The common wrong answer squares only the curve. That is the solid without the hole, and it loses the marks. Subtract the line's solid.
+
+00:03:46.680 --> 00:03:54.368
+Remember: find the limits, decide the outer graph, integrate outer squared minus inner squared, then multiply by pi.

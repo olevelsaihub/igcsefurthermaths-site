@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.056
+A ball hits a flat wall at a right angle. On a curve, the line that touches it at a point is the tangent. The line at ninety degrees to it, through the same point, is the normal.
+
+00:00:13.640 --> 00:00:24.078
+Perpendicular lines have gradients that multiply to minus one. So the normal gradient is the negative reciprocal of the tangent gradient: flip it and change the sign.
+
+00:00:24.640 --> 00:00:39.181
+Then use y minus y one equals m times x minus x one with the normal gradient. Integer form, a x plus b y plus c equals nought, means clear the fractions by multiplying through.
+
+00:00:39.760 --> 00:00:47.913
+These questions ask for the equation of a normal, often in integer form. It all starts from the curve's gradient at the point.
+
+00:00:49.040 --> 00:01:00.973
+Step one: find the point on the curve. Step two: differentiate and put in x to get the tangent gradient m. The normal is built from this number.
+
+00:01:01.560 --> 00:01:08.433
+Step three: take the negative reciprocal. The trap is using m itself, or forgetting the minus sign.
+
+00:01:09.000 --> 00:01:19.456
+Step four: write y minus y one equals the normal gradient times x minus x one. Then rearrange to the form asked, clearing fractions for integers.
+
+00:01:20.560 --> 00:01:35.783
+A real question from June twenty twenty one. Find an equation of the normal to the curve y equals x cubed minus two x, all times e to the one minus x, at the point one, minus one. Five marks.
+
+00:01:36.360 --> 00:01:46.949
+Step one: check the point. At x equals one, x cubed minus two x is minus one, and e to the nought is one. So y is minus one.
+
+00:01:47.520 --> 00:02:01.140
+Step two: product rule. u is x cubed minus two x, with derivative three x squared minus two. v is e to the one minus x, with derivative minus e to the one minus x.
+
+00:02:01.720 --> 00:02:12.396
+Put in x equals one. The first part is one times one. The second part is minus, minus one, times one. So the tangent gradient is two.
+
+00:02:12.960 --> 00:02:24.886
+Now the normal. Take the negative reciprocal of two, which is minus a half. A tempting wrong route is to use two as it is. That is the tangent, not the normal.
+
+00:02:25.440 --> 00:02:32.415
+Write the line through one, minus one. y plus one equals minus a half times x minus one.
+
+00:02:33.000 --> 00:02:45.674
+Multiply by two. Two y plus two equals minus x plus one. So x plus two y plus one equals nought. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:46.800 --> 00:02:59.270
+A common mistake is using the tangent gradient for the normal, or the reciprocal without the minus sign. Neither line is perpendicular.
+
+00:03:00.400 --> 00:03:20.631
+Now you try, from June twenty nineteen. f of x is e to the three x times root one plus two x. Part a gives the derivative. In part b, find the normal at x equals nought, in integer form. Write your answer, then choose Continue to Answer.
+
+00:03:21.760 --> 00:03:33.682
+At x equals nought, f is e to the nought times root one, which is one. So the point is nought, one. The derivative is two times one times two, over one, which is four.
+
+00:03:34.240 --> 00:03:50.478
+The normal gradient is minus one quarter. The line is y minus one equals minus a quarter times x. Multiply by four: four y minus four equals minus x. So x plus four y minus four equals nought.
+
+00:03:51.040 --> 00:03:59.238
+The most common wrong answer uses the tangent gradient, four, as it is. That is the tangent, so the normal marks are lost.
+
+00:03:59.800 --> 00:04:04.647
+Remember: point, tangent gradient, negative reciprocal, then the line in the form asked.

@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.123
+A car stops at a red light. For that moment its speed is zero. Velocity is speed with a direction. A particle is instantaneously at rest when its velocity is zero at one exact moment.
+
+00:00:15.680 --> 00:00:31.021
+Displacement s is where the particle is. Velocity v is how fast s changes. Acceleration a is how fast v changes. To go from s to v, or v to a, we differentiate.
+
+00:00:31.600 --> 00:00:42.047
+Here is a velocity graph. Rest means the velocity is zero, so the graph touches the t axis. These two crossing points are the times when the particle is at rest.
+
+00:00:42.600 --> 00:00:51.836
+These questions ask for the time when the particle is at rest, or has a given velocity. Sometimes they also ask where it is then.
+
+00:00:52.960 --> 00:01:08.390
+Step one: choose the right expression. Rest is about velocity, so use v, and differentiate first if given s. Step two: set it equal to zero, or to the given velocity.
+
+00:01:08.960 --> 00:01:20.218
+Step three: solve the quadratic. Time cannot be negative, so reject any negative time. Step four: if a position is asked, substitute t into s.
+
+00:01:20.800 --> 00:01:29.151
+The trap is solving the wrong condition. Rest means v equals zero, not s equals zero and not a equals zero.
+
+00:01:30.280 --> 00:01:49.449
+January twenty twenty two. A particle P moves along the x axis. At time t seconds its velocity is three t squared, minus twenty three t, plus thirty. Find the values of t when P is instantaneously at rest. Three marks.
+
+00:01:50.000 --> 00:02:00.916
+Step one: at rest the velocity is zero. So three t squared, minus twenty three t, plus thirty, equals zero. Write this line, because it earns the method mark.
+
+00:02:01.480 --> 00:02:13.248
+Step two: factorise. Three t minus five, times, t minus six, equals zero. Multiply it out to check: three t squared, minus eighteen t, minus five t, plus thirty.
+
+00:02:13.800 --> 00:02:24.848
+Step three: each bracket can be zero. Three t minus five is zero gives t equals five over three. T minus six is zero gives t equals six.
+
+00:02:25.400 --> 00:02:32.120
+Both answers are positive, so both are allowed. The graph meets the t axis at those two times.
+
+00:02:32.680 --> 00:02:43.881
+A tempting wrong route is to set the acceleration to zero. That gives t equals twenty three over six, but that is when a is zero, not when the particle is at rest.
+
+00:02:44.440 --> 00:02:53.877
+So P is at rest when t equals five thirds seconds, and when t equals six seconds. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:55.000 --> 00:03:10.821
+A common mistake is solving a bracket. From three t minus five equals zero, some students write t equals three fifths. Add five first, then divide by three: t equals five over three.
+
+00:03:11.960 --> 00:03:29.603
+Now you try, from November twenty twenty. The displacement of P from O is three, plus eight t, plus t squared, minus one third t cubed. Find the distance of P from O when P is at rest. Write your answer, then choose Continue to Answer.
+
+00:03:30.720 --> 00:03:48.099
+Rest is about velocity, so differentiate s. Velocity is eight, plus two t, minus t squared. Set it to zero, which gives t squared, minus two t, minus eight, equals zero. That is t minus four, times, t plus two.
+
+00:03:48.680 --> 00:04:01.915
+So t is four or minus two. Time cannot be negative, so t equals four seconds. Now the question asks for a distance, so substitute four into s: three, plus thirty two, plus sixteen, minus sixty four over three.
+
+00:04:02.480 --> 00:04:11.767
+The distance is eighty nine over three metres. The most common wrong answer is t equals four. That is the time, not the distance, so it loses marks.
+
+00:04:12.320 --> 00:04:20.093
+Remember: choose v, set it to the value, solve, reject negative times, then use s if asked.

@@ -1,0 +1,55 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.939
+Two numbers add to five and multiply to six: two and three. A quadratic equation has two roots, the two values of x that make it true. We name them alpha and beta, Greek letters.
+
+00:00:16.520 --> 00:00:28.910
+A quadratic with roots alpha and beta expands to x squared, minus the sum times x, plus the product. So for a x squared plus b x plus c, the sum is minus b over a, and the product is c over a.
+
+00:00:29.480 --> 00:00:44.665
+Questions say: without solving. So we never find the roots. Square the sum: alpha squared, plus two alpha beta, plus beta squared. So alpha squared plus beta squared is the sum squared, minus twice the product.
+
+00:00:45.240 --> 00:00:55.818
+Other results work the same way: alpha cubed plus beta cubed, alpha to the four plus beta to the four, and one over alpha plus one over beta, which is the sum over the product.
+
+00:00:56.400 --> 00:01:03.925
+In these questions you find a value like alpha squared plus beta squared, without solving. Find the sum and the product first.
+
+00:01:05.040 --> 00:01:18.385
+Step one: write the sum, minus b over a, and the product, c over a. Always divide by a. Step two: if the expression is a fraction, use a common denominator.
+
+00:01:18.960 --> 00:01:32.432
+Step three: rewrite the expression with an identity. Step four: substitute and simplify, keeping fractions exact. The trap is the sign of the sum. It is minus b over a.
+
+00:01:33.560 --> 00:01:50.587
+January twenty twenty two. The equation two x squared plus four x plus three equals zero has roots alpha and beta. Without solving the equation, show that alpha squared plus beta squared equals one. Four marks.
+
+00:01:51.160 --> 00:01:59.846
+Step one: a is two, b is four, c is three. The sum is minus four over two, which is minus two. The product is three over two.
+
+00:02:00.400 --> 00:02:07.496
+Step two: write the identity. Alpha squared plus beta squared is the sum squared, minus two times the product.
+
+00:02:08.080 --> 00:02:18.479
+A tempting wrong route is to forget to divide by a. Then the sum is minus four and the product is three. Sixteen minus six is ten, not one.
+
+00:02:19.040 --> 00:02:33.954
+Step three: substitute. Minus two squared is four. Two times three over two is three. Four minus three is one, as required. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:35.080 --> 00:02:48.076
+A common mistake is the sign of the sum. For x squared minus five x plus six, the roots are two and three, and they add to plus five. The sum is minus b, not b.
+
+00:02:49.200 --> 00:03:05.019
+Now you try, from June twenty nineteen. Without solving this equation, find alpha squared plus beta squared, and alpha to the four plus beta to the four. Write your answer, then choose Continue to Answer.
+
+00:03:06.120 --> 00:03:14.680
+a is one, b is three, c is minus five. The sum is minus three. The product is minus five.
+
+00:03:15.240 --> 00:03:24.733
+For part one: minus three, squared, is nine. Minus two times minus five is plus ten. So alpha squared plus beta squared is nineteen.
+
+00:03:25.320 --> 00:03:36.512
+Part two: alpha to the four plus beta to the four is nineteen squared, minus two times, alpha beta squared. That is three hundred and sixty one, minus fifty, which is three hundred and eleven.
+
+00:03:37.080 --> 00:03:45.733
+The most common wrong answer forgets to square the product: three hundred and seventy one. Remember: sum, product, identity, substitute.

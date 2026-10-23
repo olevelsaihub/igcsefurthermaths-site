@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.277
+A triangular garden has area half base times height. But often nobody tells you the height. If you know two sides and the angle between them, you can still find the area.
+
+00:00:13.840 --> 00:00:22.936
+The formula is: area equals a half, times a, times b, times sine C. Here C must be the angle between sides a and b.
+
+00:00:23.520 --> 00:00:33.277
+Draw the height h straight down from the top. In the right-angled triangle, h is b sine C. So half base times height is half a b sine C.
+
+00:00:33.840 --> 00:00:50.685
+It also works backwards. If the area is given, sine C is two times the area over a b. A sine value gives two angles, so two triangles can have the same area. This type asks you to use half a b sine C, forwards or backwards.
+
+00:00:51.800 --> 00:01:05.171
+Step one: find two sides and the angle between them. If no angle is given, use the cosine rule. Step two: write area equals half a b sine C.
+
+00:01:05.760 --> 00:01:15.348
+Step three: work out the area, or set it equal to the given area and solve. Step four: for an angle, find the acute and the obtuse value.
+
+00:01:15.920 --> 00:01:21.430
+The trap is using an angle that is not between the two sides, or forgetting the one half.
+
+00:01:22.560 --> 00:01:40.152
+June twenty twenty four. In triangle A B C, A B is two x, B C is three x and A C is four x centimetres. The area is fifty square centimetres. Find x to two decimal places. Four marks.
+
+00:01:40.720 --> 00:01:49.071
+No angle is given, so use the cosine rule. Angle B is between A B and B C, and A C is opposite it.
+
+00:01:49.640 --> 00:01:54.667
+Cosine B is minus three x squared over twelve x squared, which is minus one quarter.
+
+00:01:55.240 --> 00:02:09.823
+Step two: find sine B. Sine squared plus cosine squared is one, so sine squared B is fifteen sixteenths. Sine B is root fifteen over four. It is positive, because B is an angle in a triangle.
+
+00:02:10.400 --> 00:02:23.274
+Step three: area is a half times two x times three x times sine B. That is three root fifteen over four, times x squared, equal to fifty. So x is four point one five.
+
+00:02:23.840 --> 00:02:33.242
+A tempting route puts cosine B into the area formula. That gives a negative area, which is impossible. The formula needs sine.
+
+00:02:33.800 --> 00:02:41.401
+So x is four point one five, to two decimal places. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:42.520 --> 00:02:52.441
+A common mistake is using an angle that is not between the two sides. A B and A C meet at A, not at B.
+
+00:02:53.560 --> 00:03:14.454
+Now you try, from January twenty twenty. In triangle A B C, A B is eleven centimetres and B C is twelve centimetres. The area is thirty three square centimetres. Find the two possible lengths of A C, to three significant figures. Write your answer, then choose Continue to Answer.
+
+00:03:15.560 --> 00:03:30.560
+Use half times eleven times twelve times sine B equals thirty three. So sine B is two times thirty three, over eleven times twelve, which is a half. B is thirty degrees, or one hundred and fifty degrees.
+
+00:03:31.120 --> 00:03:45.368
+Now the cosine rule: A C squared is eleven squared plus twelve squared, minus two times eleven times twelve times cosine B. For thirty degrees, A C is six point zero three. For one hundred and fifty, it is twenty two point two.
+
+00:03:45.920 --> 00:03:56.246
+The common wrong answer uses only thirty degrees and gives one length, six point zero three. The question asks for two lengths, so the obtuse angle must be used as well.
+
+00:03:56.800 --> 00:04:03.359
+Remember: two sides and the angle between, then half a b sine C, then check both angles.

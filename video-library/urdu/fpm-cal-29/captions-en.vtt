@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:18.439
+A runner jogs five metres east, then turns and jogs three metres back west. Displacement is the change in position: two metres. Distance travelled is all the movement added up: eight metres. Distance is never negative.
+
+00:00:19.000 --> 00:00:31.166
+On a velocity graph, the area between the curve and the t axis is the displacement. Area above the axis is movement forward. Area below is movement backward, so it counts as negative.
+
+00:00:31.720 --> 00:00:45.433
+So if the particle turns round, the two areas cancel. To find distance, we split at the time of rest, take the size of each area, and add them. If there is no rest, there is no turning, and one integral is enough.
+
+00:00:46.000 --> 00:00:52.422
+These questions ask for the distance travelled in an interval, or the exact distance between two points of rest.
+
+00:00:53.560 --> 00:01:04.056
+Step one: find any times in the interval when v is zero. These are where the particle can change direction. If there are none, say so.
+
+00:01:04.640 --> 00:01:17.132
+Step two: integrate v over each part, using the limits. Step three: take the size of each answer. Step four: add them. Distance is never negative.
+
+00:01:17.720 --> 00:01:26.878
+The trap is integrating straight across a time of rest. The forward and backward movements cancel and the distance comes out too small.
+
+00:01:28.000 --> 00:01:43.865
+June twenty nineteen. A particle moves in a straight line with velocity t squared, minus four t, plus seven. Find the distance travelled in the interval nought to six seconds. Four marks.
+
+00:01:44.440 --> 00:01:57.671
+Step one: does the particle turn round? Set v to zero: t squared, minus four t, plus seven. The discriminant is sixteen, minus twenty eight, which is minus twelve. That is negative.
+
+00:01:58.240 --> 00:02:08.698
+So v keeps one sign. At t equals zero, v is seven, which is positive. So the particle always moves forward, and the distance is one integral from nought to six.
+
+00:02:09.280 --> 00:02:17.648
+Step three: integrate. T cubed over three, minus two t squared, plus seven t. Then put in six and nought.
+
+00:02:18.200 --> 00:02:29.283
+At six: two hundred and sixteen over three is seventy two, minus seventy two, plus forty two. That is forty two. At nought everything is zero. So the distance is forty two.
+
+00:02:29.840 --> 00:02:41.341
+A tempting wrong route is to multiply the velocity at six, nineteen, by six seconds. That gives one hundred and fourteen. But the speed is not constant, so we must integrate.
+
+00:02:41.920 --> 00:02:48.421
+So the distance travelled is forty two metres. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:49.560 --> 00:03:05.405
+A common mistake is not checking for rest. Take v equals t minus three from nought to six. Integrating straight across gives zero. But the particle moved four and a half each way, so the distance is nine.
+
+00:03:06.520 --> 00:03:25.839
+Now you try, from June twenty twenty three. The velocity is two t squared, minus nineteen t, plus thirty five. P rests at A and B, at times t one and t two. Use calculus to find the distance A B. Write your answer, then choose Continue to Answer.
+
+00:03:26.960 --> 00:03:40.893
+Set v to zero: two t squared, minus nineteen t, plus thirty five equals zero. That factorises as two t minus five, times, t minus seven. So t one is five over two, and t two is seven.
+
+00:03:41.480 --> 00:03:56.940
+Integrate: two t cubed over three, minus nineteen t squared over two, plus thirty five t. At seven this is forty nine over six. At five over two it is nine hundred and twenty five over twenty four. The difference is minus two hundred and forty three over eight.
+
+00:03:57.520 --> 00:04:08.048
+Distance is never negative, so take the size. The most common wrong answer leaves minus two hundred and forty three over eight. A negative distance loses the mark.
+
+00:04:08.600 --> 00:04:13.898
+Remember: find the rest times, integrate each part, take the size, and add.

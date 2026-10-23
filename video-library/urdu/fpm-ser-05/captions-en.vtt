@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.051
+You have read forty pages by the end of day six, and one hundred by the end of day ten. How many pages on days seven to ten? One hundred minus forty is sixty. Bigger total, take away the smaller total.
+
+00:00:15.640 --> 00:00:33.123
+Series work the same way. Sigma means add up. The sum from r equals thirty one to sixty adds terms thirty one up to sixty. It is the total of the first sixty, minus the total of the first thirty. S n means the sum of the first n terms.
+
+00:00:33.680 --> 00:00:46.090
+Why thirty and not thirty one? Term thirty one is one we want to keep. So we remove only terms one to thirty. The number removed is the lower limit minus one.
+
+00:00:46.680 --> 00:00:56.840
+The word hence means use the result from the earlier part. These questions give a sum formula and ask you to evaluate a sum between two limits.
+
+00:00:57.960 --> 00:01:09.505
+Step one: write the sum as S at the upper limit, minus S at one less than the lower limit. Step two: put both values into the formula for S n.
+
+00:01:10.080 --> 00:01:19.744
+Step three: subtract, and give the value. Step four: check with the number of terms, q minus p plus one, times the average of the first and last.
+
+00:01:20.320 --> 00:01:26.550
+The trap is subtracting S thirty one. That removes term thirty one, which should stay.
+
+00:01:27.680 --> 00:01:42.826
+June twenty twenty four, paper one. You are given the formula for the sum of the first n terms of five r minus three. Hence evaluate the sum from r equals thirty one to sixty. Two marks.
+
+00:01:43.400 --> 00:01:50.409
+Step one: sum from thirty one to sixty is S sixty minus S thirty. Terms one to thirty are removed.
+
+00:01:50.960 --> 00:02:00.431
+Step two: S sixty. Sixty over two times five times sixty minus one. Thirty times two hundred and ninety nine is eight thousand nine hundred and seventy.
+
+00:02:01.000 --> 00:02:09.504
+S thirty. Thirty over two times five times thirty minus one. Fifteen times one hundred and forty nine is two thousand two hundred and thirty five.
+
+00:02:10.080 --> 00:02:18.002
+Step three: subtract. Eight thousand nine hundred and seventy, minus two thousand two hundred and thirty five, is six thousand seven hundred and thirty five.
+
+00:02:18.560 --> 00:02:30.914
+Reject a tempting route. Subtracting S thirty one gives six thousand five hundred and eighty three. That is wrong, because term thirty one, which is one hundred and fifty two, has been removed.
+
+00:02:31.480 --> 00:02:46.991
+Check with first and last. The first term is one hundred and fifty two, the last is two hundred and ninety seven, and there are thirty terms. Fifteen times four hundred and forty nine is six thousand seven hundred and thirty five. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:48.120 --> 00:02:59.078
+Another mistake is the number of terms. From thirty one to sixty is thirty terms, not twenty nine. Take the upper limit, minus the lower limit, plus one.
+
+00:03:00.200 --> 00:03:16.243
+Now you try, from June twenty twenty three. You are given the sum of the first n terms of three r plus two. Hence evaluate the sum from r equals ten to forty. Write your answer, then choose Continue to Answer.
+
+00:03:17.360 --> 00:03:30.151
+The sum is S forty minus S nine. S forty is twenty times one hundred and twenty seven, which is two thousand five hundred and forty. S nine is nine over two times thirty four, which is one hundred and fifty three.
+
+00:03:30.720 --> 00:03:37.071
+Subtract. Two thousand five hundred and forty, minus one hundred and fifty three, is two thousand three hundred and eighty seven.
+
+00:03:37.640 --> 00:03:48.021
+The common wrong answer is two thousand three hundred and fifty five. It subtracts S ten, not S nine. That removes the tenth term, thirty two, which should stay.
+
+00:03:48.600 --> 00:03:54.059
+Remember the method. Upper limit total, take away the total one before the lower limit.

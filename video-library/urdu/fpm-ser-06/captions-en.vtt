@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:16.063
+A series starts at twenty four and goes up by six. When is the total of the first two n terms exactly three times the total of the first n terms? S n means the sum of the first n terms. Test some values of n.
+
+00:00:16.640 --> 00:00:28.787
+Only n equal to seven works. Algebra finds it, not trial. For S two n, replace every n in the sum formula by two n. Use brackets.
+
+00:00:29.360 --> 00:00:39.144
+Put every sum into the relation. That gives an equation in n, often a quadratic. Keep only the positive whole number, because n counts terms.
+
+00:00:39.720 --> 00:00:48.528
+These questions say find n. Use algebra means form and solve the equation. Trying numbers is not enough.
+
+00:00:49.640 --> 00:00:59.998
+Step one: find a and d, and write S n in terms of n. Step two: write other sums, like S two n, by replacing n carefully.
+
+00:01:00.560 --> 00:01:10.708
+Step three: substitute into the relation and expand. Step four: collect terms. If n is a common factor, divide by it.
+
+00:01:11.280 --> 00:01:19.164
+Step five: solve, keep the positive whole number, and check. The trap is writing S two n as two times S n.
+
+00:01:20.280 --> 00:01:38.081
+January twenty twenty, paper one. A different arithmetic series has first term twenty four and common difference six. The sum of the first two n terms is three times the sum of the first n terms. Find n. Five marks.
+
+00:01:38.640 --> 00:01:48.161
+Step one: S n. N over two, times forty eight plus six n minus six. That simplifies to n times, twenty one plus three n.
+
+00:01:48.720 --> 00:01:56.116
+Step two: S two n. Replace every n by two n. Two n times, twenty one plus six n.
+
+00:01:56.680 --> 00:02:08.402
+Step three: S two n equals three times S n. Divide both sides by n, which is not zero. We get forty two plus twelve n equals sixty three plus nine n.
+
+00:02:08.960 --> 00:02:15.066
+Step four: collect. Three n equals twenty one. So n is seven.
+
+00:02:15.640 --> 00:02:28.927
+Reject a tempting route. Writing S two n as two times S n gives S n equals zero. No positive n works. Doubling the terms does not double the sum.
+
+00:02:29.480 --> 00:02:41.750
+Check. S seven is two hundred and ninety four. S fourteen is eight hundred and eighty two, three times as much. So n is seven. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:42.880 --> 00:02:52.693
+A common mistake is replacing only some n's. Keep the n over two, and the answer comes out as minus fourteen. Replace every n.
+
+00:02:53.800 --> 00:03:16.169
+Now you try, from November twenty twenty one. S n is the sum of five r minus one, from r equals one to n. From part a, S n is n over two times three plus five n. Given S n equals twelve u n plus one, plus fifty two, find n. Write your answer, then choose Continue to Answer.
+
+00:03:17.280 --> 00:03:29.533
+The rth term is five r minus one. For u n plus one, replace r by n plus one. Five times n plus one, minus one, is five n plus four.
+
+00:03:30.120 --> 00:03:39.633
+Substitute into the relation, multiply out and collect. We get five n squared, minus one hundred and seventeen n, minus two hundred, equals zero.
+
+00:03:40.200 --> 00:03:52.060
+Factorise: n minus twenty five, times five n plus eight, equals zero. So n is twenty five, or minus eight over five. A number of terms is positive, so n is twenty five.
+
+00:03:52.640 --> 00:04:01.840
+The common wrong answer uses u n instead of u n plus one. That gives no whole solution. Replace n by n plus one.
+
+00:04:02.400 --> 00:04:08.420
+Remember the method. Everything in terms of n, form the equation, solve, and keep the whole number.

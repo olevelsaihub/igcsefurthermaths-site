@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:17.327
+A quadratic equation can be drawn as a U-shaped curve. Its roots are where the curve meets the x-axis. It can cross twice, touch once, or miss. Real roots are roots that are actual numbers.
+
+00:00:17.880 --> 00:00:30.738
+The quadratic formula has a square root. The number inside it is b squared minus four a c. We call it the discriminant. It decides which of the three cases we have.
+
+00:00:31.320 --> 00:00:44.746
+More than zero: two different real roots. Exactly zero: equal roots. Zero or more: real roots. Less than zero: no real roots, as we cannot take the root of a negative number.
+
+00:00:45.320 --> 00:00:59.138
+Often a, b or c contains the letter k. Then the discriminant gives a quadratic inequality in k. Sketch it. A U-shape is below zero between its roots, and above zero outside them.
+
+00:00:59.720 --> 00:01:05.306
+In these questions, you find the values of k so that an equation has equal, real, or no real roots.
+
+00:01:06.440 --> 00:01:21.623
+Step one: make the equation equal zero and read off a, b and c. Step two: write b squared minus four a c with the right sign. Step three: simplify to a quadratic in k.
+
+00:01:22.200 --> 00:01:36.207
+Step four: find the critical values, and sketch to choose the region. Step five: apply conditions like k not zero. The trap: real roots means zero or more, not more than zero.
+
+00:01:37.320 --> 00:01:52.146
+June twenty twenty two. Find the set of values of k for which two k x squared, plus five k x, plus five k minus three, equals zero, where k is not zero, has real roots. Four marks.
+
+00:01:52.720 --> 00:02:03.942
+Step one: read off a, b and c. a is two k. b is five k. c is five k minus three. Include the minus three in c.
+
+00:02:04.520 --> 00:02:13.266
+Step two: real roots means b squared minus four a c is zero or more. Substitute carefully, with brackets.
+
+00:02:13.840 --> 00:02:29.049
+Step three: expand. Twenty five k squared, minus eight k times five k minus three, is minus fifteen k squared plus twenty four k. It is zero or more. Multiply by minus one, and flip the sign.
+
+00:02:29.600 --> 00:02:41.890
+Step four: factorise. Three k times five k minus eight. The critical values are nought, and eight over five. The curve is a U-shape, so it is below zero between them.
+
+00:02:42.480 --> 00:02:54.929
+A tempting wrong route is the outside region. Try k equals two. The discriminant is minus sixty plus forty eight, minus twelve. No real roots.
+
+00:02:55.480 --> 00:03:10.243
+Step five: k is between nought and eight over five. But k is not zero. So k is above nought, and at most eight over five. This explanation is by olevels dot com, not an official mark scheme.
+
+00:03:11.360 --> 00:03:24.392
+A common mistake is using more than zero for real roots. That loses k equals eight over five, where the roots are equal. Equal roots are still real.
+
+00:03:25.520 --> 00:03:39.389
+Now you try, from June twenty twenty four. This time the roots are equal, not just real. Find the two possible values of k. Write your answer, then choose Continue to Answer.
+
+00:03:40.520 --> 00:03:54.099
+a is k, b is minus the bracket two k plus six, and c is sixteen. Equal roots means b squared minus four a c equals zero. Squaring b removes the minus sign.
+
+00:03:54.680 --> 00:04:07.433
+Expand: four k squared plus twenty four k plus thirty six, minus sixty four k. That is four k squared minus forty k plus thirty six. Divide by four: k squared minus ten k plus nine.
+
+00:04:08.000 --> 00:04:18.701
+Factorise: k minus one, times k minus nine. So k is one or nine. Check k equals one: x squared minus eight x plus sixteen is x minus four, squared.
+
+00:04:19.280 --> 00:04:29.487
+The most common wrong answer drops the middle term, writing four k squared plus thirty six. Remember: read a, b, c, use the right condition, solve, choose.

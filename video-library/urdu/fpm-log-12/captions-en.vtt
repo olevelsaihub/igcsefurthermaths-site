@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.551
+Two clues, two mystery numbers: x plus y is ten, and x minus y is two. Simultaneous equations are two equations true at the same time. We find the x and y that fit both.
+
+00:00:16.120 --> 00:00:29.850
+Here the clues hide in powers or logs. The number e is about two point seven one eight. L N is the log to base e. L N of e to the k is k, so they undo each other.
+
+00:00:30.440 --> 00:00:40.321
+The plan: turn each equation into ordinary algebra. Match powers, or undo the log. Then you have a normal pair of equations.
+
+00:00:40.880 --> 00:00:51.468
+Then substitute. Make one letter the subject of one equation. Put it into the other. One unknown is left to solve.
+
+00:00:52.040 --> 00:01:00.261
+So you solve two equations with powers or logs for x and y. Then check every log has a positive number inside.
+
+00:01:01.400 --> 00:01:16.270
+Step one: turn each equation into ordinary algebra. Step two: make one unknown, or one exponential like e to the two y, the subject. Step three: substitute and solve.
+
+00:01:16.840 --> 00:01:29.961
+Step four: find the other unknown. Step five: check the logs, and round only at the end. The trap: e to the two y plus one is e to the two y times e, not plus e.
+
+00:01:31.080 --> 00:01:48.493
+January twenty twenty three. Solve these simultaneous equations to two decimal places: e to the two y minus x plus two equals zero, and L N of x plus three, minus two y, minus one, equals zero. Eight marks.
+
+00:01:49.080 --> 00:01:57.305
+Step one: from the first equation, e to the two y equals x minus two. Treat e to the two y as one unknown.
+
+00:01:57.880 --> 00:02:09.913
+Step two: in the second, L N of x plus three equals two y plus one. Undo L N with e: x plus three equals e to the two y plus one, which is e times e to the two y.
+
+00:02:10.480 --> 00:02:19.589
+Step three: substitute x minus two for e to the two y. We get x plus three equals e times x minus two.
+
+00:02:20.160 --> 00:02:29.210
+A tempting wrong route is adding the two equations. Nothing cancels, as x and y sit in different kinds of terms.
+
+00:02:29.760 --> 00:02:40.792
+Step four: collect x terms. Two e plus three equals x times e minus one. So x is two e plus three over e minus one, which is four point nine one.
+
+00:02:41.360 --> 00:02:55.623
+Step five: e to the two y is x minus two, about two point nine one. So y is half of its L N: nought point five three. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:56.760 --> 00:03:08.518
+A common mistake is writing x plus three as e to the two y plus e. Adding powers means multiplying: e to the two y times e.
+
+00:03:09.640 --> 00:03:21.908
+Now you try, from November twenty twenty. Use algebra to solve these equations for x and y. Write your answer, then choose Continue to Answer.
+
+00:03:23.040 --> 00:03:38.656
+Write everything as powers of two. Sixteen is two to the four, eight is two cubed, a quarter is two to the minus two. Dividing subtracts powers: four x minus three y equals minus two.
+
+00:03:39.240 --> 00:03:48.554
+Second equation: four is two squared and sixteen is two to the four. Multiplying adds powers: two x plus y equals four.
+
+00:03:49.120 --> 00:04:00.198
+Substitute y equals four minus two x. Four x minus twelve plus six x equals minus two. Ten x equals ten, so x is one and y is two.
+
+00:04:00.760 --> 00:04:11.714
+The most common wrong answer divides the powers instead of subtracting them. Two to the four x, over two to the three y, is two to the power four x minus three y.
+
+00:04:12.280 --> 00:04:18.840
+Remember: same base or undo the log, make ordinary equations, substitute, then find the other letter.

@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.914
+A shop bill is price times quantity. If the bill is zero, the price is zero or the quantity is zero. In maths too: if two things multiply to give zero, one of them is zero.
+
+00:00:13.480 --> 00:00:24.800
+Factorising means writing an expression as a product. Look for a common factor, a part in every term. In two sine y cosine y plus sine y, sine y is common.
+
+00:00:25.360 --> 00:00:37.369
+Tan is sine over cosine, so it is undefined when cosine is zero. That means at ninety degrees and two hundred and seventy degrees. Those angles can never be solutions.
+
+00:00:37.920 --> 00:00:45.554
+This question type gives a trig equation with a common factor. You factorise, solve each factor, and keep every solution that is allowed.
+
+00:00:46.680 --> 00:01:01.630
+Step one: write tan as sine over cosine, or use the given identity, so every term has a common factor. Step two: factorise. Do not divide, because dividing loses solutions.
+
+00:01:02.200 --> 00:01:14.748
+Step three: set each factor equal to zero and solve each simple equation in the interval. Step four: combine all the solutions, and remove any angle where tan is undefined.
+
+00:01:15.320 --> 00:01:24.366
+The trap is dividing both sides by the common factor. It looks neat, but it loses the solutions where that factor is zero.
+
+00:01:25.480 --> 00:01:42.245
+January twenty twenty. Giving your solutions to one decimal place where appropriate, solve two tan y degrees plus five sine y degrees equals zero, for y from zero to one hundred and eighty. Four marks.
+
+00:01:42.800 --> 00:01:52.178
+Write tan as sine over cosine. Two sine y over cosine y, plus five sine y, equals zero. Every term now has sine y.
+
+00:01:52.760 --> 00:02:07.458
+Take out sine y. Sine y, times, two over cosine y plus five, equals zero. Multiply the bracket by cosine y to clear the fraction: sine y, times, two plus five cosine y, equals zero.
+
+00:02:08.040 --> 00:02:20.061
+Two factors, so two equations. Sine y equals zero gives y equals zero, or y equals one hundred and eighty. Both are in the interval, and tan is defined at both.
+
+00:02:20.640 --> 00:02:35.216
+Two plus five cosine y equals zero gives cosine y equals minus two over five. Cosine inverse of minus nought point four is one hundred and thirteen point six degrees. The other solution is above one eighty.
+
+00:02:35.800 --> 00:02:47.697
+A tempting wrong route is to divide both sides by sine y. That leaves one solution only. It throws away y equals zero and y equals one hundred and eighty.
+
+00:02:48.280 --> 00:02:56.191
+So y equals zero, one hundred and thirteen point six, or one hundred and eighty. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:57.320 --> 00:03:11.239
+A common mistake is a sign slip. Five cosine y equals minus two. If the minus is lost, cosine y is plus two fifths, and y comes out as sixty six point four.
+
+00:03:12.360 --> 00:03:35.546
+Now you try, from January twenty twenty three. From part B, sine two theta minus tan theta is tan theta cosine two theta. Solve sine two x degrees minus tan x degrees equals zero, for x from nought to three sixty, not included. Write your answer, then choose Continue to Answer.
+
+00:03:36.680 --> 00:03:48.468
+Use the part B result: tan x times cosine two x equals zero. Two factors, so tan x equals zero, or cosine two x equals zero.
+
+00:03:49.040 --> 00:04:06.779
+Tan x equals zero gives x equals one eighty. Nought and three sixty are not allowed. Cosine two x equals zero gives two x equals ninety, two seventy, four fifty, six thirty. So x is forty five, one thirty five, two twenty five, three fifteen.
+
+00:04:07.360 --> 00:04:16.410
+The most common wrong answer divides by tan x. That leaves only the four cosine solutions, and misses x equals one hundred and eighty.
+
+00:04:16.960 --> 00:04:24.254
+Remember: factorise, never divide. Solve each factor, combine, and remove undefined angles.

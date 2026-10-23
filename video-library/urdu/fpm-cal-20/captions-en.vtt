@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.289
+Think of a lake. The water line is the top edge and the curved bed is the bottom edge. The depth at any point is top minus bottom. Adding the depths gives the area.
+
+00:00:14.840 --> 00:00:26.631
+The same works for two graphs. The area between them is the integral of top minus bottom. Here the line y equals x is above the curve y equals x squared, from nought to one.
+
+00:00:27.200 --> 00:00:35.782
+The limits are where the graphs meet. There the two y values are equal, so set the two equations equal and solve.
+
+00:00:36.360 --> 00:00:49.284
+Which graph is on top? Test one x value between the limits. At x equals a half, the line gives a half and the curve a quarter. So the line is on top.
+
+00:00:49.840 --> 00:00:58.338
+These questions ask for the area of the finite region bounded by a curve and a line, or two curves. Finite means enclosed all the way round.
+
+00:00:59.440 --> 00:01:10.748
+Step one: solve the two equations together, to get the limits. Step two: test a value between the limits to see which graph is on top.
+
+00:01:11.320 --> 00:01:21.417
+Step three: simplify top minus bottom, then integrate. Step four: substitute the limits, keeping the answer exact if asked.
+
+00:01:22.000 --> 00:01:27.805
+The trap is subtracting the wrong way round. Bottom minus top gives a negative area.
+
+00:01:28.920 --> 00:01:46.747
+November twenty twenty three. The curve S is y equals x squared over two, minus two x, minus six. The line l is two y plus x plus eight equals nought. Find the exact area bounded by S and l. Seven marks.
+
+00:01:47.320 --> 00:01:55.693
+Here is the picture. The line l cuts the parabola S at P, and at one more point. The shaded region lies between them.
+
+00:01:56.280 --> 00:02:07.172
+Step one: the limits. Set l equal to S. That gives x squared minus three x minus four equals nought, so x is minus one or four.
+
+00:02:07.760 --> 00:02:20.201
+Step two: test x equals nought. The line gives minus four, S gives minus six, so l is on top. Integrate l minus S. The minus applies to every term of S.
+
+00:02:20.760 --> 00:02:33.386
+Step three: integrate and put in the limits. At four we get twenty eight thirds. At minus one we get minus thirteen twelfths. The difference is one hundred and twenty five twelfths.
+
+00:02:33.960 --> 00:02:40.861
+So the exact area is one hundred and twenty five over twelve. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:42.000 --> 00:02:55.305
+A common mistake is dropping a minus sign. When you subtract S, the minus applies to every term inside the bracket. So minus minus two x becomes plus two x.
+
+00:02:56.440 --> 00:03:16.209
+Now you try, from November twenty twenty. C is y equals x squared, minus nine x, plus fourteen. The line l is y equals x plus five. Find the exact area of the finite region bounded by C and l. Write your answer, then choose Continue to Answer.
+
+00:03:17.320 --> 00:03:26.897
+Set the equations equal: x squared minus ten x plus nine is nought, so x is one or nine. The line is on top between them.
+
+00:03:27.480 --> 00:03:39.990
+Line minus curve is minus x squared plus ten x minus nine. Integrating gives eighty one at nine, and minus thirteen thirds at one. The area is two hundred and fifty six thirds.
+
+00:03:40.560 --> 00:03:49.067
+The common wrong answer subtracts the wrong way round. That gives minus two fifty six thirds. An area cannot be negative.
+
+00:03:49.640 --> 00:03:56.716
+Remember: solve together, test for the top graph, integrate top minus bottom, then use the limits.

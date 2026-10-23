@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.989
+Open a book on a table. The cover and the table are two planes, meaning flat surfaces. They meet along the spine. The angle between the planes is how far the cover has opened.
+
+00:00:13.560 --> 00:00:26.309
+Pick a point on the common line. In each plane, draw a perpendicular, a line at right angles to the common line, through that point. The angle between those two lines is the angle between the planes.
+
+00:00:26.880 --> 00:00:38.293
+A sloping face of a pyramid meets the base along a base edge. Take the midpoint M of that edge. V M and O M are both perpendicular to it. So the angle is V M O.
+
+00:00:38.880 --> 00:00:46.203
+This type asks for the angle between a sloping face and the base. Find the midpoint of the edge, then use trigonometry.
+
+00:00:47.320 --> 00:00:58.816
+Step one: find the line where the planes meet. Step two: take its midpoint, and draw a perpendicular in each plane. Name the angle.
+
+00:00:59.400 --> 00:01:06.326
+Step three: find two sides of triangle V O M. Step four: use tan, sin or cos.
+
+00:01:06.880 --> 00:01:10.249
+The trap is using a sloping edge, instead of the midpoint of the edge.
+
+00:01:11.360 --> 00:01:28.192
+June twenty twenty three. A right pyramid has a regular pentagon base A B C D E, with sides two x. The sloping edges are three x. Find the angle between the plane V B C and the base. Six marks.
+
+00:01:28.760 --> 00:01:40.215
+Step one: the common line is B C. Let M be its midpoint, and O the centre. V M and O M are both perpendicular to B C. So we need angle V M O.
+
+00:01:40.800 --> 00:01:51.725
+Step two: in triangle V B M, V B is three x and B M is x. So V M squared is nine x squared minus x squared. V M is two root two x.
+
+00:01:52.280 --> 00:02:07.391
+Step three: O M. The angle at the centre is three hundred and sixty over five, seventy two degrees. Angle B O M is half of it, thirty six. So O M is x over tan thirty six, one point three seven six x.
+
+00:02:07.960 --> 00:02:18.151
+Step four: cosine of angle V M O is O M over V M. That is nought point four eight six six. The angle is sixty point nine degrees.
+
+00:02:18.720 --> 00:02:29.529
+A tempting route uses the sloping edge V B instead of V M. That gives fifty five point five degrees, the angle between the edge and the base, not between the planes.
+
+00:02:30.080 --> 00:02:38.579
+So the angle between the plane V B C and the base is sixty point nine degrees. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:39.680 --> 00:02:49.871
+A common mistake is using the whole side instead of half in the slant height. Then V M is root five x, and the angle is fifty two degrees.
+
+00:02:51.000 --> 00:03:03.606
+Now you try, from June twenty nineteen. Find the angle between the plane V A B and the base, to one decimal place. Write your answer, then choose Continue to Answer.
+
+00:03:04.720 --> 00:03:18.949
+Triangle A V C has a right angle at V, and V A equals V C. So V O is half of A C, which is eight root two. The common line is A B. M is its midpoint, so O M is eight.
+
+00:03:19.520 --> 00:03:26.870
+The angle is V M O. Tan is V O over O M, which is root two. The angle is fifty four point seven degrees.
+
+00:03:27.440 --> 00:03:34.668
+The common wrong answer uses A O instead of O M. That gives tan equal to one, and forty five degrees.
+
+00:03:35.240 --> 00:03:39.703
+Remember: common line, midpoint, two perpendiculars, then trigonometry.

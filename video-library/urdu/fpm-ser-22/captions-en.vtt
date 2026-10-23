@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.535
+A detective finds missing numbers from clues. Here the missing numbers are a and n, and the clues are coefficients. A coefficient is the number multiplying a power of x. In five x squared, it is five.
+
+00:00:16.120 --> 00:00:27.641
+Start with the general expansion, with a and n left as letters. The coefficient of x is n a. The coefficient of x squared is n times n minus one over two, times a squared.
+
+00:00:28.200 --> 00:00:35.867
+Watch the power of a. The whole term is a x, so x squared brings a squared, and x cubed brings a cubed.
+
+00:00:36.440 --> 00:00:49.178
+Each clue becomes one equation. Two unknowns need two clues. The coefficient of x is fifteen gives n a equals fifteen. A condition, such as n greater than two, is checked at the end.
+
+00:00:49.760 --> 00:00:53.981
+So you write the coefficients, form equations, solve, and check the condition.
+
+00:00:55.120 --> 00:01:02.719
+Step one: write the coefficients, with the letters left in. Step two: turn each clue into an equation.
+
+00:01:03.280 --> 00:01:15.115
+Step three: divide the equations, or substitute one letter into the other, to leave one letter. Step four: solve, find the other letter, and check any condition.
+
+00:01:15.680 --> 00:01:25.412
+The trap: a loses its power. In the x squared coefficient, a must be squared. Check by putting your answers back into the coefficients.
+
+00:01:26.520 --> 00:01:44.989
+June twenty twenty one. The bracket is one plus a x, to the n, with n greater than two. The coefficient of x is fifteen. The x squared and x cubed coefficients are equal. Find a and n. Six marks.
+
+00:01:45.560 --> 00:01:55.926
+Step one: the clues as equations. The first gives n a equals fifteen. The second sets the x squared and x cubed coefficients equal.
+
+00:01:56.480 --> 00:02:10.304
+A tempting wrong route writes a squared, not a cubed, in the x cubed term. It gives n equal to five and a equal to three. But then the true coefficients are ninety and two hundred and seventy. Not equal, so it fails.
+
+00:02:10.880 --> 00:02:23.476
+Step two: divide equation two by n times n minus one, over two, times a squared. It is not zero, because n is greater than two. That leaves n minus two, times a, equals three.
+
+00:02:24.040 --> 00:02:34.125
+Step three: n a is fifteen, so fifteen minus two a is three. So a is six, and n is five halves. That is greater than two, as required.
+
+00:02:34.680 --> 00:02:45.225
+Check: both coefficients are one hundred and thirty five over two. So a is six and n is five halves. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:46.360 --> 00:02:58.980
+A common mistake is ignoring the condition. Factorising can give n equal to zero or one. The condition n greater than two, and n a equal to fifteen, reject them.
+
+00:03:00.120 --> 00:03:16.476
+Now you try, from January twenty twenty two. The coefficient of x is eight, and the coefficient of x squared is thirty. Find n and a. Four marks. Write your answer, then choose Continue to Answer.
+
+00:03:17.600 --> 00:03:24.230
+The clues give n a equals eight, and n times n minus one, times a squared, equals sixty.
+
+00:03:24.800 --> 00:03:35.042
+Substitute a equals eight over n. That gives sixty four times n minus one, over n, equals sixty. So four n is sixty four, and n is sixteen.
+
+00:03:35.600 --> 00:03:44.974
+Then a is eight over sixteen, a half. Check: n is greater than two, and the x squared coefficient is one hundred and twenty times a quarter, which is thirty.
+
+00:03:45.560 --> 00:03:55.165
+The common wrong answer leaves a unsquared in the x squared equation. That gives values that fail the check. Always put a squared.
+
+00:03:55.720 --> 00:03:59.756
+Remember: coefficients, equations, solve, then check the condition.

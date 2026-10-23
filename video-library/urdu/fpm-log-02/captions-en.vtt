@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.713
+Take six plus nine. You can take out the common factor three, and write three times, two plus three. Taking out a factor means writing something as a factor times a bracket.
+
+00:00:14.280 --> 00:00:29.838
+The binomial series expands a bracket to a negative or fractional power. It only works if the bracket starts with one. So take the first number out. Two plus three x becomes two times, one plus three over two x.
+
+00:00:30.400 --> 00:00:46.624
+The key rule: the factor you take out gets the same power as the bracket. A negative power means a reciprocal, and a fractional power means a root. Two to the minus one is a half. Eight to the one third is two.
+
+00:00:47.200 --> 00:00:54.475
+The question says express in the form p times, one plus q x, to the power n. Find p and q.
+
+00:00:55.600 --> 00:01:06.734
+Step one: write any root or fraction as a single power. Step two: take the first number out, and divide the x term by it.
+
+00:01:07.320 --> 00:01:14.779
+Step three: give the power to both factors, and work out c to the power n. Step four: read off p and q.
+
+00:01:15.360 --> 00:01:21.190
+The traps: forgetting to give the outside factor the power, and forgetting to divide the x term.
+
+00:01:22.320 --> 00:01:36.559
+June twenty twenty two. Two plus three x, to the power minus one, is expressed as p times, one plus q x, to the power minus one. Find p and q. Two marks.
+
+00:01:37.120 --> 00:01:43.546
+Step one: take out the two. Two plus three x is two times, one plus three over two x.
+
+00:01:44.120 --> 00:01:52.629
+Step two: give the power to both factors. Two to the minus one, times one plus three over two x, to the minus one.
+
+00:01:53.200 --> 00:02:00.415
+Step three: two to the minus one is one half. So p is one half, and q is three over two.
+
+00:02:01.000 --> 00:02:11.826
+Check with x equals nought. The left side is two to the minus one, which is a half. The right side is a half times one, which is also a half.
+
+00:02:12.400 --> 00:02:21.089
+A tempting wrong route leaves the two without the power. At x equals nought that gives two, not a half. So it is wrong.
+
+00:02:21.640 --> 00:02:28.714
+So p is one half and q is three over two. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:29.840 --> 00:02:44.310
+A common mistake is to take two out but not divide the x term. At x equals one, the left side is a fifth, but the wrong form gives one eighth. Divide three x by two.
+
+00:02:45.440 --> 00:03:06.858
+Now you try, from January twenty twenty three. Eight plus three x, to the power one third, is written as p times, one plus q x, to the power one third. Find p and q. A power of a third means a cube root. Write your answer, then choose Continue to Answer.
+
+00:03:07.960 --> 00:03:18.651
+Take eight out. Eight plus three x is eight times, one plus three over eight x. Give the power one third to both factors.
+
+00:03:19.240 --> 00:03:32.026
+Eight to the one third is the cube root of eight, which is two. So p is two and q is three over eight. Check with x equals nought: the cube root of eight is two, and two times one is two.
+
+00:03:32.600 --> 00:03:39.550
+The common wrong answer is p equals eight, forgetting the power. At x equals nought, the left side is two, not eight.
+
+00:03:40.120 --> 00:03:47.580
+Remember: take the first number out, divide the x term by it, give both factors the power, and read off p and q.

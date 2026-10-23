@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.438
+A cinema has two seats in row one, seven in row two, twelve in row three. Every row has five more. How many seats are in the first n rows? Adding them all up is a sum.
+
+00:00:14.000 --> 00:00:27.375
+Sigma means add up. Sigma from r equals one to n of five r minus three says: put r equal to one, two, three, up to n, and add. That gives two plus seven plus twelve, and so on.
+
+00:00:27.960 --> 00:00:41.206
+A rule like five r minus three always gives an arithmetic series. The first term a is the value at r equals one. The common difference d is the number in front of r. There are n terms.
+
+00:00:41.760 --> 00:00:52.425
+Then use the sum formula. The sum of n terms, called S n, is n over two, times, two a plus n minus one times d. You must know this formula.
+
+00:00:53.000 --> 00:01:02.059
+These questions say show that. The sum is printed, so every line must be written. You end exactly at the printed result.
+
+00:01:03.160 --> 00:01:12.668
+Step one: put r equal to one, two, three to see the first terms. Step two: state a and d, and say there are n terms.
+
+00:01:13.240 --> 00:01:22.210
+Step three: put a, d and n into the sum formula. Step four: simplify inside the bracket, line by line, to the printed answer.
+
+00:01:22.760 --> 00:01:28.704
+The trap is the first term. Here the number added is minus three, but the first term is two.
+
+00:01:29.840 --> 00:01:43.062
+June twenty twenty four, paper one. Show that the sum from r equals one to n of five r minus three equals n over two, times five n minus one. Three marks.
+
+00:01:43.640 --> 00:01:48.923
+Step one: put r equal to one, two, three. We get two, seven and twelve.
+
+00:01:49.480 --> 00:01:56.875
+The jump is five, so the series is arithmetic. The first term a is two, the common difference d is five, and there are n terms.
+
+00:01:57.440 --> 00:02:04.877
+Step three: write the formula and substitute. N over two, times, two times two, plus n minus one times five.
+
+00:02:05.440 --> 00:02:12.494
+Step four: simplify inside the bracket. Four plus five n minus five is five n minus one.
+
+00:02:13.080 --> 00:02:24.658
+Reject a tempting route. Taking the first term as minus three gives n over two, times five n minus eleven. That does not match the printed answer.
+
+00:02:25.240 --> 00:02:43.933
+Check with n equal to four. Two plus seven plus twelve plus seventeen is thirty eight. The formula gives four over two times nineteen, also thirty eight. The sum equals n over two, times five n minus one, as required. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:45.040 --> 00:02:57.823
+Another mistake is the last term. If you use the sum of first plus last, the last term is the value at r equals n, which is five n minus three. Not five n.
+
+00:02:58.960 --> 00:03:13.891
+Now you try, from June twenty twenty three. Show that the sum from r equals one to n of three r plus two equals n over two, times three n plus seven. Write your answer, then choose Continue to Answer.
+
+00:03:15.000 --> 00:03:24.330
+Put r equal to one, two, three. We get five, eight, eleven. So a is five and d is three, with n terms.
+
+00:03:24.880 --> 00:03:34.981
+Substitute into the formula. N over two, times ten plus three n minus three. That simplifies to n over two, times three n plus seven.
+
+00:03:35.560 --> 00:03:43.924
+The common wrong answer takes the first term as two. That gives n over two times three n plus one. It is not the printed result.
+
+00:03:44.480 --> 00:03:50.774
+Remember the method. Write the terms, state a, d and n, substitute, and simplify.

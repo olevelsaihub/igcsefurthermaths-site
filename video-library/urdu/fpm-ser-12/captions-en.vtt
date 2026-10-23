@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.851
+Imagine walking towards a wall, each step half as long as the last. Eight metres, four, two, one. You get closer and closer, but never pass a fixed distance.
+
+00:00:14.440 --> 00:00:26.946
+If adding more terms gets closer and closer to a fixed number, the series is convergent. That number is the sum to infinity. If the total keeps growing, the series is not convergent.
+
+00:00:27.520 --> 00:00:43.071
+For a geometric series it depends on the common ratio, r. If the size of r is less than one, the terms shrink. The size of r, written with two bars, is called the modulus. It means r without its sign.
+
+00:00:43.640 --> 00:01:01.693
+Four examples. A half shrinks. Minus a half swings up and down but shrinks. Three grows. Minus two swings and grows. The sign does not matter. Only the size does.
+
+00:01:02.280 --> 00:01:14.365
+These questions ask you to show a series is convergent, or explain why it has no sum to infinity. Find r, compare its size with one, and write a sentence.
+
+00:01:15.480 --> 00:01:27.300
+Step one: find r. Divide the second term by the first. Check by dividing the third by the second. They must agree.
+
+00:01:27.880 --> 00:01:37.933
+Step two: find the size of r and compare it with one. If it is less than one, the series is convergent. If it is one or more, it is not.
+
+00:01:38.520 --> 00:01:44.906
+Step three: write a sentence with your value of r, how its size compares with one, and your conclusion.
+
+00:01:46.040 --> 00:02:05.036
+November twenty twenty, paper two. The first three terms are x minus three, x plus one, and four x minus two. From part a, x is one third or five. Given x is less than one, show the series is convergent. Two marks.
+
+00:02:05.600 --> 00:02:13.959
+Step one: x is less than one, so x is one third. The terms are minus eight thirds, four thirds, minus two thirds.
+
+00:02:14.520 --> 00:02:26.253
+Step two: find r. Second over first is four thirds over minus eight thirds, which is minus a half. Third over second is also minus a half.
+
+00:02:26.840 --> 00:02:34.764
+Step three: compare. The size of r is one half, which is less than one. So the series is convergent.
+
+00:02:35.320 --> 00:02:48.151
+Reject a tempting route. Using x equal to five gives terms two, six, eighteen, so r is three. That is not convergent. This is why x is less than one.
+
+00:02:48.720 --> 00:03:00.321
+So the exam answer is: r is minus a half, so the size of r is less than one, so the series is convergent. This explanation is by olevels dot com, not an official mark scheme.
+
+00:03:01.440 --> 00:03:14.402
+A common mistake is to say r is less than one. Minus two is less than one, but a series with ratio minus two is not convergent. Use the size of r.
+
+00:03:15.520 --> 00:03:33.838
+Now you try, from November twenty twenty five. A geometric series G has first term three plus root three. The second term is root three. Explain why G is convergent. Write your answer, then choose Continue to Answer.
+
+00:03:34.960 --> 00:03:53.515
+First find r. Divide the second term by the first: root three over three plus root three. Multiply top and bottom by three minus root three. The bottom is nine minus three, which is six. So r is root three minus one, over two.
+
+00:03:54.080 --> 00:04:05.476
+Root three is about one point seven three. So r is about nought point three seven. The exam answer: the size of r is less than one, so G is convergent.
+
+00:04:06.040 --> 00:04:20.640
+The common wrong answer divides the wrong way: first term over second. That gives root three plus one, about two point seven three, so it says G is not convergent. Always divide a term by the one before it.
+
+00:04:21.200 --> 00:04:27.307
+Remember the method. Find r, find its size, compare with one, and write the sentence.

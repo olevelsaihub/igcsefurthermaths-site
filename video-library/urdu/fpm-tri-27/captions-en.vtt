@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.276
+You can already solve a quadratic like x squared plus x minus six equals zero. The same method works when the unknown is a trig ratio such as tan y. Treat tan y as one unknown.
+
+00:00:14.840 --> 00:00:29.251
+A quadratic needs one trig ratio only, so we use an identity, an equation true for every angle. Sine squared plus cosine squared equals one swaps sine squared for one minus cosine squared.
+
+00:00:29.840 --> 00:00:41.141
+Sine and cosine only take values from minus one to one. If a factor gives sine x equals two, reject it. Tangent can be any number.
+
+00:00:41.720 --> 00:00:49.513
+This type gives an equation with squares of trig ratios. Make a quadratic, solve it, then find every angle in the interval.
+
+00:00:50.640 --> 00:01:00.710
+Step one: use an identity so that only one trig ratio appears. Step two: rearrange into a quadratic equal to zero.
+
+00:01:01.280 --> 00:01:14.816
+Step three: factorise or use the formula, and reject impossible values. Step four: solve each simple equation over the whole interval. Each value can give more than one angle.
+
+00:01:15.400 --> 00:01:23.213
+The trap is giving one angle for each ratio value. In a full turn, most values give two angles.
+
+00:01:24.320 --> 00:01:49.164
+June twenty twenty one. From part B, if seven sine squared theta plus sine theta cosine theta equals six, then tan squared theta plus tan theta minus six equals zero. Hence solve seven sine squared y plus sine y cosine y equals six, for y from zero up to three sixty. Nearest whole number. Four marks.
+
+00:01:49.720 --> 00:02:05.695
+Hence means use part B. It came from an identity. Divide every term by cosine squared y. One over cosine squared y is one plus tan squared y, so the right side becomes six plus six tan squared y.
+
+00:02:06.280 --> 00:02:14.734
+Now factorise: tan y plus three, times, tan y minus two, equals zero. So tan y equals two, or tan y equals minus three.
+
+00:02:15.320 --> 00:02:28.751
+Tan y equals two. Tan inverse of two is sixty three point four degrees. Add one eighty for two hundred and forty three point four. To the nearest whole number: sixty three, and two hundred and forty three.
+
+00:02:29.320 --> 00:02:47.768
+Tan y equals minus three. The calculator gives minus seventy one point six, outside the interval. Add one eighty: one hundred and eight point four. Add three sixty: two eighty eight point four. So one hundred and eight, and two eighty eight.
+
+00:02:48.320 --> 00:02:56.907
+A tempting wrong route is to stop at the calculator value, minus seventy two. It is not in the interval, so it cannot be an answer.
+
+00:02:57.480 --> 00:03:05.718
+So y is sixty three, one hundred and eight, two hundred and forty three, or two eighty eight. This explanation is by olevels dot com, not an official mark scheme.
+
+00:03:06.840 --> 00:03:22.864
+A common mistake is a wrong factorisation. Tan y plus two, times, tan y minus three, gives tan squared y minus tan y minus six. The middle sign is wrong. Expand to check.
+
+00:03:24.000 --> 00:03:42.093
+Now you try, from June twenty twenty two. Solve cosine theta equals three sine squared theta minus one, for theta from minus one eighty up to one eighty, to one decimal place where appropriate. Write your answer, then choose Continue to Answer.
+
+00:03:43.200 --> 00:03:59.753
+Replace sine squared by one minus cosine squared, to get cosine theta equals two minus three cosine squared theta. Rearrange: three cosine squared theta, plus cosine theta, minus two, equals zero. That factorises.
+
+00:04:00.320 --> 00:04:15.696
+Cosine theta equals two thirds gives theta equals forty eight point two, and minus forty eight point two. Cosine theta equals minus one gives minus one eighty. One eighty is not allowed, because theta must be less than one eighty.
+
+00:04:16.280 --> 00:04:22.386
+The most common wrong answer gives one hundred and eighty, which is outside the interval, and forgets the negative angles.
+
+00:04:22.960 --> 00:04:28.159
+Remember: one ratio, a quadratic equal to zero, factorise, then find every angle in the interval.

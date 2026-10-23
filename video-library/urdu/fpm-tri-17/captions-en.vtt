@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.493
+Look at a roof. Two sloping faces meet along the ridge. The angle between the faces is how wide they open, measured across the ridge. The ridge is the common edge.
+
+00:00:13.080 --> 00:00:24.523
+Pick a point X on the common edge. In each face, draw a line to X at right angles to the edge. The angle between those two lines is the angle between the faces.
+
+00:00:25.080 --> 00:00:35.636
+The two lines and the line joining their ends make a triangle. The cosine rule gives the angle at X. A negative cosine means an obtuse angle.
+
+00:00:36.200 --> 00:00:46.301
+To find a perpendicular, use symmetry, or area: half the edge times the perpendicular equals the area. This type asks for the angle between two faces.
+
+00:00:47.440 --> 00:00:56.773
+Step one: find the common edge of the two faces. Step two: find the perpendicular from a vertex in each face to that edge.
+
+00:00:57.360 --> 00:01:05.960
+Step three: find the third side of the triangle. Step four: use the cosine rule, and give the obtuse angle if the question asks.
+
+00:01:06.520 --> 00:01:14.265
+The trap is assuming the perpendicular meets the edge at its midpoint. Check it first, using equal sides or areas.
+
+00:01:15.400 --> 00:01:31.274
+January twenty twenty two. Figure two shows a cube with sides ten centimetres. Find, to the nearest degree, the obtuse angle between the plane B F H and the plane B H C. Five marks.
+
+00:01:31.840 --> 00:01:36.857
+Step one: the two planes meet along the line B H. That is the common edge.
+
+00:01:37.440 --> 00:01:49.428
+Step two: triangle B F H has three sides of ten root two. It is equilateral, so the perpendicular from F meets B H at its midpoint M. F M is five root six.
+
+00:01:50.000 --> 00:02:02.584
+Step three: triangle B H C is right-angled at C, with B C and H C both ten. The perpendicular from C meets B H at the same midpoint M. C M is five root two.
+
+00:02:03.160 --> 00:02:11.298
+Step four: the angle between the planes is angle F M C. The third side F C is the space diagonal of the cube, ten root three.
+
+00:02:11.880 --> 00:02:20.117
+Step five: the cosine rule gives cosine F M C as minus one over root three. The angle is one hundred and twenty five degrees.
+
+00:02:20.680 --> 00:02:34.783
+A tempting slip is a sign error. Plus one over root three gives fifty five degrees, the acute angle. But the question asks for the obtuse angle. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:35.920 --> 00:02:51.502
+A common mistake is using lengths from the corner B instead of perpendiculars to B H. The sides ten root two, ten and ten root three give cosine nought, so ninety degrees. That is not the angle between the planes.
+
+00:02:52.640 --> 00:03:06.171
+Now you try, from June twenty nineteen. Find the obtuse angle between the plane V A B and the plane V A D, to one decimal place. Write your answer, then choose Continue to Answer.
+
+00:03:07.280 --> 00:03:22.498
+Angle A V C is ninety degrees and V A equals V C, so V A is sixteen. The faces are equilateral. X is the midpoint of V A, so D X and B X are eight root three. B D is sixteen root two.
+
+00:03:23.080 --> 00:03:31.029
+The cosine rule in triangle B X D gives minus a third. The obtuse angle is one hundred and nine point five degrees.
+
+00:03:31.600 --> 00:03:38.092
+The common wrong answer is seventy point five degrees. That is the acute angle, from a sign slip.
+
+00:03:38.680 --> 00:03:43.153
+Remember: common edge, a perpendicular in each face, then the cosine rule.

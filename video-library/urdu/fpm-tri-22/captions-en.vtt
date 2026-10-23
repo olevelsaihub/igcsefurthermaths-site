@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.427
+Five plus five is the same as two times five. One is a sum, because things are added. The other is a product, because things are multiplied. Trigonometry has the same trick, and it works in both directions.
+
+00:00:16.000 --> 00:00:25.481
+On the left of the second line, two cosines are added. On the right, two cosines are multiplied. So a sum of cosines has become a product of cosines.
+
+00:00:26.040 --> 00:00:40.433
+These identities come from page two. Write the formula for cosine of A plus B, and for cosine of A minus B. Add them. The sine terms cancel, and two cosine A cosine B is left.
+
+00:00:41.000 --> 00:00:47.672
+So the question says show that, or hence show that. Write the expansions, add or subtract, and then choose the angles.
+
+00:00:48.800 --> 00:00:58.920
+Step one: write the formulae for A plus B and A minus B. Step two: add or subtract so that the unwanted terms cancel.
+
+00:00:59.480 --> 00:01:13.688
+Step three: match your angles. Choose A and B directly, or set P equal to A plus B, and Q equal to A minus B. Then solve for A and B. Step four: substitute and simplify.
+
+00:01:14.240 --> 00:01:18.847
+The trap is forgetting to halve. P plus Q is two A, not A.
+
+00:01:19.960 --> 00:01:41.029
+November twenty twenty. Part a showed that cosine of A plus B, plus cosine of A minus B, equals two cosine A cosine B. Hence show that cosine P plus cosine Q equals two cosine of P plus Q over two, times cosine of P minus Q over two. Three marks.
+
+00:01:41.600 --> 00:01:54.013
+Step one: match the angles. The two angles on the left are A plus B and A minus B. Call them P and Q. So P is A plus B, and Q is A minus B.
+
+00:01:54.600 --> 00:02:04.020
+Step two: find A. Add the two equations. P plus Q is two A. So A is P plus Q, over two.
+
+00:02:04.600 --> 00:02:13.859
+Step three: find B. Subtract. P minus Q is two B. So B is P minus Q, over two.
+
+00:02:14.440 --> 00:02:23.948
+Step four: put A and B into two cosine A cosine B. The left side is cosine P plus cosine Q. That is the printed result.
+
+00:02:24.520 --> 00:02:38.129
+A tempting route forgets to halve, so A is P plus Q. Try P as sixty degrees and Q as nought. The left side is one and a half. The wrong version gives one half.
+
+00:02:38.680 --> 00:02:48.518
+So state P and Q, find A and B, substitute, and finish on the printed result. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:49.640 --> 00:03:00.709
+A common slip is the sign in cosine of A minus B. It is plus, not minus. With A as sixty and B as thirty, the wrong sign gives nought.
+
+00:03:01.840 --> 00:03:12.209
+Now you try, from June twenty twenty two. This time a product becomes a sum. Write your answer, then choose Continue to Answer.
+
+00:03:13.320 --> 00:03:31.199
+Write the two sine formulae. Sine of A plus B has plus cosine A sine B. Sine of A minus B has minus cosine A sine B. Add them. Those terms cancel, leaving two sine A cosine B.
+
+00:03:31.760 --> 00:03:44.125
+Now match the angles. The product has sine of four x and cosine of x. So A is four x and B is x. A plus B is five x, and A minus B is three x.
+
+00:03:44.680 --> 00:03:57.022
+A common wrong choice swaps A and B. Then A minus B is minus three x, and sine of minus three x is minus sine three x. That gives a different result.
+
+00:03:57.600 --> 00:04:04.238
+Remember: write the expansions, add or subtract, choose the angles, and halve when you solve for them.

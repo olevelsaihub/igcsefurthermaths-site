@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:17.241
+A friend can be called fourteen, or one year younger than fifteen. Same person, two descriptions. An identity is an equation that is true for every value of x, even when the two sides look different. Show that means prove it.
+
+00:00:17.800 --> 00:00:30.940
+A double angle formula writes a trig function of two x using only x. Sine two x is two sine x cosine x. Cosine two x has three forms. Choose the one that helps.
+
+00:00:31.520 --> 00:00:41.551
+An addition formula splits a compound angle, such as A plus B, into separate angles. They are on the formulae page, so you must know when to use them.
+
+00:00:42.120 --> 00:00:52.590
+This question type gives an expression and the form it must become. Start at one side, use the formulae, and finish exactly on the printed result.
+
+00:00:53.720 --> 00:01:08.378
+Step one: start from the more complicated side. It is easier to simplify than to build up. Step two: multiply out brackets, then replace squares and products with double angle terms.
+
+00:01:08.960 --> 00:01:18.796
+Step three: tidy with sine squared plus cosine squared equals one. Step four: collect like terms until you reach the printed form.
+
+00:01:19.360 --> 00:01:27.393
+The trap: a proof that changes both sides at once is not a proof. Work on one side only, and end on the other.
+
+00:01:28.520 --> 00:01:51.208
+June twenty twenty three. From part A, cosine squared A and sine squared A are given by double angle formulae. Part B: show that two sine x minus cosine x, times, sine x minus three cosine x, equals a half, times, cosine two x minus seven sine two x plus five. Five marks.
+
+00:01:51.760 --> 00:02:05.444
+Start with the product and multiply out. Two sine squared x, then minus six and minus one sine x cosine x, then plus three cosine squared x. The two cross terms combine to minus seven.
+
+00:02:06.000 --> 00:02:21.929
+Now replace each part. Two sine squared x is one minus cosine two x. Three cosine squared x is three over two, times, one plus cosine two x. Seven sine x cosine x is seven over two sine two x.
+
+00:02:22.480 --> 00:02:33.530
+Collect like terms. The numbers give five over two. The cosine two x terms give one half. Then take out a half.
+
+00:02:34.120 --> 00:02:44.804
+A tempting wrong route is to stop after multiplying out. That leaves sine squared and sine x cosine x, but the printed answer has double angles only.
+
+00:02:45.360 --> 00:02:52.723
+So the left side equals the right side, as required. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:53.840 --> 00:03:06.560
+A common mistake is swapping the two square formulae. Sine squared gets a plus, cosine squared gets a minus, and the cosine two x term ends with the wrong sign.
+
+00:03:07.680 --> 00:03:26.898
+Now you try, from June twenty nineteen. From part A, cosine two A equals two cosine squared A minus one. Show that cosine four A equals eight cosine to the four A, minus eight cosine squared A, plus one. Write your answer, then choose Continue to Answer.
+
+00:03:28.000 --> 00:03:37.842
+Write four A as two times two A. The formula, with two A in place of A, gives cosine four A equals two cosine squared two A, minus one.
+
+00:03:38.400 --> 00:03:46.865
+Now replace cosine two A by two cosine squared A minus one. Square the bracket, multiply by two, and subtract one.
+
+00:03:47.440 --> 00:03:58.711
+The most common error is squaring badly. The bracket squared is not four cosine to the four A plus one. The middle term, minus four cosine squared A, is lost.
+
+00:03:59.280 --> 00:04:06.677
+Remember: start on one side, replace with double angles, collect like terms, and end on the printed form.

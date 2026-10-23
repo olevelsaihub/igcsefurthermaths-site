@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.607
+Walk over a hill. At the very top, for a moment, the path is level. It is not going up or down. On a curve, a point like that is called a stationary point, and the gradient there is zero.
+
+00:00:15.160 --> 00:00:27.325
+The gradient is d y by d x. So to find stationary points, set d y by d x equal to nought and solve for x. Then put each x into the curve to get y.
+
+00:00:27.880 --> 00:00:38.031
+For a fraction, there is a shortcut. A fraction equals zero only when its top is zero. So after the quotient rule, set the numerator equal to nought.
+
+00:00:38.600 --> 00:00:47.435
+So these questions say use calculus to find the stationary points. Give the full coordinates, both x and y, for every stationary point.
+
+00:00:48.560 --> 00:01:03.806
+Step one: differentiate. Step two: set d y by d x to nought. For a fraction, set only the numerator to nought, because a fraction is zero only when its top is zero.
+
+00:01:04.360 --> 00:01:14.280
+Step three: solve for every x. A square gives two answers, plus and minus. Missing one root loses a whole point.
+
+00:01:14.840 --> 00:01:22.700
+Step four: put each x into the original curve for y. Never into d y by d x, which just gives nought again.
+
+00:01:23.800 --> 00:01:38.654
+A real question from June twenty twenty one. The curve is y equals x over x squared plus four. Using calculus, find the coordinates of the stationary points. Five marks.
+
+00:01:39.240 --> 00:01:52.029
+Step one: differentiate with the quotient rule. u is x, with derivative one. v is x squared plus four, with derivative two x. The top simplifies to four minus x squared.
+
+00:01:52.600 --> 00:02:04.621
+Step two: set d y by d x to nought. A fraction is zero when its top is zero, so four minus x squared equals nought. The bottom is never zero.
+
+00:02:05.200 --> 00:02:16.298
+Step three: x squared equals four gives x equals plus or minus two. A tempting wrong route is to take only x equals two. That misses a whole stationary point.
+
+00:02:16.880 --> 00:02:29.416
+Step four: put each x into the curve. At x equals two, y is two over eight, a quarter. At x equals minus two, y is minus two over eight, minus a quarter.
+
+00:02:30.000 --> 00:02:40.693
+Here is the curve with both points. The top is at two, a quarter. The bottom is at minus two, minus a quarter. This matches the working.
+
+00:02:41.280 --> 00:02:51.393
+The exam answer: the stationary points are two, a quarter and minus two, minus a quarter. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:52.520 --> 00:03:04.403
+A common mistake is putting the x values into d y by d x to find y. That just gives nought. The y value comes from the curve.
+
+00:03:05.520 --> 00:03:23.826
+Now you try, from November twenty twenty. The curve is y equals x cubed minus three x squared minus twenty four x plus six. Use calculus to find the coordinates of each stationary point. Write your answer, then choose Continue to Answer.
+
+00:03:24.960 --> 00:03:41.546
+Differentiate: three x squared minus six x minus twenty four. Set it to nought and take out the common factor three: x squared minus two x minus eight. That factorises to x minus four, times x plus two.
+
+00:03:42.120 --> 00:03:55.493
+Put each x into the curve. At four: sixty four, minus forty eight, minus ninety six, plus six, is minus seventy four. At minus two: minus eight, minus twelve, plus forty eight, plus six, is thirty four.
+
+00:03:56.080 --> 00:04:09.350
+The most common wrong answer puts the x values into d y by d x, which gives nought, or stops at the x values. Both lose the y marks. Always write full coordinates.
+
+00:04:09.920 --> 00:04:15.743
+Remember: differentiate, set to zero, solve for every root, then find y from the curve.

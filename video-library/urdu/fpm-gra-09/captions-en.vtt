@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:16.688
+Doubling and halving undo each other. So do L N and e to the power. The natural log, L N, asks: what power of e gives this number? So L N y equals k means y equals e to the k.
+
+00:00:17.240 --> 00:00:28.025
+The log of a product is a sum, and the log of a power brings the power down. But there is no law for the log of a sum. You cannot split L N of, three minus x.
+
+00:00:28.600 --> 00:00:42.317
+The equation may look different from the plotted curve. Use the inverse, or a log law, until the curve appears on one side. The other side is the line. Read the x value where they meet.
+
+00:00:42.880 --> 00:00:52.414
+This question says: draw a straight line to estimate the root of a log or exponential equation. Rearrange, draw the line, and read x.
+
+00:00:53.520 --> 00:01:05.515
+Step one: compare the equation with the plotted curve. If the curve is e to the three x minus two, look for three x minus two beside a L N.
+
+00:01:06.080 --> 00:01:16.256
+Steps two and three: isolate the log term, then apply the inverse to the whole side, until the plotted curve stands alone. The other side is the line.
+
+00:01:16.840 --> 00:01:27.811
+Steps four and five: draw the line and read x to one decimal place. The trap is splitting a log of a sum. Leave L N of, three minus x, whole.
+
+00:01:28.920 --> 00:01:44.696
+June twenty twenty two. You have drawn y equals e to the three x minus two. Use a straight line to estimate the root of three x equals two plus L N of, three minus x. Three marks.
+
+00:01:45.280 --> 00:01:56.289
+Step one: spot the link. Subtract two from both sides. Now three x minus two equals L N of, three minus x, and the curve's power appears.
+
+00:01:56.840 --> 00:02:10.078
+Step two: undo the L N. Apply e to the power to both whole sides. The left is the plotted curve. The right is three minus x. That is the line.
+
+00:02:10.640 --> 00:02:21.048
+Step three: draw the line. At x equals nought, y is three. At nought point five, two point five. At one, two.
+
+00:02:21.600 --> 00:02:34.320
+Step four: read the crossing. At x equals nought point nine, the curve is below the line. At nought point nine five, it is above. So the crossing is near nought point nine one.
+
+00:02:34.880 --> 00:02:43.049
+A tempting wrong route is splitting the log: L N of, three minus x, as L N three minus L N x. There is no such law.
+
+00:02:43.600 --> 00:02:50.101
+So the root is about nought point nine. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:51.240 --> 00:03:00.973
+A common mistake is undoing only part of one side. Take e to the power of the whole side, three x minus two, not just three x.
+
+00:03:02.080 --> 00:03:20.398
+Now you try, from June twenty twenty two. You have drawn y equals one plus three e to the minus x. Use a straight line to estimate the root of x equals e to the minus x. Write your answer, then choose Continue to Answer.
+
+00:03:21.520 --> 00:03:37.286
+Multiply both sides by three. Then add one to both sides. The right becomes one plus three e to the minus x, the plotted curve. The left is three x plus one.
+
+00:03:37.840 --> 00:03:48.527
+Draw the line through nought, one and one, four. It crosses the curve near x equals nought point five seven. The root is nought point six.
+
+00:03:49.080 --> 00:03:58.688
+The most common wrong answer draws the line y equals x. That ignores the three and the one, so it does not match the drawn curve.
+
+00:03:59.240 --> 00:04:06.462
+Remember: spot the link, use the inverse on the whole side, rearrange to curve equals line, then read x.

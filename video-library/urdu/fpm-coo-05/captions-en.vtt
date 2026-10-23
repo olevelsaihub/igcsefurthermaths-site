@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.688
+Railway tracks never meet because they have the same steepness. Lines with the same gradient are parallel. A door meets its frame at a right angle. Lines at a right angle are perpendicular.
+
+00:00:16.240 --> 00:00:29.150
+For perpendicular lines, flip the gradient upside down and change its sign. That is the negative reciprocal. Two becomes minus one half. Multiply them to get minus one.
+
+00:00:29.720 --> 00:00:37.440
+Gradients come from two points, change in y over change in x, or from rearranging the equation to y equals m x plus c.
+
+00:00:38.000 --> 00:00:48.174
+These questions say show that two lines are perpendicular or parallel, or find an unknown so that they are. For an unknown, write the condition as an equation.
+
+00:00:49.280 --> 00:01:02.992
+Step one: find each gradient. Step two: for a proof, compare them if parallel, or multiply them if perpendicular. For an unknown, write the condition as an equation and solve.
+
+00:01:03.560 --> 00:01:17.652
+Step three: solve any unknown. Step four: reject any root that breaks a condition, and write a conclusion. The trap is the sign: the perpendicular to two is minus one half, not one half.
+
+00:01:18.760 --> 00:01:37.090
+November twenty twenty. P is four, seven. Q is three, nought. R is ten, one. S is eleven, eight. Show, by calculation, that the lines P R and Q S are perpendicular. Three marks.
+
+00:01:37.680 --> 00:01:50.211
+Step one: the gradient of P R. Y goes from seven to one, a change of minus six. X goes from four to ten, a change of six. So the gradient is minus six over six, which is minus one.
+
+00:01:50.800 --> 00:02:03.145
+Step two: the gradient of Q S. Y goes from nought to eight, a change of eight. X goes from three to eleven, a change of eight. So the gradient is eight over eight, which is one.
+
+00:02:03.720 --> 00:02:12.567
+Step three: multiply the gradients. Minus one times one is minus one. That is the test for perpendicular lines.
+
+00:02:13.120 --> 00:02:23.550
+Step four: the conclusion. Since the product of the gradients is minus one, P R and Q S are perpendicular. Without this sentence, the last mark is lost.
+
+00:02:24.120 --> 00:02:38.608
+A tempting wrong route is to say the gradients are equal in size, so the lines are parallel. That mixes up the tests. Parallel needs equal gradients. Perpendicular needs a product of minus one.
+
+00:02:39.160 --> 00:02:46.148
+So the lines P R and Q S are perpendicular. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:47.280 --> 00:03:00.727
+A common mistake is the sign. The perpendicular to a gradient of two is not one half. It is minus one half. Then the product is minus one.
+
+00:03:01.840 --> 00:03:24.009
+Now you try, from November twenty twenty one. A is minus three, minus five. B is seven, five. C is p, one, where p is negative. A C and B C are perpendicular. Prove that p is minus five. Write your answer, then choose Continue to Answer.
+
+00:03:25.120 --> 00:03:37.523
+The gradient of A C is six over p plus three. The gradient of B C is minus four over p minus seven. Multiply them and set the product equal to minus one.
+
+00:03:38.080 --> 00:03:49.574
+So the brackets multiply to twenty four. Expand and tidy: p squared, minus four p, minus forty five, equals zero. Factorise: p minus nine, times, p plus five.
+
+00:03:50.160 --> 00:04:01.053
+So p is nine or minus five. The question says p is negative, so reject nine. The most common wrong answer keeps both roots, and loses the final mark.
+
+00:04:01.640 --> 00:04:07.613
+Remember: gradients, the test, solve, reject any root that breaks a condition, and conclude.

@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.113
+Walk over a hill. Going up, the gradient is positive. At the top it is zero. Going down, it is negative. So at a hilltop the gradient is falling, from positive to zero to negative.
+
+00:00:15.680 --> 00:00:29.614
+The second derivative, d two y by d x squared, is the derivative of d y by d x. It tells you whether the gradient is increasing or decreasing. Positive means a minimum. Negative means a maximum.
+
+00:00:30.200 --> 00:00:44.194
+Try y equals x cubed minus three x. The second derivative is six x. At x equals one it is six, positive, so a minimum. At x equals minus one it is minus six, negative, so a maximum.
+
+00:00:44.760 --> 00:00:54.956
+So these questions say determine the nature of the stationary points. You say maximum or minimum, and justify it with the value or sign of the second derivative.
+
+00:00:56.080 --> 00:01:08.800
+Step one: find the second derivative, or use the one given in an earlier part. Step two: put each stationary x value into it. You need the sign at each point separately.
+
+00:01:09.360 --> 00:01:21.246
+Step three: read the sign. Negative is a maximum, positive is a minimum. The trap is swapping them. Remember: positive is a smile, so a minimum.
+
+00:01:21.800 --> 00:01:30.810
+Step four: write a conclusion for each point, quoting the value or sign as the reason. The accuracy mark needs both the word and the evidence.
+
+00:01:31.920 --> 00:01:47.529
+June twenty twenty one. The curve is y equals x over x squared plus four. Part b gives the second derivative. Hence determine the nature of each stationary point. Two marks.
+
+00:01:48.080 --> 00:02:00.989
+The stationary points are x equals two and minus two. Start with two. The top is two times two times four minus twelve, which is minus thirty two. The bottom is eight cubed, five hundred and twelve.
+
+00:02:01.560 --> 00:02:09.321
+The value is minus one sixteenth, which is negative. So the point two, a quarter, is a maximum, because the second derivative is negative.
+
+00:02:09.880 --> 00:02:21.710
+Now x equals minus two. The top is two times minus two times minus eight, which is thirty two. Over five hundred and twelve, that is plus one sixteenth. Positive, so a minimum.
+
+00:02:22.280 --> 00:02:33.841
+A tempting wrong route is to put x equals two into d y by d x. That gives nought, which only confirms the point is stationary. It cannot tell you the nature.
+
+00:02:34.400 --> 00:02:46.856
+Check with the graph. A top at x equals two, and a bottom at x equals minus two. It matches. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:47.960 --> 00:02:57.618
+A common mistake is swapping the rule, or writing maximum with no reason. You must quote the sign of the second derivative.
+
+00:02:58.720 --> 00:03:25.063
+Now you try, from June twenty twenty two. The curve y equals f of x passes through four, minus one hundred and four. f dash of x means the derivative. It is four x cubed minus twelve x squared minus nineteen x plus twelve. Show that the curve has a maximum where x is nought point five. Write your answer, then choose Continue to Answer.
+
+00:03:26.200 --> 00:03:42.917
+First show it is stationary. Put x equals nought point five into f dash of x. That gives nought point five, minus three, minus nine point five, plus twelve, which is nought. So the gradient is zero there.
+
+00:03:43.480 --> 00:04:00.382
+Differentiate again. f double dash of x, the second derivative, is twelve x squared minus twenty four x minus nineteen. At nought point five it is three, minus twelve, minus nineteen, which is minus twenty eight. Negative, so it is a maximum.
+
+00:04:00.960 --> 00:04:13.343
+The most common wrong answer skips the first check and only works out f double dash. Without showing f dash of nought point five is nought, the show that is not complete, so a mark is lost.
+
+00:04:13.920 --> 00:04:20.858
+Remember: second derivative, substitute each x, positive minimum, negative maximum, and give the reason.

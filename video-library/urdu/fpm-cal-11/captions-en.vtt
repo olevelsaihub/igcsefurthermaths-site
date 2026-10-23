@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.655
+As r changes, the metal in the can changes. Too thin and tall, it is big. Too wide and flat, it is big again. In between is a lowest point, where the gradient is zero.
+
+00:00:15.240 --> 00:00:27.435
+To differentiate one hundred and eighty pi over r, first rewrite it as one hundred and eighty pi times r to the minus one. The derivative of r to the minus one is minus r to the minus two.
+
+00:00:28.000 --> 00:00:39.717
+Justify means give the evidence. A zero gradient is not enough. The second derivative must be positive for a minimum, or negative for a maximum, and you must say so.
+
+00:00:40.280 --> 00:00:50.376
+So these questions give a formula in one letter. Find the value that makes it a maximum or minimum, justify it, and sometimes find the optimum value.
+
+00:00:51.480 --> 00:01:04.729
+Step one: rewrite with negative powers and differentiate. Step two: set it to zero and solve. Keep only sensible answers: a length is not negative.
+
+00:01:05.280 --> 00:01:15.944
+Step three: find the second derivative, put in the value, and state its sign. The trap is no justification: saying minimum alone loses marks.
+
+00:01:16.520 --> 00:01:24.432
+Step four: for the optimum value, put the unrounded r into the original formula. Rounding early can change the answer.
+
+00:01:25.560 --> 00:01:42.436
+January twenty twenty two. The cylinder's surface area is two pi r squared, plus one hundred and eighty pi over r. Given that r can vary, find r for which S is a minimum, and justify it. Five marks.
+
+00:01:43.000 --> 00:01:50.391
+Step one: differentiate. The derivative is four pi r, minus one hundred and eighty pi r to the minus two.
+
+00:01:50.960 --> 00:02:03.907
+A tempting wrong route is to differentiate one hundred and eighty pi over r as one hundred and eighty pi. That ignores the r. The correct derivative is minus one hundred and eighty pi over r squared.
+
+00:02:04.480 --> 00:02:16.330
+Step two: set to zero. Four pi r equals one hundred and eighty pi over r squared. Multiply by r squared, divide by four pi: r cubed is forty five.
+
+00:02:16.920 --> 00:02:24.974
+The cube root is three point five five six nine, which is three point five six to three significant figures. Keep the full value.
+
+00:02:25.560 --> 00:02:36.781
+Justify. The second derivative is four pi, plus three hundred and sixty pi over r cubed. With r cubed forty five, that is twelve pi. Positive, so a minimum.
+
+00:02:37.360 --> 00:02:48.423
+Exam answer: r is three point five six, and the second derivative twelve pi is positive, so S is a minimum. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:49.560 --> 00:03:02.393
+A common mistake is rounding r early. Using three point five six in later working can change the third significant figure. Keep the full value.
+
+00:03:03.520 --> 00:03:21.739
+Now you try, from June twenty twenty five. V is pi r times three hundred and fifty minus r squared. Given that r can vary, find r for which V is a maximum, and justify. Write your answer, then choose Continue to Answer.
+
+00:03:22.840 --> 00:03:37.832
+Expand: V is three hundred and fifty pi r, minus pi r cubed. The derivative is three hundred and fifty pi, minus three pi r squared. Set to zero: r squared is three hundred and fifty over three.
+
+00:03:38.400 --> 00:03:47.584
+So r is ten point eight. The second derivative is minus six pi r, about minus two hundred and four. Negative, so V is a maximum.
+
+00:03:48.160 --> 00:03:56.043
+The most common wrong answer states maximum with no second derivative. A bare statement loses the justification mark.
+
+00:03:56.600 --> 00:04:04.771
+Remember: differentiate, set to zero, solve, then the second derivative with its sign, and keep r unrounded.

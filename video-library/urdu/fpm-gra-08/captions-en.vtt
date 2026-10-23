@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.802
+A curve and a straight line meet where they cross. There they have the same x and the same y. So that x solves the equation curve equals line.
+
+00:00:13.360 --> 00:00:29.646
+You have drawn y equals x squared. To solve x squared minus x minus two equals nought, move terms until one side is exactly x squared. Then x squared equals x plus two. The other side is the line.
+
+00:00:30.200 --> 00:00:44.274
+A straight line needs two points, and a third is a safe check. Draw it with a ruler across the whole interval. Read the x values where it meets the curve. These are the roots, the solutions of the equation.
+
+00:00:44.840 --> 00:00:54.187
+This question says: by drawing a suitable straight line, estimate the roots. You rearrange, draw the line, and read the x values.
+
+00:00:55.320 --> 00:01:07.344
+Step one: write down the curve you plotted, y equals f of x. Step two: rearrange the new equation until f of x stands alone on one side.
+
+00:01:07.920 --> 00:01:17.542
+Step three: replace f of x by y. The other side is the line. Find two or three points and draw it across the whole interval.
+
+00:01:18.120 --> 00:01:27.749
+Steps four and five: read the x value of each crossing, to one decimal place. The trap is reading y values. The roots are x values.
+
+00:01:28.880 --> 00:01:46.497
+November twenty twenty one. You have drawn y equals two x, plus three over x squared, minus three. Use a straight line to estimate the roots of four x cubed, minus ten x squared, plus three, equals nought. Five marks.
+
+00:01:47.080 --> 00:01:58.113
+Step two: divide by x squared. Four x cubed gives four x. Ten x squared gives ten. The three becomes three over x squared.
+
+00:01:58.680 --> 00:02:11.073
+Still step two: add two x minus three to both sides. The left becomes the plotted curve. The right becomes seven minus two x. That is the line.
+
+00:02:11.640 --> 00:02:22.760
+Step three: draw the line. At x equals nought point five, y is six. At two, y is three. At three point five, y is nought.
+
+00:02:23.320 --> 00:02:31.814
+Step four: the line meets the curve twice, near x equals nought point six and two point four. Those are the roots.
+
+00:02:32.400 --> 00:02:40.095
+A tempting wrong route is reading the y values, about five point seven and two point three. The roots are x values.
+
+00:02:40.680 --> 00:02:48.543
+So the roots are about nought point six and two point four. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:49.680 --> 00:02:59.300
+A common mistake is dividing by x squared but leaving the three. The three becomes three over x squared, not plus three.
+
+00:03:00.440 --> 00:03:20.626
+Now you try, from January twenty twenty two. You have drawn y equals sine x, minus three cosine two x, minus nought point five. Find the line that gives the roots of f of x equals nought, and estimate them. Write your answer, then choose Continue to Answer.
+
+00:03:21.760 --> 00:03:38.881
+First use cosine two x equals one minus two sine squared x. The plotted curve becomes sine x, plus six sine squared x, minus three point five. Now f of x is nought. Divide by two.
+
+00:03:39.440 --> 00:03:52.806
+Subtract three point five from both sides. The left is the plotted curve. The right is x over two, minus one. That is the line, through nought, minus one and two, nought.
+
+00:03:53.360 --> 00:04:06.895
+The line crosses the curve near x equals nought point seven and two point four. The most common wrong answer skips the identity, so the left side never matches the curve and the line is wrong.
+
+00:04:07.480 --> 00:04:12.190
+Remember: name the curve, rearrange, draw the line, read the x values.

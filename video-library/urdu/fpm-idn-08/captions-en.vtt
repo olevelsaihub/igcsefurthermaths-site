@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:16.499
+Twelve divided by four leaves remainder nought. So four is a factor of twelve. Twelve divided by five leaves remainder two, so five is not. A factor divides exactly, with nothing left over.
+
+00:00:17.080 --> 00:00:29.163
+It works the same for an algebra expression called a polynomial, such as f of x. The factor theorem says: x minus a is a factor of f of x exactly when f of a equals zero.
+
+00:00:29.720 --> 00:00:41.802
+Which number do you put in? The one that makes the factor zero. For x plus two, put x equals minus two. For four x minus three, put x equals three quarters.
+
+00:00:42.360 --> 00:00:59.223
+Questions say: given that this is a factor, show that the constant equals a number. Show that means the answer is printed, and your working must lead to it. Substitute, then reach the printed result. Then write a conclusion.
+
+00:01:00.360 --> 00:01:11.642
+Step one: set the factor equal to zero and solve for x. Step two: substitute that value into f of x. Show every term.
+
+00:01:12.200 --> 00:01:26.327
+Step three: set the result equal to zero. Step four: simplify and solve. The trap is a wrong sign for x. For x minus four, use plus four, not minus four.
+
+00:01:26.880 --> 00:01:32.744
+Step five: write a conclusion. A show that answer is not complete without one.
+
+00:01:33.880 --> 00:01:49.276
+January twenty twenty. Given that x minus four is a factor of p x cubed, minus thirty one x squared, plus twenty five x, plus twelve, where p is a constant, show that p is six. Two marks.
+
+00:01:49.840 --> 00:01:53.367
+Step one: x minus four is a factor, so f of four is zero.
+
+00:01:53.920 --> 00:02:04.483
+Step two: substitute four, showing every term. p times four cubed, minus thirty one times four squared, plus twenty five times four, plus twelve, equals zero.
+
+00:02:05.040 --> 00:02:19.211
+Step three: simplify. Sixty four p, minus four hundred and ninety six, plus a hundred, plus twelve. That is sixty four p minus three hundred and eighty four, equals zero. So sixty four p is three hundred and eighty four, and p is six.
+
+00:02:19.800 --> 00:02:32.116
+A tempting wrong route is to use x equals minus four. Then the working gives minus sixty four p minus five hundred and eighty four. Solving gives p equals minus seventy three over eight, not six.
+
+00:02:32.680 --> 00:02:39.330
+So p equals six, as required. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:40.440 --> 00:02:55.876
+A common mistake is to substitute the printed answer. Sixty four times six minus three hundred and eighty four equals zero only checks the answer. The question says show that, so solve for p from sixty four p minus three hundred and eighty four.
+
+00:02:57.000 --> 00:03:08.744
+Now you try, from June twenty twenty one. Show that nine p plus q plus six equals zero. Write your answer, then choose Continue to Answer.
+
+00:03:09.880 --> 00:03:26.297
+Set x minus three to zero, so x is three. Then f of three is zero. Substitute three, showing every term: three cubed, plus p plus one times three squared, minus ten times three, plus q, equals zero.
+
+00:03:26.880 --> 00:03:38.717
+Simplify. Twenty seven, plus nine p plus nine, minus thirty, plus q, equals zero. Collect: nine p, plus q, plus six, equals zero. As required.
+
+00:03:39.280 --> 00:03:50.834
+The most common wrong answer substitutes x equals minus three. That gives nine p plus q plus twelve, so the printed result is never reached. Make the factor zero.
+
+00:03:51.400 --> 00:03:59.710
+Remember: set the factor to zero, substitute with every term, simplify to the printed result, and write the conclusion.

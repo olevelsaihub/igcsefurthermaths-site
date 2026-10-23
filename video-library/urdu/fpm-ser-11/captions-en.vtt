@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.117
+Put one pound in a jar, then double the amount each day. You add one, two, four, eight. The running total is one, three, seven, fifteen. The total of the first n terms is called S n.
+
+00:00:14.680 --> 00:00:33.191
+A formula saves adding every term. S n equals a times, r to the n minus one, all over r minus one. Use it when r is bigger than one. When r is less than one, use a times, one minus r to the n, all over one minus r.
+
+00:00:33.760 --> 00:00:44.649
+Sigma means add up. In sigma from k equals five to twenty, the first term is the value at k equals five. The number of terms is twenty minus five, plus one.
+
+00:00:45.200 --> 00:00:59.384
+These questions ask for the sum of a given number of terms. The answer may need surds. A surd is a root left exact, like root two. To rationalise means to clear the root from the bottom of a fraction.
+
+00:01:00.520 --> 00:01:09.540
+Step one: find a, r and n. For a sigma, n is the top minus the bottom, plus one.
+
+00:01:10.120 --> 00:01:20.736
+Step two: pick the formula by the size of r, and substitute. Step three: simplify the power of r. Then give the form asked.
+
+00:01:21.320 --> 00:01:26.513
+The trap is the number of terms. From five to twenty is sixteen terms, not fifteen.
+
+00:01:27.640 --> 00:01:43.880
+June twenty nineteen, paper two R. A geometric series has r positive. From an earlier part, r is root two and a is two. Find S twenty, in the form p times one plus root two. Four marks.
+
+00:01:44.440 --> 00:01:54.245
+Step one: a is two, r is root two, and n is twenty. R is bigger than one, so use a times r to the n minus one, over r minus one.
+
+00:01:54.800 --> 00:02:05.797
+Step two: root two squared is two, so root two to the twenty is two to the ten, which is one thousand and twenty four. The top is two times one thousand and twenty three, so two thousand and forty six.
+
+00:02:06.360 --> 00:02:17.432
+Step three: rationalise. Multiply top and bottom by root two plus one. Root two minus one, times root two plus one, is two minus one, which is one.
+
+00:02:18.000 --> 00:02:29.804
+Reject a tempting route. Root two to the twenty is not two to the twenty, which is over a million. It is two to the ten, one thousand and twenty four.
+
+00:02:30.360 --> 00:02:46.920
+Check: adding the twenty terms gives about four thousand nine hundred and thirty nine point five. So does two thousand and forty six times one plus root two. So p is two thousand and forty six. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:48.040 --> 00:02:59.422
+Another mistake is stopping before the form asked. Two thousand and forty six over root two minus one is correct, but the question wants p times one plus root two.
+
+00:03:00.560 --> 00:03:14.479
+Now you try, from June twenty twenty five. Find the value of the sum, from k equals six to seventeen, of three times two to the power k minus one. Write your answer, then choose Continue to Answer.
+
+00:03:15.600 --> 00:03:28.204
+The first term is at k equals six. Three times two to the five is ninety six. The ratio is two. The number of terms is seventeen minus six, plus one: twelve.
+
+00:03:28.760 --> 00:03:39.174
+Use the formula. Two to the twelve is four thousand and ninety six. Ninety six times four thousand and ninety five is three hundred and ninety three thousand, one hundred and twenty.
+
+00:03:39.760 --> 00:03:49.707
+The common wrong answer uses eleven terms, from seventeen minus six. That gives one hundred and ninety six thousand, five hundred and twelve. Count both ends.
+
+00:03:50.280 --> 00:03:57.400
+Remember the method. Find a, r and n, choose the formula, substitute, and give the form asked.

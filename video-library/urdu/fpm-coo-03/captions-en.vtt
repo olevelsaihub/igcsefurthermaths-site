@@ -1,0 +1,58 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.314
+A skate ramp is steep or gentle. We measure steepness with the gradient: the change in y divided by the change in x. Up three, across four, is a gradient of three quarters.
+
+00:00:13.880 --> 00:00:23.720
+A straight line is fixed by a gradient m and one point on it, x one, y one. Its equation is y minus y one equals m times, x minus x one.
+
+00:00:24.280 --> 00:00:34.543
+Questions often ask for the form a x plus b y plus c equals zero, with a, b and c whole numbers. So clear the fractions, then move every term to one side.
+
+00:00:35.120 --> 00:00:41.592
+So these questions give two points and ask for the equation of the line through them, often in that form.
+
+00:00:42.720 --> 00:00:58.078
+Step one: find the gradient, change in y over change in x. Use the same order of points on top and bottom. Step two: put the gradient and one point into y minus y one equals m, x minus x one.
+
+00:00:58.640 --> 00:01:12.938
+Step three: multiply out, clear fractions and rearrange into the form asked. Step four: put the other point in to check it gives zero. The trap is the sign when a coordinate is negative.
+
+00:01:14.040 --> 00:01:31.786
+June twenty twenty three. A is minus six, eight. B is twelve, two. Find an equation of the line through A and B in the form a x plus b y plus c equals zero, with a, b and c whole numbers. Three marks.
+
+00:01:32.360 --> 00:01:46.459
+Step one: the gradient. Y goes from eight to two, a change of minus six. X goes from minus six to twelve, a change of eighteen. So the gradient is minus six over eighteen, which is minus one third.
+
+00:01:47.040 --> 00:01:58.464
+Step two: use point A. Y minus eight equals minus one third, times, x plus six. Notice that x minus minus six becomes x plus six.
+
+00:01:59.040 --> 00:02:07.224
+Step three: multiply by three to clear the fraction. Three y minus twenty four equals minus x minus six.
+
+00:02:07.800 --> 00:02:15.823
+Now move everything to one side: x plus three y minus eighteen equals zero. So a is one, b is three and c is minus eighteen.
+
+00:02:16.400 --> 00:02:29.513
+Check with B: twelve, plus three times two, minus eighteen, is zero. A tempting wrong route turns the gradient upside down, to minus three. That line misses B, so the check catches it.
+
+00:02:30.080 --> 00:02:37.856
+So the line is x plus three y minus eighteen equals zero. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:38.960 --> 00:02:54.405
+A common mistake is mixing the order of the points. Two minus eight, over, minus six minus twelve, gives plus one third. The bottom must be twelve minus minus six. Keep the same order.
+
+00:02:55.520 --> 00:03:15.964
+Now you try, from January twenty twenty two. A is minus seven, minus one. B is three, four. Find an equation of the line through A and B in the form a x plus b y plus c equals zero, with whole numbers. Write your answer, then choose Continue to Answer.
+
+00:03:17.080 --> 00:03:25.557
+The gradient is four minus minus one, over, three minus minus seven. That is five over ten, which is one half.
+
+00:03:26.120 --> 00:03:40.109
+Use point A. Y plus one equals one half, times, x plus seven. Multiply by two: two y plus two equals x plus seven. Move to one side: x minus two y plus five equals zero.
+
+00:03:40.680 --> 00:03:53.047
+The most common wrong answer writes x minus seven instead of x plus seven. That line is x minus two y minus nine equals zero. Put A in, and you do not get zero, so the check shows the slip.
+
+00:03:53.600 --> 00:04:00.322
+Remember: gradient with the same order, equation with one point, clear fractions, rearrange, and check.

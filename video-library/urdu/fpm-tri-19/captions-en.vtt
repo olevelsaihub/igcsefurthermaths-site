@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.104
+Pour juice into a cone-shaped paper cup. As the juice rises, its surface gets wider. So the radius and the height of the juice are linked by the shape of the cone.
+
+00:00:12.680 --> 00:00:26.270
+The vertical angle is the angle at the tip. Cut the cone in half, and the angle is halved. In this right-angled triangle, r is h tan of the half-angle. For sixty degrees, the half-angle is thirty, so r is h over root three.
+
+00:00:26.840 --> 00:00:40.689
+A cone has volume a third pi r squared h. A pyramid is a third of base area times height. A prism is cross-section area times length. Put r in terms of h, so the volume has only h in it.
+
+00:00:41.240 --> 00:00:50.624
+Liquid filling at a constant rate from empty has volume rate times time. This type asks you to use trigonometry to write the volume in one letter, then solve.
+
+00:00:51.760 --> 00:01:00.231
+Step one: draw the right-angled cross-section and use trig to write one length using the other. Step two: put it into the volume formula.
+
+00:01:00.800 --> 00:01:09.704
+Step three: simplify, or set the volume equal to rate times time. Step four: rearrange for the unknown, such as h.
+
+00:01:10.280 --> 00:01:13.730
+The trap is using the full vertical angle instead of half of it.
+
+00:01:14.840 --> 00:01:35.589
+November twenty twenty five. A cone with its tip at the bottom has vertical angle sixty degrees. It starts empty, and liquid flows in at nought point two cubic centimetres per second. Show that h is the cube root of nine t over five pi. Five marks.
+
+00:01:36.160 --> 00:01:43.230
+Here is the cone. The liquid surface is a circle of radius r, at height h above the tip. The half-angle is thirty degrees.
+
+00:01:43.800 --> 00:01:52.018
+Step two: r over h is tan thirty. So r is h over root three, and r squared is h squared over three.
+
+00:01:52.600 --> 00:02:01.741
+Step three: the volume of the liquid is a third pi r squared h. Replace r squared. That gives pi h cubed over nine.
+
+00:02:02.320 --> 00:02:10.995
+Step four: the liquid fills at nought point two per second from empty. So V is nought point two t, which is t over five.
+
+00:02:11.560 --> 00:02:25.518
+Step five: put the two volumes equal. Pi h cubed over nine equals t over five. So h cubed is nine t over five pi. Take the cube root. That is the printed result.
+
+00:02:26.080 --> 00:02:39.098
+A tempting route uses the full angle, sixty degrees. Then r is root three h, and the volume is pi h cubed. That gives the cube root of t over five pi, with no nine. That is wrong.
+
+00:02:39.680 --> 00:02:47.506
+So h is the cube root of nine t over five pi, as required. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:48.640 --> 00:03:02.323
+A common mistake is forgetting the one third in the volume formula. Then V is pi h cubed over three, and h cubed is three t over five pi. That is not the printed result.
+
+00:03:03.440 --> 00:03:13.633
+Now you try, from June twenty twenty four. Use the volume to find x. Write your answer, then choose Continue to Answer.
+
+00:03:14.760 --> 00:03:31.054
+The base is a rectangle, two x by x, so its area is two x squared. The height is root five over two, times x. The volume is a third, times two x squared, times that height. That is root five over three, times x cubed.
+
+00:03:31.640 --> 00:03:41.587
+Set it equal to nine root five. Divide both sides by root five, then multiply by three. x cubed is twenty seven, so x is three.
+
+00:03:42.160 --> 00:03:53.288
+The common wrong answer forgets the one third. Then root five x cubed is nine root five, so x cubed is nine, and x is two point zero eight. That is too small.
+
+00:03:53.840 --> 00:03:59.813
+Remember: link the lengths with trig, write the volume in one letter, then equate and solve.

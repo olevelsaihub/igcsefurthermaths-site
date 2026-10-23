@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.463
+Think of a spill on the floor. It spreads in a circle that grows every second. A rate of change says how fast something grows in one second. Here the area and the radius both grow.
+
+00:00:16.040 --> 00:00:29.167
+We write a rate with a small d. D A by d t means how fast the area changes as time goes by. D A by d r means how fast the area changes as the radius changes.
+
+00:00:29.720 --> 00:00:37.369
+Rates link like gears. The chain rule says d A by d t equals d A by d r, times d r by d t.
+
+00:00:37.920 --> 00:00:44.510
+We also need a formula joining the two quantities. For a circle, the area A is pi r squared.
+
+00:00:45.080 --> 00:00:51.356
+These questions give one rate and ask for another at an instant, which means one exact moment.
+
+00:00:52.480 --> 00:01:02.354
+Step one: write a formula using one letter, like A equals pi r squared. Step two: differentiate it with respect to that letter.
+
+00:01:02.920 --> 00:01:11.552
+Step three: write the chain rule, and rearrange it for the rate you want. Step four: find the size at the instant, then substitute it.
+
+00:01:12.120 --> 00:01:22.403
+The trap is putting numbers in too early. A plain number has no rate of change, so the working collapses. Formula first, numbers last.
+
+00:01:23.520 --> 00:01:42.950
+June twenty nineteen. Oil leaks and forms a circular pool. Its area is increasing at eight square centimetres per second. Find the rate the radius is increasing when the area is fifty square centimetres, to three significant figures. Six marks.
+
+00:01:43.520 --> 00:01:50.443
+Step one: the formula and its derivative. The area is pi r squared, so d A by d r is two pi r.
+
+00:01:51.000 --> 00:01:56.420
+Step two: the chain rule. Eight equals two pi r times d r by d t.
+
+00:01:57.000 --> 00:02:05.592
+Step three: find r. Do not use fifty as the radius, because fifty is the area. Solve pi r squared equals fifty.
+
+00:02:06.160 --> 00:02:13.901
+Step four: substitute r. Eight over two pi times three point nine nine gives nought point three one nine.
+
+00:02:14.480 --> 00:02:23.342
+So the radius is increasing at nought point three one nine centimetres per second. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:24.480 --> 00:02:35.164
+A common mistake is to multiply when you should divide. To get d r by d t, divide d A by d t by d A by d r.
+
+00:02:36.280 --> 00:02:55.266
+Now you try, from November twenty twenty three. Oil pours in at twelve cubic centimetres per second, and V is three h cubed. Find the exact rate the height is increasing when V is fifteen hundred and thirty six. Write your answer, then choose Continue to Answer.
+
+00:02:56.400 --> 00:03:07.444
+Differentiate: d V by d h is nine h squared. Three h cubed is fifteen thirty six, so h cubed is five twelve and h is eight.
+
+00:03:08.000 --> 00:03:17.916
+Chain rule: twelve equals nine times sixty four, times d h by d t. So d h by d t is twelve over five seventy six, which is one forty eighth.
+
+00:03:18.480 --> 00:03:26.943
+The common wrong answer multiplies: twelve times five seventy six is six thousand nine hundred and twelve. Far too big, so it loses the mark.
+
+00:03:27.520 --> 00:03:32.383
+Remember: formula, differentiate, chain rule, then substitute at the instant.

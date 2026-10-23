@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:18.417
+Multiply out one plus x, cubed, and it stops. But the square root of one plus x never stops. A binomial expansion rewrites a bracket to a power as a sum of powers of x. Ascending means smallest power first.
+
+00:00:19.000 --> 00:00:32.934
+Here is the formula. One plus X, to the n, is one, plus n X, plus n times n minus one over two factorial, times X squared, and so on. Three factorial is three times two times one, which is six.
+
+00:00:33.520 --> 00:00:46.740
+Rewrite roots and fractions as powers. The root of one minus four x is one minus four x, to the power a half. One over one plus three x, squared, is one plus three x, to the minus two.
+
+00:00:47.320 --> 00:00:57.103
+X is the whole second term, with its sign and number. For one minus four x, X is minus four x. So X squared is sixteen x squared.
+
+00:00:57.680 --> 00:01:04.053
+So you get a root, fraction or negative power, and expand up to a stated power of x, term by term.
+
+00:01:05.160 --> 00:01:16.080
+Step one: write one plus something, to a power. Step two: find n and X. The formula only works when the bracket starts with one.
+
+00:01:16.640 --> 00:01:24.751
+Step three: write each term with X in brackets. Step four: simplify each coefficient, watching the signs.
+
+00:01:25.320 --> 00:01:31.348
+The trap is squaring only the x. Minus four x, squared, is sixteen x squared.
+
+00:01:32.480 --> 00:01:46.849
+January twenty twenty. Expand the square root of one minus four x in ascending powers of x, up to and including the x cubed term. Each coefficient is an integer. Three marks.
+
+00:01:47.400 --> 00:01:57.652
+Step one: rewrite as a power. The root is one minus four x, to the power one half. So n is a half, and X is minus four x.
+
+00:01:58.240 --> 00:02:09.780
+Step two: write the terms with brackets. The coefficients use a half, minus a half, and minus three halves. The last is divided by six.
+
+00:02:10.360 --> 00:02:24.079
+Step three: simplify. A half times minus four x is minus two x. Minus one eighth times sixteen is minus two. One sixteenth times minus sixty four is minus four.
+
+00:02:24.640 --> 00:02:34.786
+A tempting wrong route squares only the x. That gives plus a half x squared, which is wrong. The correct term is minus two x squared.
+
+00:02:35.360 --> 00:02:53.136
+So the expansion is one, minus two x, minus two x squared, minus four x cubed. A quick check: x equal to nought point nought one gives about nought point nine eight, the same as the root of nought point nine six. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:54.240 --> 00:03:05.623
+A common mistake is a sign slip. Do not guess the pattern. Work each sign out term by term, from n minus one, n minus two, and from X.
+
+00:03:06.760 --> 00:03:25.854
+Now you try, from November twenty twenty. Expand one plus p x, to the power minus five, in ascending powers of x, up to the term in x to the fourth. Simplest form. Three marks. Write your answer, then choose Continue to Answer.
+
+00:03:26.960 --> 00:03:36.084
+Here n is minus five, and X is p x. The coefficients are one, minus five, fifteen, minus thirty five, and seventy.
+
+00:03:36.640 --> 00:03:48.479
+Now raise p x to each power. The terms are one, minus five p x, plus fifteen p squared x squared, minus thirty five p cubed x cubed, plus seventy p to the fourth x to the fourth.
+
+00:03:49.040 --> 00:03:56.180
+The common wrong answer squares only the x, giving fifteen p x squared. The p needs the same power.
+
+00:03:56.760 --> 00:04:03.556
+Remember: write a power, find n and X, use the formula with brackets, then simplify every term.

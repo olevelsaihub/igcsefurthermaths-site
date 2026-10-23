@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.814
+A farmer's field is a triangle. The furthest point east is always a corner. The field is the region R. Each point gets a score from an expression P.
+
+00:00:13.400 --> 00:00:25.186
+Why a corner? An expression like P equals two x minus five y changes steadily, with no bump in the middle. So its greatest and least values sit at corners.
+
+00:00:25.760 --> 00:00:34.558
+To find a corner, solve two boundary lines together. These are simultaneous equations. The corner makes both true.
+
+00:00:35.120 --> 00:00:42.080
+The question says find the greatest, or least, value of P. The answer is a value of P, not a corner.
+
+00:00:43.200 --> 00:00:51.962
+Step one: find the corners of R. Step two: solve the two line equations at each corner.
+
+00:00:52.520 --> 00:01:02.546
+Step three: put each corner into P and compare. If x and y must be whole numbers, test whole number points near the best corner.
+
+00:01:03.120 --> 00:01:07.712
+Step four: state the value of P. The trap is giving the corner instead.
+
+00:01:08.840 --> 00:01:23.059
+June twenty twenty three. R is defined by three inequalities. P equals two x minus five y. Find the least value of P. Three marks.
+
+00:01:23.640 --> 00:01:30.264
+Here is R. It has three corners, A, B and C. The least P is at one of them.
+
+00:01:30.840 --> 00:01:48.076
+Corner A is lines one and two. Four times, two x plus five, equals x minus eight, so x is minus four and y is minus three. Corner B is lines one and three. Thirteen x is five, so x is five over thirteen, and y is seventy five over thirteen.
+
+00:01:48.640 --> 00:01:58.250
+Corner C is lines two and three. Seventeen x is one hundred and sixty. So x is one hundred and sixty over seventeen, and y is six over seventeen.
+
+00:01:58.840 --> 00:02:08.858
+Substitute into P. At A, P is seven. At B, P is minus three hundred and sixty five over thirteen. At C, P is two hundred and ninety over seventeen.
+
+00:02:09.440 --> 00:02:18.908
+A tempting wrong route is corner A, because it has the smallest x. But P depends on y too, and seven is more than minus three hundred and sixty five over thirteen.
+
+00:02:19.480 --> 00:02:28.993
+The least value of P is minus three hundred and sixty five over thirteen, about minus twenty eight point one. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:30.120 --> 00:02:38.770
+A common mistake is to give the corner. Corner B is a point. The question asks for a value of P.
+
+00:02:39.880 --> 00:02:57.624
+Now you try, from June twenty twenty five. Part b shaded R for these three inequalities. P equals two x minus y. Find the least value of P. Write your answer, then choose Continue to Answer.
+
+00:02:58.760 --> 00:03:14.629
+Lines one and three: nine x is eighteen, so x is two and y is six. Lines two and three: ten x is six, so x is three fifths and y is nine fifths. Lines one and two meet at six, nought.
+
+00:03:15.200 --> 00:03:27.979
+Substitute into P. At two, six: minus two. At three fifths, nine fifths: minus three fifths. At six, nought: twelve. The least is minus two.
+
+00:03:28.560 --> 00:03:38.323
+The common wrong answer gives the corner, two, six, instead of the value minus two. Another wrong answer is minus three fifths. It is bigger than minus two, so it is not the least.
+
+00:03:38.880 --> 00:03:45.177
+Remember: find every corner, put each into P, compare, and state the value of P.

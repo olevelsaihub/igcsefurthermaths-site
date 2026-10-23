@@ -1,0 +1,67 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.113
+Imagine walking up a hill and down into a valley. Up counts as plus, down counts as minus. They can cancel, even after a long walk. Integrals behave the same way.
+
+00:00:14.680 --> 00:00:22.250
+Above the x-axis, the integral is positive and equals the area. Sine x from nought to pi gives plus two.
+
+00:00:22.840 --> 00:00:32.954
+Below the axis, the integral is negative. Sine x from pi to two pi gives minus two. But area is a size, so it is plus two.
+
+00:00:33.520 --> 00:00:43.478
+Integrate straight across and plus two and minus two cancel to nought. But the true area is four. So split at each crossing point.
+
+00:00:44.040 --> 00:00:53.203
+These questions ask for the area between a curve and the x-axis. You find where the curve crosses the axis, then work section by section.
+
+00:00:54.320 --> 00:01:04.190
+Step one: find where the curve crosses the x-axis by solving y equals nought. Step two: integrate each section separately.
+
+00:01:04.760 --> 00:01:12.583
+Step three: take the size of any negative answer. Step four: add the areas, and give the answer in the form asked.
+
+00:01:13.160 --> 00:01:21.243
+The trap is one big integral across a crossing point. The parts cancel, and the answer is too small.
+
+00:01:22.360 --> 00:01:38.935
+November twenty twenty one. The curve C is y equals a half plus sine three x. It crosses the x-axis at M and N. Find the total shaded area, to three significant figures. Four marks.
+
+00:01:39.520 --> 00:01:53.874
+Here is Figure four, redrawn. The curve starts above the x-axis, crosses it at M, dips below, and comes back up to cross at N. So part of the shaded region is above the axis, and part is below.
+
+00:01:54.440 --> 00:02:08.895
+Step one: find N. Sine three x is minus a half, so three x is seven pi over six or eleven pi over six. That gives M at seven pi over eighteen, and N at eleven pi over eighteen.
+
+00:02:09.480 --> 00:02:19.404
+Step two: integrate. A half integrates to x over two. Sine three x integrates to minus cosine three x over three.
+
+00:02:19.960 --> 00:02:28.795
+Step three: above the axis, nought to seven pi over eighteen. Upper limit minus lower limit gives one point two three three.
+
+00:02:29.360 --> 00:02:42.331
+Step four: below the axis. The result is pi over nine minus root three over three, which is minus nought point two two eight three. It is negative, so the area is nought point two two eight three.
+
+00:02:42.920 --> 00:02:56.416
+A tempting route is one integral from nought to eleven pi over eighteen. The parts cancel and give one point zero zero four six. Wrong. Add the sizes: one point four six.
+
+00:02:57.000 --> 00:03:05.351
+So the total area is one point four six, to three significant figures. This explanation is by olevels dot com, not an official mark scheme.
+
+00:03:06.480 --> 00:03:16.713
+A common mistake is a sign slip. Sine three x integrates to minus a third cosine three x, not plus.
+
+00:03:17.840 --> 00:03:32.921
+Now you try, from January twenty twenty two. The curve C is y equals nine minus x squared. Find the area of the finite region bounded by C and the x-axis. Write your answer, then choose Continue to Answer.
+
+00:03:34.040 --> 00:03:45.311
+Crossing points: nine minus x squared is nought, so x is minus three or three. No part is below the axis, so one integral is enough.
+
+00:03:45.880 --> 00:03:58.258
+Integrate: nine x minus x cubed over three. Upper limit: eighteen. Lower limit: minus eighteen. Eighteen minus minus eighteen is thirty six.
+
+00:03:58.840 --> 00:04:07.178
+The common wrong answer uses limits nought and three and gets eighteen: only half the region. Use both crossing points.
+
+00:04:07.760 --> 00:04:12.770
+Remember: find the crossings, integrate each section, take sizes, then add.

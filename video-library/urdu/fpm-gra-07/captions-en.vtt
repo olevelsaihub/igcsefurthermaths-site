@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.692
+A letter is a number we do not know yet. A clue is a fact the question gives you. I think of a number, double it, add three, and get eleven. Work backwards: the number is four.
+
+00:00:16.280 --> 00:00:33.175
+A rational curve is a fraction with x on the top and bottom. A vertical asymptote is a line the curve never touches. The bottom is zero there. If the asymptote is x equals minus four, x plus r is zero at minus four, so r is four.
+
+00:00:33.760 --> 00:00:47.642
+There are four kinds of clue. A horizontal asymptote means the ratio of the x coefficients. A y axis crossing means put x equals nought. An x axis crossing means the top is zero.
+
+00:00:48.200 --> 00:00:56.338
+This question gives a curve with letters, and some clues. Find the letters. Turn each clue into an equation and solve.
+
+00:00:57.440 --> 00:01:08.822
+Step one: list every asymptote and crossing given. Step two: the vertical asymptote makes the denominator zero at that x.
+
+00:01:09.400 --> 00:01:19.310
+Step three: the horizontal asymptote is the top x coefficient over the bottom one. An intercept gives another equation: put in the given point.
+
+00:01:19.880 --> 00:01:33.275
+Steps four and five: use any prime or integer condition, write the equation, and check. The trap is a sign slip. If the asymptote is x equals minus four, the bottom is x plus four.
+
+00:01:34.400 --> 00:01:56.057
+June twenty twenty five. C is y equals five x minus two, over, a x plus b. Its vertical asymptote is x equals minus four thirds. It crosses the y axis at nought, minus a quarter. Show that b is eight, then find a. Three marks.
+
+00:01:56.640 --> 00:02:08.825
+Step one: list the clues. The asymptote means the bottom is zero at x equals minus four thirds. The y crossing means x is nought and y is minus a quarter.
+
+00:02:09.400 --> 00:02:19.623
+Step two: put x equals nought. The top is minus two, the bottom is b. Minus two over b equals minus a quarter, so b is eight, as required.
+
+00:02:20.200 --> 00:02:30.545
+Step three: the bottom, a x plus eight, is zero at x equals minus four thirds. So minus four a over three, plus eight, is nought. a is six.
+
+00:02:31.120 --> 00:02:41.714
+A tempting wrong route is writing b over a as minus four thirds. That gives a equals minus six. But the asymptote is minus b over a, so a is six.
+
+00:02:42.280 --> 00:02:53.348
+Check the final equation. At x equals nought, y is minus two over eight, which is minus a quarter. And the bottom is zero at x equals minus four thirds.
+
+00:02:53.920 --> 00:03:00.246
+So b is eight, shown, and a is six. This explanation is by olevels dot com, not an official mark scheme.
+
+00:03:01.360 --> 00:03:14.518
+A common mistake is dropping the minus sign from the given y value. Minus two over b equals plus a quarter gives b equals minus eight. Keep the sign the question gives.
+
+00:03:15.640 --> 00:03:34.121
+Now you try, from January twenty twenty three. The curve is y equals a x plus three, over, one minus two x. Its horizontal asymptote is y equals four. Find a. Write your answer, then choose Continue to Answer.
+
+00:03:35.240 --> 00:03:49.931
+The horizontal asymptote is the top x coefficient over the bottom one. The top has a. The bottom, one minus two x, has x coefficient minus two. So a over minus two is four.
+
+00:03:50.520 --> 00:04:00.560
+Multiply both sides by minus two. a is minus eight. Check: for huge x, minus eight x over minus two x is four.
+
+00:04:01.120 --> 00:04:09.844
+The most common wrong answer ignores the sign and uses two. Then a is eight. The bottom's x coefficient is minus two.
+
+00:04:10.400 --> 00:04:15.748
+Remember: list the clues, turn each into an equation, solve, and check.

@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.700
+Imagine saving the same pocket money each week. A list that goes up by a fixed step is an arithmetic series. The fixed step is the common difference.
+
+00:00:12.280 --> 00:00:27.149
+Here the terms are logarithms. L N four is the power of e that gives four. Two laws help. L N of a b is L N a plus L N b. L N of a to the k is k L N a.
+
+00:00:27.720 --> 00:00:37.680
+The big idea: treat L N two like an ordinary number. Then L N a plus n minus one times L N b has first term L N a and common difference L N b.
+
+00:00:38.240 --> 00:00:45.597
+Be careful. L N of a plus b is not L N a plus L N b. The law needs a product.
+
+00:00:46.160 --> 00:00:55.545
+So you get a series made of logs. Find its first term and difference, use a series formula, then use log laws to reach the form asked.
+
+00:00:56.680 --> 00:01:11.075
+Step one: find the first term, u one, and the common difference, d. Step two: use the formula for S n, the sum of the first n terms. It works for any numbers, logs included.
+
+00:01:11.640 --> 00:01:22.107
+Step three: simplify with log laws into the form asked. Step four: for unknowns, write equations, solve, and turn logs back into numbers.
+
+00:01:22.680 --> 00:01:28.638
+The trap is the answer form. If the question wants L N two, change L N four into two L N two.
+
+00:01:29.760 --> 00:01:48.515
+June twenty twenty one. The nth term is u n, equal to n plus one, times L N four. The sum of the first n terms is S n. Show that S n is L N of two to the power n squared plus a n, and find the integer a. Five marks.
+
+00:01:49.080 --> 00:01:57.816
+Step one: n equal to one gives two L N four. n equal to two gives three L N four. The common difference is L N four.
+
+00:01:58.400 --> 00:02:11.624
+A tempting wrong route puts the bracket inside the log. But the bracket multiplies L N four. Check n equal to one: two L N four is L N sixteen, not L N eight.
+
+00:02:12.200 --> 00:02:22.836
+Step two: S n is n over two, times two a plus n minus one d. Put in the first term and difference. The bracket becomes n plus three, times L N four.
+
+00:02:23.400 --> 00:02:32.216
+Step three: L N four is two L N two. The two cancels the half, leaving n squared plus three n, times L N two.
+
+00:02:32.800 --> 00:02:47.998
+Step four: a multiplier goes back inside as a power. So S n is L N of two to the n squared plus three n. That matches, and a is three. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:49.120 --> 00:03:01.727
+A common mistake is the first term. Use n equal to one, not nought. Nought gives first term L N four, and then a equals one, which is wrong.
+
+00:03:02.840 --> 00:03:19.234
+Now you try, from November twenty twenty. Given u two is L N twelve and u five is L N seven hundred and sixty eight, find a and b. Seven marks. Write your answer, then choose Continue to Answer.
+
+00:03:20.360 --> 00:03:33.668
+Two gives L N a b equals L N twelve, so a b is twelve. Five gives L N a plus four L N b, which is L N of a b to the fourth. So a b to the fourth is seven hundred and sixty eight.
+
+00:03:34.240 --> 00:03:45.264
+Divide the second by the first. b cubed is sixty four, so b is four. Then a is three. Check: three times four to the fourth is seven hundred and sixty eight.
+
+00:03:45.840 --> 00:03:55.274
+The common wrong answer subtracts inside the log, giving L N seven hundred and fifty six. Subtracting logs means dividing, which gives sixty four.
+
+00:03:55.840 --> 00:03:59.285
+Remember: terms, formula, log laws, then numbers.

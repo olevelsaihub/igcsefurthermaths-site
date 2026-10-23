@@ -1,0 +1,61 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.401
+A football pitch is a hundred metres by sixty. Its area is the flat space inside it, in square metres. For a rectangle, that is length times width.
+
+00:00:11.960 --> 00:00:26.349
+Cut a rectangle along its diagonal and you get two triangles. So the area of a triangle is a half times base times height. The height must be perpendicular to the base. Perpendicular means at a right angle.
+
+00:00:26.920 --> 00:00:43.460
+A vertex is a corner. Each is given as an address, x across and y up. When no side is horizontal or vertical, use the shoelace method. Multiply across, subtract, add round the shape, then halve.
+
+00:00:44.040 --> 00:00:55.075
+This question gives you the vertices and asks for the area of a triangle or quadrilateral. A quadrilateral has four straight sides. Choose a method and work out the area.
+
+00:00:56.200 --> 00:01:10.787
+Step one: list the corners in order round the shape. Step two: choose a method. A right angle or a horizontal side makes base times height easy. Otherwise use the shoelace method.
+
+00:01:11.360 --> 00:01:19.117
+Step three: if you need a length, use the distance formula. Step four: calculate and give the area.
+
+00:01:19.680 --> 00:01:26.637
+The trap is the half. Base times height gives the rectangle. A triangle needs half of it.
+
+00:01:27.760 --> 00:01:42.504
+November twenty twenty. The points P, Q, R and S have coordinates four, seven; three, nought; ten, one; and eleven, eight. Find the area of the quadrilateral PQRS. Two marks.
+
+00:01:43.080 --> 00:01:51.015
+First, a quick picture. Go from P to Q to R to S and back to P. The corners are already in order round the shape.
+
+00:01:51.600 --> 00:02:04.451
+Step two: no side is horizontal or vertical, so use the shoelace method. Four times nought, minus three times seven, is minus twenty one. Three times one, minus ten times nought, is three.
+
+00:02:05.040 --> 00:02:16.765
+Ten times eight, minus eleven times one, is sixty nine. Eleven times seven, minus four times eight, is forty five. The total is ninety six. Half of ninety six is forty eight.
+
+00:02:17.320 --> 00:02:29.117
+A tempting wrong route is to multiply two sides, PQ times QR. Both are root fifty, so that gives fifty. But those sides are not at a right angle, so one is not the height.
+
+00:02:29.680 --> 00:02:41.405
+Here is a check. The diagonals PR and QS meet at right angles. PR is six root two, QS is eight root two. Half times those is forty eight again.
+
+00:02:41.960 --> 00:02:49.098
+So the area of PQRS is forty eight square units. This explanation is by olevels dot com, not an official mark scheme.
+
+00:02:50.200 --> 00:03:02.582
+A common mistake is the wrong order, so the lines cross. Using P, Q, S, R, the four terms add to zero. Always go round the shape.
+
+00:03:03.720 --> 00:03:24.414
+Now you try, from January twenty twenty two. A is one, seven. B is nine, three. The line l is the perpendicular bisector of AB, and crosses the x axis at C. Find the area of triangle ABC. Write your answer, then choose Continue to Answer.
+
+00:03:25.520 --> 00:03:41.314
+A perpendicular bisector passes through the midpoint at a right angle. The midpoint of AB is five, five. The gradient of AB is minus a half, so the gradient of l is two. The line l is y equals two x minus five.
+
+00:03:41.880 --> 00:03:57.732
+C is on the x axis, so y is nought, and x is two and a half. Shoelace gives minus sixty, minus seven and a half, and seventeen and a half. The total is minus fifty. Half its size is twenty five.
+
+00:03:58.320 --> 00:04:06.853
+The most common wrong answer leaves out the half and gives fifty. The triangle is half of that. Always halve.
+
+00:04:07.440 --> 00:04:14.500
+Remember: list the corners in order, choose a method, calculate with the half, and give the area with its units.
